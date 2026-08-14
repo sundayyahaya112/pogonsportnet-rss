@@ -1,0 +1,43 @@
+name: Generate RSS
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate RSS feed
+        run: python generate_feed.py
+
+      - name: Save RSS feed
+        run: |
+          git config user.name "RSS Bot"
+          git config user.email "rss-bot@users.noreply.github.com"
+
+          git add feed.xml
+
+          if git diff --cached --quiet; then
+            echo "RSS has not changed."
+          else
+            git commit -m "Update RSS feed"
+            git push
+          fi
