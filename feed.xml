@@ -7,11 +7,358 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 14 Oct 2026 05:14:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:26:01 +0000</lastBuildDate>
+    <item>
+      <title>Zmiany i nowości na PogonSportNet.pl</title>
+      <link>https://pogonsportnet.pl/aktualnosci/zmiany-i-nowosci-na-pogonsportnetpl/</link>
+      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/bbb09617-6c0e-4e31-bd81-5b7b36fbb563/wejsciowki-webp.webp" alt="Zmiany i nowości na PogonSportNet.pl" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;W ostatnich dniach sporo zmieniłem w serwisie. Odświeżyłem stronę główną, komentarze i tabele, ograniczyłem uciążliwość reklam i dodałem nowe działy: kadrę Pogoni, kolejkę Ekstraklasy z wynikami na żywo i rozbudowane relacje LIVE. Poniżej opisuję wszystkie zmiany po kolei.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Strona główna: mecze, najważniejsze teksty i wideo&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Moduły „Ostatni mecz” i „Następny mecz” mają nowy wygląd: herby i barwy obu drużyn, wynik, rozgrywki, datę i stadion. Przy najbliższym meczu odlicza się czas do pierwszego gwizdka. W trakcie relacji na żywo przy meczu pojawia się oznaczenie LIVE z odnośnikiem do relacji.&lt;/p&gt;
+&lt;p&gt;Nowa sekcja „Najważniejsze z ostatnich dni” pokazuje teksty, które czytaliście najchętniej w ostatnich trzech dniach, i aktualizuje się co godzinę. W sekcji „Ostatnie wideo i audio” są najnowsze materiały z naszego kanału PogonSportNet.pl TV na YouTube, a w bocznym pasku znajdziecie odnośnik do subskrypcji kanału.&lt;/p&gt;
+&lt;p&gt;Na kafelkach artykułów jest teraz wyraźna data, a przy najświeższych tekstach także godzina publikacji, oraz liczba komentarzy. Kafelki w jednym rzędzie mają równą wysokość.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Wygodniejsze komentarze&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Kolejne wątki w komentarzach są na przemian wyróżnione tłem, więc łatwiej odróżnić jedną dyskusję od drugiej. Przy odpowiedziach widać, do kogo są skierowane („odpowiedź do @nick”), dzięki czemu dłuższe wymiany zdań da się śledzić bez gubienia wątku.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Herby w tabelach i czytelniejszy terminarz&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;W tabelach Ekstraklasy przy nazwach drużyn pojawiły się herby klubów. Terminarz ma uporządkowane kolumny, więc gospodarze, wynik, goście i data zawsze są w tym samym miejscu.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Mniej uciążliwe reklamy&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Reklamy są dla nas źródłem utrzymania serwisu, ale nie mogą przeszkadzać w czytaniu, dlatego zmieniliśmy ich ustawienia:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jeśli reklama się nie załaduje, jej miejsce znika, bez pustych ramek i przerw w treści.&lt;/li&gt;
+&lt;li&gt;Reklamy nie wchodzą już do karuzel z artykułami.&lt;/li&gt;
+&lt;li&gt;Wkładki reklamowe w listach artykułów, komentarzach, galeriach, wideorelacjach i terminarzu są opisane i oddzielone od treści.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;strong&gt;Kadra Pogoni w jednym miejscu&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;W menu, między „Aktualnościami” a „Terminarzem”, jest nowa zakładka KADRA. Link do niej jest też w mapie strony w stopce. Każdy zawodnik ma kartę ze zdjęciem, numerem, pozycją i flagą kraju.&lt;/p&gt;
+&lt;p&gt;Na karcie widać:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;punkty w klasyfikacji „Piłkarz Sezonu PogonSportNet.pl” i miejsce w rankingu,&lt;/li&gt;
+&lt;li&gt;liczbę tytułów MVP,&lt;/li&gt;
+&lt;li&gt;gole i asysty, a przy bramkarzach czyste konta,&lt;/li&gt;
+&lt;li&gt;liczbę występów i rozegranych minut,&lt;/li&gt;
+&lt;li&gt;wykres „Forma”, czyli noty kibiców z ostatnich pięciu meczów.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Trzech najlepszych w klasyfikacji pokazujemy na podium na górze strony. Listę można zawęzić do wybranej formacji i posortować. Kliknięcie w kartę otwiera profil zawodnika z podstawowymi danymi, występami w Ekstraklasie i Pucharze Polski oraz zestawieniem „Mecz po meczu”: Waszą notą i punktami zdobytymi w każdym spotkaniu. W kadrze jest też sztab szkoleniowy, z linkami do oficjalnych profili.&lt;/p&gt;
+&lt;p&gt;Punkty w klasyfikacji przyznajemy po każdym meczu na podstawie ocen kibiców. MVP to zawodnik z najwyższą notą w danym spotkaniu. Gole, asysty i czyste konta pochodzą z ekstraklasa.org, a występy i minuty z 90minut.pl. Dane odświeżają się automatycznie.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Kolejka Ekstraklasy na żywo&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;W bocznym pasku przy artykułach jest nowy moduł z meczami kolejki Ekstraklasy. W trakcie spotkań wyniki aktualizują się na bieżąco, a mecz Pogoni jest wyróżniony. Moduł pokazuje najbliższą albo trwającą kolejkę, a następną włącza dzień po ostatnim meczu. Strzałkami można przejrzeć wcześniejsze wyniki i terminarz kolejnych kolejek.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Relacje LIVE&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Relacje na żywo mają nową tablicę wyniku w barwach obu drużyn, a wydarzenia meczowe są oznaczone ikonami: gole, kartki, zmiany. Strona odświeża się sama. Teraz doszło do tego stałe miejsce na składy obu drużyn, z ikonkami przy zawodnikach, którzy strzelili gola, dostali kartkę albo zostali zmienieni. Pierwszy raz zobaczycie to przy sobotnim meczu z GKS-em Katowice.&lt;/p&gt;
+&lt;p&gt;Przy meczu z Koroną Kielce wystartowaliśmy też z transmisjami audio meczów Pogoni.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Co dalej&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;To nie koniec zmian. Jeśli coś nie działa tak, jak powinno, albo macie pomysł, co jeszcze warto dodać, napiszcie w komentarzach.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/bbb09617-6c0e-4e31-bd81-5b7b36fbb563/wejsciowki-webp.webp" alt="Zmiany i nowości na PogonSportNet.pl" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;W ostatnich dniach sporo zmieniłem w serwisie. Odświeżyłem stronę główną, komentarze i tabele, ograniczyłem uciążliwość reklam i dodałem nowe działy: kadrę Pogoni, kolejkę Ekstraklasy z wynikami na żywo i rozbudowane relacje LIVE. Poniżej opisuję wszystkie zmiany po kolei.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Strona główna: mecze, najważniejsze teksty i wideo&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Moduły „Ostatni mecz” i „Następny mecz” mają nowy wygląd: herby i barwy obu drużyn, wynik, rozgrywki, datę i stadion. Przy najbliższym meczu odlicza się czas do pierwszego gwizdka. W trakcie relacji na żywo przy meczu pojawia się oznaczenie LIVE z odnośnikiem do relacji.&lt;/p&gt;
+&lt;p&gt;Nowa sekcja „Najważniejsze z ostatnich dni” pokazuje teksty, które czytaliście najchętniej w ostatnich trzech dniach, i aktualizuje się co godzinę. W sekcji „Ostatnie wideo i audio” są najnowsze materiały z naszego kanału PogonSportNet.pl TV na YouTube, a w bocznym pasku znajdziecie odnośnik do subskrypcji kanału.&lt;/p&gt;
+&lt;p&gt;Na kafelkach artykułów jest teraz wyraźna data, a przy najświeższych tekstach także godzina publikacji, oraz liczba komentarzy. Kafelki w jednym rzędzie mają równą wysokość.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Wygodniejsze komentarze&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Kolejne wątki w komentarzach są na przemian wyróżnione tłem, więc łatwiej odróżnić jedną dyskusję od drugiej. Przy odpowiedziach widać, do kogo są skierowane („odpowiedź do @nick”), dzięki czemu dłuższe wymiany zdań da się śledzić bez gubienia wątku.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Herby w tabelach i czytelniejszy terminarz&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;W tabelach Ekstraklasy przy nazwach drużyn pojawiły się herby klubów. Terminarz ma uporządkowane kolumny, więc gospodarze, wynik, goście i data zawsze są w tym samym miejscu.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Mniej uciążliwe reklamy&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Reklamy są dla nas źródłem utrzymania serwisu, ale nie mogą przeszkadzać w czytaniu, dlatego zmieniliśmy ich ustawienia:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jeśli reklama się nie załaduje, jej miejsce znika, bez pustych ramek i przerw w treści.&lt;/li&gt;
+&lt;li&gt;Reklamy nie wchodzą już do karuzel z artykułami.&lt;/li&gt;
+&lt;li&gt;Wkładki reklamowe w listach artykułów, komentarzach, galeriach, wideorelacjach i terminarzu są opisane i oddzielone od treści.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;strong&gt;Kadra Pogoni w jednym miejscu&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;W menu, między „Aktualnościami” a „Terminarzem”, jest nowa zakładka KADRA. Link do niej jest też w mapie strony w stopce. Każdy zawodnik ma kartę ze zdjęciem, numerem, pozycją i flagą kraju.&lt;/p&gt;
+&lt;p&gt;Na karcie widać:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;punkty w klasyfikacji „Piłkarz Sezonu PogonSportNet.pl” i miejsce w rankingu,&lt;/li&gt;
+&lt;li&gt;liczbę tytułów MVP,&lt;/li&gt;
+&lt;li&gt;gole i asysty, a przy bramkarzach czyste konta,&lt;/li&gt;
+&lt;li&gt;liczbę występów i rozegranych minut,&lt;/li&gt;
+&lt;li&gt;wykres „Forma”, czyli noty kibiców z ostatnich pięciu meczów.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Trzech najlepszych w klasyfikacji pokazujemy na podium na górze strony. Listę można zawęzić do wybranej formacji i posortować. Kliknięcie w kartę otwiera profil zawodnika z podstawowymi danymi, występami w Ekstraklasie i Pucharze Polski oraz zestawieniem „Mecz po meczu”: Waszą notą i punktami zdobytymi w każdym spotkaniu. W kadrze jest też sztab szkoleniowy, z linkami do oficjalnych profili.&lt;/p&gt;
+&lt;p&gt;Punkty w klasyfikacji przyznajemy po każdym meczu na podstawie ocen kibiców. MVP to zawodnik z najwyższą notą w danym spotkaniu. Gole, asysty i czyste konta pochodzą z ekstraklasa.org, a występy i minuty z 90minut.pl. Dane odświeżają się automatycznie.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Kolejka Ekstraklasy na żywo&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;W bocznym pasku przy artykułach jest nowy moduł z meczami kolejki Ekstraklasy. W trakcie spotkań wyniki aktualizują się na bieżąco, a mecz Pogoni jest wyróżniony. Moduł pokazuje najbliższą albo trwającą kolejkę, a następną włącza dzień po ostatnim meczu. Strzałkami można przejrzeć wcześniejsze wyniki i terminarz kolejnych kolejek.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Relacje LIVE&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Relacje na żywo mają nową tablicę wyniku w barwach obu drużyn, a wydarzenia meczowe są oznaczone ikonami: gole, kartki, zmiany. Strona odświeża się sama. Teraz doszło do tego stałe miejsce na składy obu drużyn, z ikonkami przy zawodnikach, którzy strzelili gola, dostali kartkę albo zostali zmienieni. Pierwszy raz zobaczycie to przy sobotnim meczu z GKS-em Katowice.&lt;/p&gt;
+&lt;p&gt;Przy meczu z Koroną Kielce wystartowaliśmy też z transmisjami audio meczów Pogoni.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Co dalej&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;To nie koniec zmian. Jeśli coś nie działa tak, jak powinno, albo macie pomysł, co jeszcze warto dodać, napiszcie w komentarzach.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content:encoded>
+      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/zmiany-i-nowosci-na-pogonsportnetpl/</guid>
+      <enclosure url="https://pogonsportnet.pl/storage/bbb09617-6c0e-4e31-bd81-5b7b36fbb563/wejsciowki-webp.webp" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 14 Oct 2026 09:51:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Przypomnij sobie ostatnie mecze z GKS-em Katowice [WIDEO]</title>
+      <link>https://pogonsportnet.pl/aktualnosci/przypomnij-sobie-ostatnie-mecze-z-gks-em-katowice-wideo/</link>
+      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Przypomnij sobie ostatnie mecze z GKS-em Katowice [WIDEO]" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;Przed nami sobotni mecz z GKS-em Katowice. Jak wyglądały ostatnie pojedynki tych drużyn? Zapraszamy na serię skrótów.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2009/2010 - I liga (1.08.2009): Pogoń - GKS Katowice 3:0&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2009/2010 - I liga (7.11.2009): GKS Katowice - Pogoń 2:2&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2010/2011 - I liga (18.11.2010): Pogoń - GKS Katowice 3:4&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2010/2011 - I liga (11.06.2011): GKS Katowice - Pogoń 1:2&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2011/2012 - I liga (12.10.2011): GKS Katowice - Pogoń 0:2&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2011/2012 - I liga (12.05.2012): Pogoń - GKS Katowice 1:0&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2024/2025 - 10. kolejka: GKS Katowice - Pogoń 3:1&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2024/2025 - 27. kolejka: Pogoń - GKS Katowice 4:0&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2025/2026 - 17. kolejka: GKS Katowice - Pogoń 2:0&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2025/2026 - 34. kolejka: Pogoń - GKS Katowice 1:1&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Przypomnij sobie ostatnie mecze z GKS-em Katowice [WIDEO]" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;Przed nami sobotni mecz z GKS-em Katowice. Jak wyglądały ostatnie pojedynki tych drużyn? Zapraszamy na serię skrótów.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2009/2010 - I liga (1.08.2009): Pogoń - GKS Katowice 3:0&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2009/2010 - I liga (7.11.2009): GKS Katowice - Pogoń 2:2&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2010/2011 - I liga (18.11.2010): Pogoń - GKS Katowice 3:4&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2010/2011 - I liga (11.06.2011): GKS Katowice - Pogoń 1:2&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2011/2012 - I liga (12.10.2011): GKS Katowice - Pogoń 0:2&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2011/2012 - I liga (12.05.2012): Pogoń - GKS Katowice 1:0&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2024/2025 - 10. kolejka: GKS Katowice - Pogoń 3:1&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2024/2025 - 27. kolejka: Pogoń - GKS Katowice 4:0&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2025/2026 - 17. kolejka: GKS Katowice - Pogoń 2:0&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;2025/2026 - 34. kolejka: Pogoń - GKS Katowice 1:1&lt;/strong&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content:encoded>
+      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/przypomnij-sobie-ostatnie-mecze-z-gks-em-katowice-wideo/</guid>
+      <enclosure url="https://pogonsportnet.pl/img/og_image.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 14 Oct 2026 08:45:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>6:0 i 7:2. Najwyższe zwycięstwa Pogoni nad GKS-em</title>
+      <link>https://pogonsportnet.pl/aktualnosci/60-i-72-najwyzsze-zwyciestwa-pogoni-nad-gks-em/</link>
+      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/c9ec957f-b3ae-4b72-8544-cda3ecb8fabd/1988-jpg.webp" alt="6:0 i 7:2. Najwyższe zwycięstwa Pogoni nad GKS-em" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;W historii meczów z GKS-em Pogoń ma na koncie kilka bardzo wysokich zwycięstw. Najlepsze lata to połowa lat 80.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Najwyższe zwycięstwo Pogoń odniosła 23 kwietnia 1983 roku, gdy pokonała GKS w Szczecinie 6:0. W tamtym okresie Portowcy wygrali z Katowicami cztery mecze z rzędu, co do dziś jest najdłuższą serią zwycięstw w tej rywalizacji. W kwietniu 1987 roku Pogoń wygrała 7:2, a w listopadzie 1985 roku przegrała w Katowicach 4:5. To dwa mecze z największą liczbą goli w historii tej rywalizacji.&lt;/p&gt;
+&lt;p&gt;Najlepszym strzelcem Pogoni w meczach z GKS-em jest Marek Leśniak, który strzelił sześć goli. Cztery gole ma Kazimierz Sokołowski, a po trzy m.in. Roman Jakóbczak, Leszek Wolski, Jarosław Biernat, Marek Ostrowski i Robert Dymkowski. Z obecnych czasów trzy gole strzelił Efthymios Koulouris, w tym dwa w wygranym 4:0 meczu w kwietniu 2025 roku.&lt;/p&gt;
+&lt;p&gt;Najwyższe porażki Pogoni to 0:3 w Katowicach w latach 1969 i 1970.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/c9ec957f-b3ae-4b72-8544-cda3ecb8fabd/1988-jpg.webp" alt="6:0 i 7:2. Najwyższe zwycięstwa Pogoni nad GKS-em" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;W historii meczów z GKS-em Pogoń ma na koncie kilka bardzo wysokich zwycięstw. Najlepsze lata to połowa lat 80.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Najwyższe zwycięstwo Pogoń odniosła 23 kwietnia 1983 roku, gdy pokonała GKS w Szczecinie 6:0. W tamtym okresie Portowcy wygrali z Katowicami cztery mecze z rzędu, co do dziś jest najdłuższą serią zwycięstw w tej rywalizacji. W kwietniu 1987 roku Pogoń wygrała 7:2, a w listopadzie 1985 roku przegrała w Katowicach 4:5. To dwa mecze z największą liczbą goli w historii tej rywalizacji.&lt;/p&gt;
+&lt;p&gt;Najlepszym strzelcem Pogoni w meczach z GKS-em jest Marek Leśniak, który strzelił sześć goli. Cztery gole ma Kazimierz Sokołowski, a po trzy m.in. Roman Jakóbczak, Leszek Wolski, Jarosław Biernat, Marek Ostrowski i Robert Dymkowski. Z obecnych czasów trzy gole strzelił Efthymios Koulouris, w tym dwa w wygranym 4:0 meczu w kwietniu 2025 roku.&lt;/p&gt;
+&lt;p&gt;Najwyższe porażki Pogoni to 0:3 w Katowicach w latach 1969 i 1970.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content:encoded>
+      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/60-i-72-najwyzsze-zwyciestwa-pogoni-nad-gks-em/</guid>
+      <enclosure url="https://pogonsportnet.pl/storage/c9ec957f-b3ae-4b72-8544-cda3ecb8fabd/1988-jpg.webp" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 14 Oct 2026 08:35:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Wychowankowie Pogoni po drugiej stronie</title>
+      <link>https://pogonsportnet.pl/aktualnosci/wychowankowie-pogoni-po-drugiej-stronie/</link>
+      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/da850ce2-2aba-4911-8719-d479c75033b2/marcel-jpg.webp" alt="Wychowankowie Pogoni po drugiej stronie" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;W GKS-ie Katowice grają dwaj zawodnicy, którzy przeszli przez Akademię Pogoni.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Marcel Wędrychowski był w Akademii Pogoni od dziecka gdy trafił do niej ze Stali Szczecin, a w pierwszej drużynie grał w latach 2018–2025. Najwięcej grał w sezonach 2022/23 (21 meczów, gol) i 2023/24 (18 meczów, gol). Do Katowic przeszedł w 2025 roku. W pierwszym sezonie w GKS-ie strzelił gola Pogoni.&lt;/p&gt;
+&lt;img src="https://www.gkskatowice.eu/media/news/20876/68b5b79360f0c-68b83976a7e25.jpg"/&gt;
+&lt;p&gt;Kacper Łukasiak też przeszedł przez wszystkie grupy wiekowe Akademii i rezerwy Pogoni. W sezonie 2024/25 rozegrał w pierwszej drużynie 30 meczów i strzelił dwa gole, w tym jednego Koronie Kielce. Potem przeszedł do GKS-u.&lt;/p&gt;
+&lt;p&gt;Obaj grali już przeciwko Pogoni w poprzednim sezonie. W sobotę mogą zagrać przeciwko swojemu byłemu klubowi po raz kolejny.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/da850ce2-2aba-4911-8719-d479c75033b2/marcel-jpg.webp" alt="Wychowankowie Pogoni po drugiej stronie" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;W GKS-ie Katowice grają dwaj zawodnicy, którzy przeszli przez Akademię Pogoni.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Marcel Wędrychowski był w Akademii Pogoni od dziecka gdy trafił do niej ze Stali Szczecin, a w pierwszej drużynie grał w latach 2018–2025. Najwięcej grał w sezonach 2022/23 (21 meczów, gol) i 2023/24 (18 meczów, gol). Do Katowic przeszedł w 2025 roku. W pierwszym sezonie w GKS-ie strzelił gola Pogoni.&lt;/p&gt;
+&lt;img src="https://www.gkskatowice.eu/media/news/20876/68b5b79360f0c-68b83976a7e25.jpg"/&gt;
+&lt;p&gt;Kacper Łukasiak też przeszedł przez wszystkie grupy wiekowe Akademii i rezerwy Pogoni. W sezonie 2024/25 rozegrał w pierwszej drużynie 30 meczów i strzelił dwa gole, w tym jednego Koronie Kielce. Potem przeszedł do GKS-u.&lt;/p&gt;
+&lt;p&gt;Obaj grali już przeciwko Pogoni w poprzednim sezonie. W sobotę mogą zagrać przeciwko swojemu byłemu klubowi po raz kolejny.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content:encoded>
+      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/wychowankowie-pogoni-po-drugiej-stronie/</guid>
+      <enclosure url="https://pogonsportnet.pl/storage/da850ce2-2aba-4911-8719-d479c75033b2/marcel-jpg.webp" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 14 Oct 2026 08:21:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>#KartkaZKalendarza: 14 października 2016. Setny mecz Fojuta i zwycięstwo z mistrzem Polski</title>
+      <link>https://pogonsportnet.pl/aktualnosci/kartkazkalendarza-14-pazdziernika-2016-setny-mecz-fojuta-i-zwyciestwo-z-mistrzem-polski/</link>
+      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/fcff6ed2-42bf-4494-90dd-2c7008228414/2016-jpg.webp" alt="#KartkaZKalendarza: 14 października 2016. Setny mecz Fojuta i zwycięstwo z mistrzem Polski" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;Dokładnie 10 lat temu, 14 października 2016 roku, Pogoń Szczecin pokonała Legię Warszawa 3:2. Dla Jarosława Fojuta był to setny mecz w Ekstraklasie, a obrońca Portowców uczcił go asystą przy pierwszym golu.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Legia przed Realem&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Mecz 12. kolejki ówczesnej Lotto Ekstraklasy odbył się w piątkowy wieczór przy Twardowskiego. Legia przyjechała do Szczecina jako mistrz Polski i uczestnik fazy grupowej Ligi Mistrzów. Kilka dni później grała na Santiago Bernabéu z Realem Madryt. Drużynę prowadził Jacek Magiera, a w składzie byli m.in. Arkadiusz Malarz, Bartosz Bereszyński, Vadis Odjidja-Ofoe, Thibault Moulin, Miroslav Radović i Nemanja Nikolić.&lt;/p&gt;
+&lt;p&gt;Pogoń trenera Kazimierza Moskala nie wygrała przez cztery wcześniejsze kolejki.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Długie podanie Fojuta&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Portowcy objęli prowadzenie już w 7. minucie. Fojut, który słynął z tego, że po treningach ćwiczył długie, diagonalne podania, zagrał piłkę w pole karne. Jakub Rzeźniczak zachował się niefrasobliwie i Adam Frączczak dał Pogoni prowadzenie.&lt;/p&gt;
+&lt;p&gt;W 24. minucie wyrównał Miroslav Radović po podaniu Odjidji-Ofoe. Przed przerwą Pogoń znów wyszła na prowadzenie. Rzeźniczak sfaulował w polu karnym Mateusza Matrasa, a Frączczak w 40. minucie wykorzystał rzut karny.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Murawski na 3:1, nerwowa końcówka&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Po przerwie Malarz obronił strzał Adama Gyurcsó w sytuacji sam na sam, a Spas Delew trafił tuż obok słupka. W 72. minucie na 3:1 podwyższył Rafał Murawski. Dwie minuty później Radović strzelił swojego drugiego gola po rzucie rożnym, ale Pogoń utrzymała prowadzenie do końca.&lt;/p&gt;
+&lt;p&gt;Legia miała 64 procent posiadania piłki, ale oddała tylko jeden celny strzał na bramkę Dawida Kudły, nie licząc goli. Przegrała w lidze kolejny raz w sezonie i po tej kolejce spadła w tabeli za Pogoń.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Skład Pogoni:&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Kudła – Rapa, Fojut, Rudol, Nunes – Delew (76. Lewandowski), Matras (84. Piotrowski), Murawski, Drygas, Gyurcsó – Frączczak (88. Zwoliński).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gole:&lt;/strong&gt; Frączczak 7., 40. (k), Murawski 72. – Radović 24., 74.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sędzia:&lt;/strong&gt; Mariusz Złotek. &lt;strong&gt;Widzów:&lt;/strong&gt; 9 328.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Jubileusz Fojuta&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Fojut, który wcześniej grał w Ekstraklasie m.in. w Śląsku Wrocław, był w tamtym czasie jednym z liderów obrony Pogoni. Swój setny występ w najwyższej lidze zakończył zwycięstwem nad mistrzem Polski i asystą. Dekadę później w kadrze Pogoni jest jego syn, Antoni Fojut.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/fcff6ed2-42bf-4494-90dd-2c7008228414/2016-jpg.webp" alt="#KartkaZKalendarza: 14 października 2016. Setny mecz Fojuta i zwycięstwo z mistrzem Polski" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;Dokładnie 10 lat temu, 14 października 2016 roku, Pogoń Szczecin pokonała Legię Warszawa 3:2. Dla Jarosława Fojuta był to setny mecz w Ekstraklasie, a obrońca Portowców uczcił go asystą przy pierwszym golu.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Legia przed Realem&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Mecz 12. kolejki ówczesnej Lotto Ekstraklasy odbył się w piątkowy wieczór przy Twardowskiego. Legia przyjechała do Szczecina jako mistrz Polski i uczestnik fazy grupowej Ligi Mistrzów. Kilka dni później grała na Santiago Bernabéu z Realem Madryt. Drużynę prowadził Jacek Magiera, a w składzie byli m.in. Arkadiusz Malarz, Bartosz Bereszyński, Vadis Odjidja-Ofoe, Thibault Moulin, Miroslav Radović i Nemanja Nikolić.&lt;/p&gt;
+&lt;p&gt;Pogoń trenera Kazimierza Moskala nie wygrała przez cztery wcześniejsze kolejki.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Długie podanie Fojuta&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Portowcy objęli prowadzenie już w 7. minucie. Fojut, który słynął z tego, że po treningach ćwiczył długie, diagonalne podania, zagrał piłkę w pole karne. Jakub Rzeźniczak zachował się niefrasobliwie i Adam Frączczak dał Pogoni prowadzenie.&lt;/p&gt;
+&lt;p&gt;W 24. minucie wyrównał Miroslav Radović po podaniu Odjidji-Ofoe. Przed przerwą Pogoń znów wyszła na prowadzenie. Rzeźniczak sfaulował w polu karnym Mateusza Matrasa, a Frączczak w 40. minucie wykorzystał rzut karny.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Murawski na 3:1, nerwowa końcówka&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Po przerwie Malarz obronił strzał Adama Gyurcsó w sytuacji sam na sam, a Spas Delew trafił tuż obok słupka. W 72. minucie na 3:1 podwyższył Rafał Murawski. Dwie minuty później Radović strzelił swojego drugiego gola po rzucie rożnym, ale Pogoń utrzymała prowadzenie do końca.&lt;/p&gt;
+&lt;p&gt;Legia miała 64 procent posiadania piłki, ale oddała tylko jeden celny strzał na bramkę Dawida Kudły, nie licząc goli. Przegrała w lidze kolejny raz w sezonie i po tej kolejce spadła w tabeli za Pogoń.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Skład Pogoni:&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Kudła – Rapa, Fojut, Rudol, Nunes – Delew (76. Lewandowski), Matras (84. Piotrowski), Murawski, Drygas, Gyurcsó – Frączczak (88. Zwoliński).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gole:&lt;/strong&gt; Frączczak 7., 40. (k), Murawski 72. – Radović 24., 74.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sędzia:&lt;/strong&gt; Mariusz Złotek. &lt;strong&gt;Widzów:&lt;/strong&gt; 9 328.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Jubileusz Fojuta&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Fojut, który wcześniej grał w Ekstraklasie m.in. w Śląsku Wrocław, był w tamtym czasie jednym z liderów obrony Pogoni. Swój setny występ w najwyższej lidze zakończył zwycięstwem nad mistrzem Polski i asystą. Dekadę później w kadrze Pogoni jest jego syn, Antoni Fojut.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content:encoded>
+      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/kartkazkalendarza-14-pazdziernika-2016-setny-mecz-fojuta-i-zwyciestwo-z-mistrzem-polski/</guid>
+      <enclosure url="https://pogonsportnet.pl/storage/fcff6ed2-42bf-4494-90dd-2c7008228414/2016-jpg.webp" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 14 Oct 2026 08:02:00 +0200</pubDate>
+    </item>
     <item>
       <title>Jakubczyk o Pogoni: Mogą żałować, że nie dali mi szansy</title>
       <link>https://pogonsportnet.pl/aktualnosci/jakubczyk-o-pogoni-moga-zalowac-ze-nie-dali-mi-szansy/</link>
-      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Jakubczyk o Pogoni: Mogą żałować, że nie dali mi szansy" /&gt;&lt;/p&gt;&lt;html&gt;
+      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/4d8df2ed-e1dc-4486-886b-689e7771b424/dsc9468-jpg.webp" alt="Jakubczyk o Pogoni: Mogą żałować, że nie dali mi szansy" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
 &lt;p&gt;
 &lt;strong&gt;Kamil Jakubczyk, wychowanek Pogoni Szczecin, a obecnie zawodnik Korony Kielce, w rozmowie ze Stolicą Sportu opowiedział o swoich latach w Szczecinie i o tym, dlaczego odszedł z klubu. Mimo rozstania podkreśla, że Pogoń wciąż jest mu bliska.&lt;/strong&gt;
@@ -47,7 +394,7 @@
 &lt;p&gt;Pełna rozmowa: &lt;a href="https://stolicasportu.pl/newsy/pilka-nozna/ekstraklasa/pilkarz-korony-o-reprezentacji-polski-i-swojej-drodze-do-ekstraklasy-to-nagroda-odroczona-w-czasie/16344"&gt;stolicasportu.pl&lt;/a&gt;&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Jakubczyk o Pogoni: Mogą żałować, że nie dali mi szansy" /&gt;&lt;/p&gt;&lt;html&gt;
+      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/4d8df2ed-e1dc-4486-886b-689e7771b424/dsc9468-jpg.webp" alt="Jakubczyk o Pogoni: Mogą żałować, że nie dali mi szansy" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
 &lt;p&gt;
 &lt;strong&gt;Kamil Jakubczyk, wychowanek Pogoni Szczecin, a obecnie zawodnik Korony Kielce, w rozmowie ze Stolicą Sportu opowiedział o swoich latach w Szczecinie i o tym, dlaczego odszedł z klubu. Mimo rozstania podkreśla, że Pogoń wciąż jest mu bliska.&lt;/strong&gt;
@@ -84,13 +431,13 @@
 &lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/jakubczyk-o-pogoni-moga-zalowac-ze-nie-dali-mi-szansy/</guid>
-      <enclosure url="https://pogonsportnet.pl/img/og_image.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://pogonsportnet.pl/storage/4d8df2ed-e1dc-4486-886b-689e7771b424/dsc9468-jpg.webp" length="0" type="image/jpeg"/>
       <pubDate>Wed, 14 Oct 2026 07:11:00 +0200</pubDate>
     </item>
     <item>
       <title>Katowice to dla Pogoni trudny teren. Ostatnia wygrana 15 lat temu</title>
       <link>https://pogonsportnet.pl/aktualnosci/katowice-to-dla-pogoni-trudny-teren-ostatnia-wygrana-15-lat-temu/</link>
-      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Katowice to dla Pogoni trudny teren. Ostatnia wygrana 15 lat temu" /&gt;&lt;/p&gt;&lt;html&gt;
+      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/63e9ac6c-2a6f-4d6c-a79b-d7be5e708afc/gks-jpg.webp" alt="Katowice to dla Pogoni trudny teren. Ostatnia wygrana 15 lat temu" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
 &lt;p&gt;
 &lt;strong&gt;Według kronikapogoni.pl Pogoń zagrała z GKS-em Katowice 58 razy. Bilans jest korzystny dla Portowców, ale nie na wyjazdach.&lt;/strong&gt;
@@ -100,7 +447,7 @@
 &lt;p&gt;U siebie z GKS-em Pogoń ma bilans 15 zwycięstw, 8 remisów i 6 porażek, przy bramkach 52:23. Ostatni mecz w Szczecinie, w maju 2026 roku, skończył się remisem 1:1.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Katowice to dla Pogoni trudny teren. Ostatnia wygrana 15 lat temu" /&gt;&lt;/p&gt;&lt;html&gt;
+      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/63e9ac6c-2a6f-4d6c-a79b-d7be5e708afc/gks-jpg.webp" alt="Katowice to dla Pogoni trudny teren. Ostatnia wygrana 15 lat temu" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
 &lt;p&gt;
 &lt;strong&gt;Według kronikapogoni.pl Pogoń zagrała z GKS-em Katowice 58 razy. Bilans jest korzystny dla Portowców, ale nie na wyjazdach.&lt;/strong&gt;
@@ -111,13 +458,13 @@
 &lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/katowice-to-dla-pogoni-trudny-teren-ostatnia-wygrana-15-lat-temu/</guid>
-      <enclosure url="https://pogonsportnet.pl/img/og_image.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://pogonsportnet.pl/storage/63e9ac6c-2a6f-4d6c-a79b-d7be5e708afc/gks-jpg.webp" length="0" type="image/jpeg"/>
       <pubDate>Wed, 14 Oct 2026 07:05:00 +0200</pubDate>
     </item>
     <item>
       <title>Twierdza Katowice. GKS nie przegrał u siebie od listopada 2025 roku</title>
       <link>https://pogonsportnet.pl/aktualnosci/twierdza-katowice-gks-nie-przegral-u-siebie-od-listopada-2025-roku/</link>
-      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Twierdza Katowice. GKS nie przegrał u siebie od listopada 2025 roku" /&gt;&lt;/p&gt;&lt;html&gt;
+      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/b6e3f8fe-3b7b-4e2c-b46d-1bfe36cf0f36/katowice1-webp.webp" alt="Twierdza Katowice. GKS nie przegrał u siebie od listopada 2025 roku" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
 &lt;p&gt;
 &lt;strong&gt;Na swoim stadionie GKS Katowice wygrywa wszystko. Pogoń czeka trudne zadanie.&lt;/strong&gt;
@@ -127,7 +474,7 @@
 &lt;p&gt;Pogoń na wyjazdach w tym sezonie nie przegrała. Wygrała z Cracovią (2:0) i Piastem (2:1) oraz zremisowała z Zagłębiem (0:0), tracąc tylko jednego gola. W sobotę zmierzą się więc najlepsza drużyna u siebie z jedną z najlepszych drużyn na wyjazdach.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Twierdza Katowice. GKS nie przegrał u siebie od listopada 2025 roku" /&gt;&lt;/p&gt;&lt;html&gt;
+      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/b6e3f8fe-3b7b-4e2c-b46d-1bfe36cf0f36/katowice1-webp.webp" alt="Twierdza Katowice. GKS nie przegrał u siebie od listopada 2025 roku" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
 &lt;p&gt;
 &lt;strong&gt;Na swoim stadionie GKS Katowice wygrywa wszystko. Pogoń czeka trudne zadanie.&lt;/strong&gt;
@@ -138,7 +485,7 @@
 &lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/twierdza-katowice-gks-nie-przegral-u-siebie-od-listopada-2025-roku/</guid>
-      <enclosure url="https://pogonsportnet.pl/img/og_image.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://pogonsportnet.pl/storage/b6e3f8fe-3b7b-4e2c-b46d-1bfe36cf0f36/katowice1-webp.webp" length="0" type="image/jpeg"/>
       <pubDate>Wed, 14 Oct 2026 07:00:00 +0200</pubDate>
     </item>
     <item>
@@ -408,162 +755,16 @@
       <pubDate>Tue, 13 Oct 2026 11:54:00 +0200</pubDate>
     </item>
     <item>
-      <title>Mukairu w jedenastce 10. kolejki Ekstraklasy</title>
-      <link>https://pogonsportnet.pl/aktualnosci/mukairu-w-jedenastce-10-kolejki-ekstraklasy/</link>
-      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/e5a5a75e-7011-40cc-9751-1563d8e8877b/paul3-webp.webp" alt="Mukairu w jedenastce 10. kolejki Ekstraklasy" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Paul Mukairu znalazł się w oficjalnej jedenastce 10. kolejki PKO BP Ekstraklasy. To wyróżnienie za mecz z Koroną Kielce (2:0), w którym skrzydłowy Pogoni Szczecin zaliczył gola i asystę.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;W doliczonym czasie pierwszej połowy Mukairu podał do Macieja Wojciechowskiego, który strzelił swojego pierwszego gola w Ekstraklasie. W 86. minucie sam zamknął mecz, wykańczając kontratak.&lt;/p&gt;
-&lt;p&gt;- Dzisiaj to ja mogłem pomóc drużynie, a jutro może to być inny zawodnik. Nie ma znaczenia, kto strzela gole, to była wspólna, zespołowa wygrana - mówił po meczu.&lt;/p&gt;
-&lt;p&gt;W jedenastce kolejki są też m.in. bramkarz Legii Hindrich, trzech zawodników Wieczystej Kraków (Pestka, Piazon i Semedo) oraz dwóch piłkarzy Lecha Poznań (Skrzypczak i Walemark). Wyróżniono także Nowaka z GKS-u Katowice, z którym Pogoń zagra w sobotę. Nowak strzelił gola z rzutu karnego w wygranym 4:1 meczu z Rakowem w Częstochowie.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Jedenastka 10. kolejki PKO BP Ekstraklasy:&lt;/strong&gt;
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Bramkarz:&lt;/strong&gt; Hindrich (Legia Warszawa)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Obrońcy:&lt;/strong&gt; Pestka (Wieczysta Kraków), Augustyniak (Legia Warszawa), Skrzypczak (Lech Poznań)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Pomocnicy:&lt;/strong&gt; Mukairu (Pogoń Szczecin), Nowak (GKS Katowice), Walemark (Lech Poznań), Piazon (Wieczysta Kraków), Hasić (Cracovia)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Napastnicy:&lt;/strong&gt; Semedo (Wieczysta Kraków), Liseth (Górnik Zabrze)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/body&gt;
-&lt;/html&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/e5a5a75e-7011-40cc-9751-1563d8e8877b/paul3-webp.webp" alt="Mukairu w jedenastce 10. kolejki Ekstraklasy" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Paul Mukairu znalazł się w oficjalnej jedenastce 10. kolejki PKO BP Ekstraklasy. To wyróżnienie za mecz z Koroną Kielce (2:0), w którym skrzydłowy Pogoni Szczecin zaliczył gola i asystę.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;W doliczonym czasie pierwszej połowy Mukairu podał do Macieja Wojciechowskiego, który strzelił swojego pierwszego gola w Ekstraklasie. W 86. minucie sam zamknął mecz, wykańczając kontratak.&lt;/p&gt;
-&lt;p&gt;- Dzisiaj to ja mogłem pomóc drużynie, a jutro może to być inny zawodnik. Nie ma znaczenia, kto strzela gole, to była wspólna, zespołowa wygrana - mówił po meczu.&lt;/p&gt;
-&lt;p&gt;W jedenastce kolejki są też m.in. bramkarz Legii Hindrich, trzech zawodników Wieczystej Kraków (Pestka, Piazon i Semedo) oraz dwóch piłkarzy Lecha Poznań (Skrzypczak i Walemark). Wyróżniono także Nowaka z GKS-u Katowice, z którym Pogoń zagra w sobotę. Nowak strzelił gola z rzutu karnego w wygranym 4:1 meczu z Rakowem w Częstochowie.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Jedenastka 10. kolejki PKO BP Ekstraklasy:&lt;/strong&gt;
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Bramkarz:&lt;/strong&gt; Hindrich (Legia Warszawa)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Obrońcy:&lt;/strong&gt; Pestka (Wieczysta Kraków), Augustyniak (Legia Warszawa), Skrzypczak (Lech Poznań)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Pomocnicy:&lt;/strong&gt; Mukairu (Pogoń Szczecin), Nowak (GKS Katowice), Walemark (Lech Poznań), Piazon (Wieczysta Kraków), Hasić (Cracovia)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Napastnicy:&lt;/strong&gt; Semedo (Wieczysta Kraków), Liseth (Górnik Zabrze)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/body&gt;
-&lt;/html&gt;</content:encoded>
-      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/mukairu-w-jedenastce-10-kolejki-ekstraklasy/</guid>
-      <enclosure url="https://pogonsportnet.pl/storage/e5a5a75e-7011-40cc-9751-1563d8e8877b/paul3-webp.webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 13 Oct 2026 11:22:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Liderzy klasyfikacji strzelców staną oko w oko</title>
-      <link>https://pogonsportnet.pl/aktualnosci/liderzy-klasyfikacji-strzelcow-stana-oko-w-oko/</link>
-      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/5204443e-9d55-498d-bbec-64c095f31542/pojedynek-webp.webp" alt="Liderzy klasyfikacji strzelców staną oko w oko" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;W sobotę zagrają przeciwko sobie dwaj najlepsi strzelcy Ekstraklasy. Jordi Sánchez i Ilja Szkurin mają po osiem goli.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Szkurin dogonił Sáncheza w poniedziałek. W meczu z Wieczystą strzelił gola w 15. minucie. To jego ósme trafienie w dziesiątym meczu ligowym. Najlepszym meczem Białorusina był wyjazd do Zabrza, gdzie strzelił trzy gole, w tym dwa w doliczonym czasie, i dał GKS-owi wygraną 3:2 z liderem tabeli. Gole strzelał też Radomiakowi, Wiśle Płock, Cracovii i Rakowowi.&lt;/p&gt;
-&lt;p&gt;Sánchez ma sześć goli z Wisły Kraków i dwa z Pogoni. Jednego z nich strzelił właśnie GKS-owi: w 1. kolejce zdobył zwycięską bramkę w wygranym 2:1 meczu Wisły z Katowicami. W meczu z Koroną gola nie strzelił, ale nadal prowadzi w klasyfikacji xG i dogodnych sytuacji.&lt;/p&gt;
-&lt;p&gt;Trener Oscar Garcia przed meczem z Koroną mówił, że indywidualne klasyfikacje nie są dla niego ważne: &lt;i&gt;Celem jest wygrana zespołu, a nie pomaganie jednemu graczowi.&lt;/i&gt;&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/5204443e-9d55-498d-bbec-64c095f31542/pojedynek-webp.webp" alt="Liderzy klasyfikacji strzelców staną oko w oko" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;W sobotę zagrają przeciwko sobie dwaj najlepsi strzelcy Ekstraklasy. Jordi Sánchez i Ilja Szkurin mają po osiem goli.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Szkurin dogonił Sáncheza w poniedziałek. W meczu z Wieczystą strzelił gola w 15. minucie. To jego ósme trafienie w dziesiątym meczu ligowym. Najlepszym meczem Białorusina był wyjazd do Zabrza, gdzie strzelił trzy gole, w tym dwa w doliczonym czasie, i dał GKS-owi wygraną 3:2 z liderem tabeli. Gole strzelał też Radomiakowi, Wiśle Płock, Cracovii i Rakowowi.&lt;/p&gt;
-&lt;p&gt;Sánchez ma sześć goli z Wisły Kraków i dwa z Pogoni. Jednego z nich strzelił właśnie GKS-owi: w 1. kolejce zdobył zwycięską bramkę w wygranym 2:1 meczu Wisły z Katowicami. W meczu z Koroną gola nie strzelił, ale nadal prowadzi w klasyfikacji xG i dogodnych sytuacji.&lt;/p&gt;
-&lt;p&gt;Trener Oscar Garcia przed meczem z Koroną mówił, że indywidualne klasyfikacje nie są dla niego ważne: &lt;i&gt;Celem jest wygrana zespołu, a nie pomaganie jednemu graczowi.&lt;/i&gt;&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</content:encoded>
-      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/liderzy-klasyfikacji-strzelcow-stana-oko-w-oko/</guid>
-      <enclosure url="https://pogonsportnet.pl/storage/5204443e-9d55-498d-bbec-64c095f31542/pojedynek-webp.webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 13 Oct 2026 09:13:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kolejny hit i mecz z sąsiadem w tabeli</title>
-      <link>https://pogonsportnet.pl/aktualnosci/kolejny-hit-i-mecz-z-sasiadem-w-tabeli/</link>
-      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/adbfb468-655a-4835-965a-e7ff1f47bd94/gks2-jpg.webp" alt="Kolejny hit i mecz z sąsiadem w tabeli" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Pogoń i GKS Katowice mają po 18 punktów i wygrały ostatnie trzy mecze. W sobotę jedna z tych serii się skończy, a może i obie.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Przed 11. kolejką Pogoń jest czwarta, a GKS piąty. Obie drużyny mają po 18 punktów, ale Portowcy rozegrali mecz mniej. Zaległe spotkanie z Jagiellonią odbędzie się 16 grudnia.&lt;/p&gt;
-&lt;p&gt;Obie drużyny są w dobrej formie. Pogoń pokonała ostatnio Wieczystą (2:0), Piasta (2:1) i Koronę (2:0) i nie przegrała od ośmiu meczów. GKS wygrał trzy ostatnie mecze: z Cracovią (3:2), z Rakowem w Częstochowie (4:1) i w poniedziałek z Wieczystą (2:1) w zaległym meczu 3. kolejki.&lt;/p&gt;
-&lt;p&gt;Drużyny różnią się stylem. Pogoń ma najlepszą obronę w lidze: w dziewięciu meczach straciła sześć goli. GKS strzela dużo (22 bramki w dziesięciu meczach), ale też dużo traci (15).&lt;/p&gt;
-&lt;p&gt;Gospodarze będą mieli mniej czasu na odpoczynek, bo grali w poniedziałek wieczorem. Pogoń grała w niedzielę.&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/adbfb468-655a-4835-965a-e7ff1f47bd94/gks2-jpg.webp" alt="Kolejny hit i mecz z sąsiadem w tabeli" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Pogoń i GKS Katowice mają po 18 punktów i wygrały ostatnie trzy mecze. W sobotę jedna z tych serii się skończy, a może i obie.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Przed 11. kolejką Pogoń jest czwarta, a GKS piąty. Obie drużyny mają po 18 punktów, ale Portowcy rozegrali mecz mniej. Zaległe spotkanie z Jagiellonią odbędzie się 16 grudnia.&lt;/p&gt;
-&lt;p&gt;Obie drużyny są w dobrej formie. Pogoń pokonała ostatnio Wieczystą (2:0), Piasta (2:1) i Koronę (2:0) i nie przegrała od ośmiu meczów. GKS wygrał trzy ostatnie mecze: z Cracovią (3:2), z Rakowem w Częstochowie (4:1) i w poniedziałek z Wieczystą (2:1) w zaległym meczu 3. kolejki.&lt;/p&gt;
-&lt;p&gt;Drużyny różnią się stylem. Pogoń ma najlepszą obronę w lidze: w dziewięciu meczach straciła sześć goli. GKS strzela dużo (22 bramki w dziesięciu meczach), ale też dużo traci (15).&lt;/p&gt;
-&lt;p&gt;Gospodarze będą mieli mniej czasu na odpoczynek, bo grali w poniedziałek wieczorem. Pogoń grała w niedzielę.&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</content:encoded>
-      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/kolejny-hit-i-mecz-z-sasiadem-w-tabeli/</guid>
-      <enclosure url="https://pogonsportnet.pl/storage/adbfb468-655a-4835-965a-e7ff1f47bd94/gks2-jpg.webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 13 Oct 2026 09:06:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Plan przygotowań do meczu w Katowicach</title>
-      <link>https://pogonsportnet.pl/aktualnosci/plan-przygotowan-do-meczu-w-katowicach/</link>
-      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/eb84888d-f1ea-47f4-a119-eeb21b0f3795/trening2-jpg.webp" alt="Plan przygotowań do meczu w Katowicach" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Kolejne ligowe spotkanie granatowo-bordowi rozegrają w najbliższą sobotę w Katowicach, gdzie sprawdzą się z miejscowym GKS-em. Przygotowania do tego wyzwania wystartowały w poniedziałek.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Przed meczem z "GieKSą" Portowców czekają cztery treningi piłkarskie oraz jeden trening indywidualny na siłowni. Po jednych zajęciach z piłką drużyna ma w planie na poniedziałek, środę, czwartek oraz piątek.&lt;/p&gt;
-&lt;p&gt;Po piątkowym treningu podpopieczni trenera Oscara Garcii wyruszą w podróż na Śląsk. Z GKS-em w ramach 11. kolejki PKO BP Ekstraklasy zmierzą się w sobotę o g. 17:30.&lt;/p&gt;
-&lt;p&gt;&lt;u&gt;Plan tygodnia&lt;/u&gt;&lt;br/&gt;&lt;strong&gt;Poniedziałek&lt;/strong&gt; - trening &lt;br/&gt;&lt;strong&gt;Wtorek&lt;/strong&gt; - wolne&lt;br/&gt;&lt;strong&gt;Środa&lt;/strong&gt; - trening + siłownia&lt;br/&gt;&lt;strong&gt;Czwartek&lt;/strong&gt; - trening + konferencja prasowa&lt;br/&gt;&lt;strong&gt;Piątek&lt;/strong&gt; - trening + wylot&lt;br/&gt;&lt;strong&gt;Sobota&lt;/strong&gt; -mecz 11. kolejki PKO BP Ekstraklasy z GKS-em (g. 17:30)&lt;br/&gt;&lt;strong&gt;Niedziela &lt;/strong&gt;- wolne&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/eb84888d-f1ea-47f4-a119-eeb21b0f3795/trening2-jpg.webp" alt="Plan przygotowań do meczu w Katowicach" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Kolejne ligowe spotkanie granatowo-bordowi rozegrają w najbliższą sobotę w Katowicach, gdzie sprawdzą się z miejscowym GKS-em. Przygotowania do tego wyzwania wystartowały w poniedziałek.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Przed meczem z "GieKSą" Portowców czekają cztery treningi piłkarskie oraz jeden trening indywidualny na siłowni. Po jednych zajęciach z piłką drużyna ma w planie na poniedziałek, środę, czwartek oraz piątek.&lt;/p&gt;
-&lt;p&gt;Po piątkowym treningu podpopieczni trenera Oscara Garcii wyruszą w podróż na Śląsk. Z GKS-em w ramach 11. kolejki PKO BP Ekstraklasy zmierzą się w sobotę o g. 17:30.&lt;/p&gt;
-&lt;p&gt;&lt;u&gt;Plan tygodnia&lt;/u&gt;&lt;br/&gt;&lt;strong&gt;Poniedziałek&lt;/strong&gt; - trening &lt;br/&gt;&lt;strong&gt;Wtorek&lt;/strong&gt; - wolne&lt;br/&gt;&lt;strong&gt;Środa&lt;/strong&gt; - trening + siłownia&lt;br/&gt;&lt;strong&gt;Czwartek&lt;/strong&gt; - trening + konferencja prasowa&lt;br/&gt;&lt;strong&gt;Piątek&lt;/strong&gt; - trening + wylot&lt;br/&gt;&lt;strong&gt;Sobota&lt;/strong&gt; -mecz 11. kolejki PKO BP Ekstraklasy z GKS-em (g. 17:30)&lt;br/&gt;&lt;strong&gt;Niedziela &lt;/strong&gt;- wolne&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</content:encoded>
-      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/plan-przygotowan-do-meczu-w-katowicach/</guid>
-      <enclosure url="https://pogonsportnet.pl/storage/eb84888d-f1ea-47f4-a119-eeb21b0f3795/trening2-jpg.webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 13 Oct 2026 08:52:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Kupczyk i Wiśniak powołani do Reprezentacji Polski U16</title>
-      <link>https://pogonsportnet.pl/aktualnosci/kupczyk-i-wisniak-powolani-do-reprezentacji-polski-u16/</link>
-      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/edbb5d35-9622-4a3e-bd1e-889ac8ea0e72/kupczyk1-jpg.webp" alt="Kupczyk i Wiśniak powołani do Reprezentacji Polski U16" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Karol Kupczyk i Patryk Wiśniak otrzymali kolejne powołania do Reprezentacji Polski U16. Biało-czerwoni wybiorą się do Azerbejdżanu, gdzie wezmą udział w turnieju FIFA World Cup &amp;amp; Festival.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Reprezentanci Polski U16 zmierzą się w fazie grupowej z Gruzją (24.10), Wyspami Św. Tomasza i Książęcą (25.10), Namibią (25.10), Brytyjskimi Wyspami Dziewiczymi (26.10) i Bermudami (26.10). Mecze w Baku odbędą się w systemie 8x8.&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/edbb5d35-9622-4a3e-bd1e-889ac8ea0e72/kupczyk1-jpg.webp" alt="Kupczyk i Wiśniak powołani do Reprezentacji Polski U16" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Karol Kupczyk i Patryk Wiśniak otrzymali kolejne powołania do Reprezentacji Polski U16. Biało-czerwoni wybiorą się do Azerbejdżanu, gdzie wezmą udział w turnieju FIFA World Cup &amp;amp; Festival.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Reprezentanci Polski U16 zmierzą się w fazie grupowej z Gruzją (24.10), Wyspami Św. Tomasza i Książęcą (25.10), Namibią (25.10), Brytyjskimi Wyspami Dziewiczymi (26.10) i Bermudami (26.10). Mecze w Baku odbędą się w systemie 8x8.&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</content:encoded>
-      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/kupczyk-i-wisniak-powolani-do-reprezentacji-polski-u16/</guid>
-      <enclosure url="https://pogonsportnet.pl/storage/edbb5d35-9622-4a3e-bd1e-889ac8ea0e72/kupczyk1-jpg.webp" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 13 Oct 2026 08:30:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Aktualności</title>
       <link>https://pogonsportnet.pl/aktualnosci/2/</link>
       <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Trzecia frekwencja w ostatni weekend w Szczecinie&lt;/h3&gt;
+&lt;h3&gt;Mukairu w jedenastce 10. kolejki Ekstraklasy&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Paul Mukairu znalazł się w oficjalnej jedenastce 10. kolejki PKO BP Ekstraklasy. To wyróżnienie za mecz z Koroną Kielce (2:0), w którym skrzydłowy Pogoni Szczecin zaliczył gola i asystę.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę zagrają przeciwko sobie dwaj najlepsi strzelcy Ekstraklasy. Jordi Sánchez i Ilja Szkurin mają po osiem goli.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń i GKS Katowice mają po 18 punktów i wygrały ostatnie trzy mecze. W sobotę jedna z tych serii się skończy, a może i obie.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Kolejne ligowe spotkanie granatowo-bordowi rozegrają w najbliższą sobotę w Katowicach, gdzie sprawdzą się z miejscowym GKS-em. Przygotowania do tego wyzwania wystartowały w poniedziałek.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Karol Kupczyk i Patryk Wiśniak otrzymali kolejne powołania do Reprezentacji Polski U16. Biało-czerwoni wybiorą się do Azerbejdżanu, gdzie wezmą udział w turnieju FIFA World Cup &amp;amp; Festival.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Mecz Pogoni Szczecin z Koroną Kielce (2:0) obejrzało 18 255 widzów. To trzeci wynik 10. kolejki PKO BP Ekstraklasy, co wynika z zestawienia profilu Polscy Kibice.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin w niedzielę pokonała Koronę Kielce, a eksperci z kanału sPort Szczecin już omówili to spotkanie. Zachęcamy do obejrzenia nowego odcinka programu O Portowcach.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Zakończyliśmy już przyjmowanie arkuszy z ocenami dla piłkarzy Pogoni Szczecin za mecz z Koroną Kielce. Najwyższą średnią notę wypracował Paul Mukairu i to do niego wędruje tytuł najlepszego zawodnika spotkania. Wyprzedził on Macieja Wojciechowskiego i Valentina Cojocaru.&lt;/p&gt;
@@ -571,16 +772,16 @@
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Kamil Jakubczyk rok temu zadał Pogoni cios jeszcze w barwach Arki, a jego zachowanie po golu było szeroko komentowane. Później był jeszcze występ w Canal+, gdzie też jego wypowiedzi gryzły kibiców Dumy Pomorza. W kolejnych występach przeciwko Pogoni już mu się jednak nie wiodło dobrze i tak też było w niedzielę.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Gol Macieja Wojciechowskiego w doliczonym czasie pierwszej połowy ustawił mecz Pogoni z Koroną. Oscar Garcia przyznał jednak, że po przerwie jego drużyna grała gorzej.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Oscar Garcia zaskoczył wyjściowym składem na mecz z Koroną. Od pierwszej minuty zagrali Jan Biegański i Attila Szalai, a Kellyn Acosta i Lukas Willen zaczęli na ławce. Trener zapewnia, że to były decyzje taktyczne, a nie wymuszone urazami.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Oscar Garcia nie chciał oceniać pracy sędziów po niedzielnym zwycięstwie Pogoni Szczecin nad Koroną Kielce (2:0). Trener Portowców przyjął zupełnie inną postawę niż właściciel klubu Alex Haditaghi, który po meczu ostro skrytykował arbitra Piotra Lasyka na portalu X.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W niedzielnym meczu z Koroną Kielce (2:0) w barwach Pogoni Szczecin zadebiutował Isaiah Eichie. 19-letni Niemiec wszedł na boisko w 90. minucie i z doliczonym czasem zagrał 7 minut.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W cieniu niedzielnego meczu pierwszej drużyny, bardzo ważny mecz w Kołobrzegu rozgrywał drugi zespół Dumy Pomorza. Liderująca w tabeli Pogoń grała tam z wiceliderem Kotwicą. Na boisku nie pozostawiła rywalowi złudzeń i wygrała 6:0.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Sporo emocji dał nam niedzielny mecz Pogoni Szczecin z Koroną Kielce. Jak zwykle staraliśmy się uchwycić wszystko w oku naszych kamer i mamy dla Was nowy materiał z cyklu #ObokMeczu. Zachęcamy do oglądania!&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Mecz z Koroną już za nami, a my mamy dla Was kolejne multimedia z tego spotkania. Poniedziałek zaczynamy od czterech fotorelacji, które przygotowali Daniel Trzepacz, Dominik Markiewicz, Artur Szefer i Tomasz Kazimierski.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
       <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Trzecia frekwencja w ostatni weekend w Szczecinie&lt;/h3&gt;
+&lt;h3&gt;Mukairu w jedenastce 10. kolejki Ekstraklasy&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Paul Mukairu znalazł się w oficjalnej jedenastce 10. kolejki PKO BP Ekstraklasy. To wyróżnienie za mecz z Koroną Kielce (2:0), w którym skrzydłowy Pogoni Szczecin zaliczył gola i asystę.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę zagrają przeciwko sobie dwaj najlepsi strzelcy Ekstraklasy. Jordi Sánchez i Ilja Szkurin mają po osiem goli.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń i GKS Katowice mają po 18 punktów i wygrały ostatnie trzy mecze. W sobotę jedna z tych serii się skończy, a może i obie.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Kolejne ligowe spotkanie granatowo-bordowi rozegrają w najbliższą sobotę w Katowicach, gdzie sprawdzą się z miejscowym GKS-em. Przygotowania do tego wyzwania wystartowały w poniedziałek.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Karol Kupczyk i Patryk Wiśniak otrzymali kolejne powołania do Reprezentacji Polski U16. Biało-czerwoni wybiorą się do Azerbejdżanu, gdzie wezmą udział w turnieju FIFA World Cup &amp;amp; Festival.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Mecz Pogoni Szczecin z Koroną Kielce (2:0) obejrzało 18 255 widzów. To trzeci wynik 10. kolejki PKO BP Ekstraklasy, co wynika z zestawienia profilu Polscy Kibice.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin w niedzielę pokonała Koronę Kielce, a eksperci z kanału sPort Szczecin już omówili to spotkanie. Zachęcamy do obejrzenia nowego odcinka programu O Portowcach.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Zakończyliśmy już przyjmowanie arkuszy z ocenami dla piłkarzy Pogoni Szczecin za mecz z Koroną Kielce. Najwyższą średnią notę wypracował Paul Mukairu i to do niego wędruje tytuł najlepszego zawodnika spotkania. Wyprzedził on Macieja Wojciechowskiego i Valentina Cojocaru.&lt;/p&gt;
@@ -588,11 +789,6 @@
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Kamil Jakubczyk rok temu zadał Pogoni cios jeszcze w barwach Arki, a jego zachowanie po golu było szeroko komentowane. Później był jeszcze występ w Canal+, gdzie też jego wypowiedzi gryzły kibiców Dumy Pomorza. W kolejnych występach przeciwko Pogoni już mu się jednak nie wiodło dobrze i tak też było w niedzielę.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Gol Macieja Wojciechowskiego w doliczonym czasie pierwszej połowy ustawił mecz Pogoni z Koroną. Oscar Garcia przyznał jednak, że po przerwie jego drużyna grała gorzej.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Oscar Garcia zaskoczył wyjściowym składem na mecz z Koroną. Od pierwszej minuty zagrali Jan Biegański i Attila Szalai, a Kellyn Acosta i Lukas Willen zaczęli na ławce. Trener zapewnia, że to były decyzje taktyczne, a nie wymuszone urazami.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Oscar Garcia nie chciał oceniać pracy sędziów po niedzielnym zwycięstwie Pogoni Szczecin nad Koroną Kielce (2:0). Trener Portowców przyjął zupełnie inną postawę niż właściciel klubu Alex Haditaghi, który po meczu ostro skrytykował arbitra Piotra Lasyka na portalu X.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W niedzielnym meczu z Koroną Kielce (2:0) w barwach Pogoni Szczecin zadebiutował Isaiah Eichie. 19-letni Niemiec wszedł na boisko w 90. minucie i z doliczonym czasem zagrał 7 minut.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W cieniu niedzielnego meczu pierwszej drużyny, bardzo ważny mecz w Kołobrzegu rozgrywał drugi zespół Dumy Pomorza. Liderująca w tabeli Pogoń grała tam z wiceliderem Kotwicą. Na boisku nie pozostawiła rywalowi złudzeń i wygrała 6:0.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Sporo emocji dał nam niedzielny mecz Pogoni Szczecin z Koroną Kielce. Jak zwykle staraliśmy się uchwycić wszystko w oku naszych kamer i mamy dla Was nowy materiał z cyklu #ObokMeczu. Zachęcamy do oglądania!&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Mecz z Koroną już za nami, a my mamy dla Was kolejne multimedia z tego spotkania. Poniedziałek zaczynamy od czterech fotorelacji, które przygotowali Daniel Trzepacz, Dominik Markiewicz, Artur Szefer i Tomasz Kazimierski.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/2/</guid>
@@ -603,14 +799,14 @@
       <link>https://pogonsportnet.pl/aktualnosci/3/</link>
       <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Wojciechowski: Ciężka praca w końcu się opłaca&lt;/h3&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Maciej Wojciechowski strzelił w niedzielę pierwszego gola w barwach Pogoni Szczecin w PKO BP Ekstraklasie. Gol w doliczonym czasie pierwszej połowy otworzył drogę do zwycięstwa nad Koroną Kielce 2:0. Rozmawiał z nim Dominik Markiewicz.&lt;/p&gt;
+&lt;h3&gt;Garcia nie chciał oceniać pracy sędziów&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Oscar Garcia nie chciał oceniać pracy sędziów po niedzielnym zwycięstwie Pogoni Szczecin nad Koroną Kielce (2:0). Trener Portowców przyjął zupełnie inną postawę niż właściciel klubu Alex Haditaghi, który po meczu ostro skrytykował arbitra Piotra Lasyka na portalu X.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
       <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Wojciechowski: Ciężka praca w końcu się opłaca&lt;/h3&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Maciej Wojciechowski strzelił w niedzielę pierwszego gola w barwach Pogoni Szczecin w PKO BP Ekstraklasie. Gol w doliczonym czasie pierwszej połowy otworzył drogę do zwycięstwa nad Koroną Kielce 2:0. Rozmawiał z nim Dominik Markiewicz.&lt;/p&gt;
+&lt;h3&gt;Garcia nie chciał oceniać pracy sędziów&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Oscar Garcia nie chciał oceniać pracy sędziów po niedzielnym zwycięstwie Pogoni Szczecin nad Koroną Kielce (2:0). Trener Portowców przyjął zupełnie inną postawę niż właściciel klubu Alex Haditaghi, który po meczu ostro skrytykował arbitra Piotra Lasyka na portalu X.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/3/</guid>
@@ -621,14 +817,36 @@
       <link>https://pogonsportnet.pl/aktualnosci/4/</link>
       <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Haditaghi: Nie jesteś sam, prośba o pomoc to akt odwagi&lt;/h3&gt;
+&lt;h3&gt;Zobacz zdjęcia kibiców z meczu z Koroną [FOTO]&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Gratulujemy wygranej licytacji! Prosimy o wiadomość prywatną w celu dogrania szczegółów!&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Trener Oscar Garcia po meczu z Koroną był w znacznie lepszym nastroju niż Jacek Zieliński. Jak trenerzy podsumowali to spotkanie?&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Portowcy wciąż w solidnej formie! W niedzielę w pierwszym meczu po przerwie na mecze reprezentacji Portowcy pokonali na własnym boisku Koronę Kielce 2:0. Gole na wagę wygranej strzelali Wojciechowski i Mukairu.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Piłkarze Pogoni Szczecin za sobą mają już niedzielny mecz z Koroną Kielce. Na jakie noty Waszym zdaniem zasłużyli podopieczni Oscara Garcii?&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Z dzisiejszego meczu nie zrealizujemy standardowej relacji tekstowej na żywo, a spróbujemy pierwszy raz transmisji z komentarzem LIVE. Z oczywistych względów boiska pokazać Wam nie możemy, ale Radek Sikora postara się przekazać Wam wszystko, co się na nim dzieje.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Właściciel i prezes Pogoni Szczecin Alex Haditaghi opublikował w sobotę, w Światowy Dniu Zdrowia Psychicznego, osobisty wpis na portalu X. Przyznał w nim, że przez większość życia zmagał się z depresją i lękiem, i zaapelował, by nie zostawać z tym w samotności.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Po długiej przerwie na mecze reprezentacji dziś wracamy do gry i jak zwykle mamy dla Was garść ciekawostek o seriach naszych piłkarzy przed meczem, które przygotował Łukasz Bożykowski.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Leo Borges od kilku tygodni gra w Sigmie Ołomuniec, ale wciąż ciepło mówi o Szczecinie. W rozmowie z Flashscore brazylijski obrońca opowiedział o pięciu latach w Pogoni, przełomie pod okiem Jensa Gustafssona, negocjacjach kontraktowych i kulisach swojego transferu do Czech.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Po prawie trzech tygodniach przerwy na mecze reprezentacji Pogoń Szczecin wraca do gry. W niedzielę 11 października o godzinie 17:30 w 10. kolejce PKO BP Ekstraklasy podejmie Koronę Kielce. Zagrają ze sobą drużyny, które mają tyle samo punktów i sąsiadują w tabeli.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W niedzielnym meczu z Koroną Kielce piłkarze Pogoni Szczecin wyjdą na boisko w różowych koszulkach. Klub w ten sposób włącza się w akcję „Różowy Październik” i przypomina o profilaktyce raka piersi. Ze sprzedaży tych koszulek Fundacja Rak’n’Roll dostała już 62 925 zł.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń zajmuje piąte miejsce w tabeli, ale Oscar Garcia nie zamierza na razie myśleć o podium.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin zgłosiła Isaiaha Eichiego do rozgrywek PKO BP Ekstraklasy. 19-letni obrońca będzie grał z numerem 20 i może zadebiutować już w niedzielnym meczu z Koroną Kielce.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
       <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Haditaghi: Nie jesteś sam, prośba o pomoc to akt odwagi&lt;/h3&gt;
+&lt;h3&gt;Zobacz zdjęcia kibiców z meczu z Koroną [FOTO]&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Gratulujemy wygranej licytacji! Prosimy o wiadomość prywatną w celu dogrania szczegółów!&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Trener Oscar Garcia po meczu z Koroną był w znacznie lepszym nastroju niż Jacek Zieliński. Jak trenerzy podsumowali to spotkanie?&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Portowcy wciąż w solidnej formie! W niedzielę w pierwszym meczu po przerwie na mecze reprezentacji Portowcy pokonali na własnym boisku Koronę Kielce 2:0. Gole na wagę wygranej strzelali Wojciechowski i Mukairu.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Piłkarze Pogoni Szczecin za sobą mają już niedzielny mecz z Koroną Kielce. Na jakie noty Waszym zdaniem zasłużyli podopieczni Oscara Garcii?&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Z dzisiejszego meczu nie zrealizujemy standardowej relacji tekstowej na żywo, a spróbujemy pierwszy raz transmisji z komentarzem LIVE. Z oczywistych względów boiska pokazać Wam nie możemy, ale Radek Sikora postara się przekazać Wam wszystko, co się na nim dzieje.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Właściciel i prezes Pogoni Szczecin Alex Haditaghi opublikował w sobotę, w Światowy Dniu Zdrowia Psychicznego, osobisty wpis na portalu X. Przyznał w nim, że przez większość życia zmagał się z depresją i lękiem, i zaapelował, by nie zostawać z tym w samotności.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Po długiej przerwie na mecze reprezentacji dziś wracamy do gry i jak zwykle mamy dla Was garść ciekawostek o seriach naszych piłkarzy przed meczem, które przygotował Łukasz Bożykowski.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Leo Borges od kilku tygodni gra w Sigmie Ołomuniec, ale wciąż ciepło mówi o Szczecinie. W rozmowie z Flashscore brazylijski obrońca opowiedział o pięciu latach w Pogoni, przełomie pod okiem Jensa Gustafssona, negocjacjach kontraktowych i kulisach swojego transferu do Czech.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Po prawie trzech tygodniach przerwy na mecze reprezentacji Pogoń Szczecin wraca do gry. W niedzielę 11 października o godzinie 17:30 w 10. kolejce PKO BP Ekstraklasy podejmie Koronę Kielce. Zagrają ze sobą drużyny, które mają tyle samo punktów i sąsiadują w tabeli.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W niedzielnym meczu z Koroną Kielce piłkarze Pogoni Szczecin wyjdą na boisko w różowych koszulkach. Klub w ten sposób włącza się w akcję „Różowy Październik” i przypomina o profilaktyce raka piersi. Ze sprzedaży tych koszulek Fundacja Rak’n’Roll dostała już 62 925 zł.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń zajmuje piąte miejsce w tabeli, ale Oscar Garcia nie zamierza na razie myśleć o podium.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin zgłosiła Isaiaha Eichiego do rozgrywek PKO BP Ekstraklasy. 19-letni obrońca będzie grał z numerem 20 i może zadebiutować już w niedzielnym meczu z Koroną Kielce.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/4/</guid>
@@ -639,7 +857,12 @@
       <link>https://pogonsportnet.pl/aktualnosci/2265/</link>
       <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Pierwsze zwycięstwo Portowców&lt;/h3&gt;
+&lt;h3&gt;Witamy w nowej odsłonie serwisu pogon.v.pl!&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Miło jest nam powitać naszych czytelników w nowej odsłonie serwisu pogon.v.pl. Mamy nadzieję, że szybko przyzwyczaicie się do nowego układu, wyglądu i funkcjonalności naszego serwisu.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Rok temu Portowcy na własnym stadionie podejmowali zespół Olympique Lyon. Spotkanie, które obejrzało blisko 11 000 kibiców stało się wielkim świętem futbolu w Szczecinie. Już jutro podopieczni Darius&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Od rana w różnych mediach pojawiały się informacje o tym, że klub z Chin zrezygnował z transferu Marcina Robaka. Zamiast niego przez Chińczyków pozyskany został Mike Hanke, zawodnik z Niemiec, który&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Zakończyła się już faza ćwierćfinałowa Mistrzostw Świata w Brazylii. W naszej zabawie udział bierze ponad 200 osób. Teraz czas aby oddać typy na 1/2 turnieju. Na Wasze typy czekamy do wtorku do godziny 22:00.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W drugim sobotnim spotkaniu Portowcy musieli uznać wyższość beniaminka I ligi – Bytovii Bytów. Mecz zakończył się zwycięstwem podopiecznych Pawła Janasa 1:0. Była to trzecia porażka graczy Pogoni podczas trw&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotnie przedpołudnie zawodnicy Dumy Pomorza rozegrali swój czwarty sparing podczas pobytu w Gniewinie. Tym razem przeciwnikiem Pogoni była Chojniczanka Chojnice, w której składzie wystąpił m.in. Przemys&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Potwierdziły się spekulacje sprzed kilku dni. Takafumi Akahoshi opuścił zgrupowanie Pogoni Szczecin w Gniewinie i uda się do Rosji, gdzie rozpocznie testy w beniaminku rosyjskiej ekstraklasy - FC Ufa.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Portowcy, którzy od kilku dni przebywają na obozie Gniewinie dotychczas rozegrali trzy sparingi, w których dwukrotnie uznawali wyższość rywali i raz zremisowali. Jutro gracze Pogoni będą mieli okazję do pop&lt;/p&gt;
@@ -650,7 +873,12 @@
 &lt;/html&gt;</description>
       <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Pierwsze zwycięstwo Portowców&lt;/h3&gt;
+&lt;h3&gt;Witamy w nowej odsłonie serwisu pogon.v.pl!&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Miło jest nam powitać naszych czytelników w nowej odsłonie serwisu pogon.v.pl. Mamy nadzieję, że szybko przyzwyczaicie się do nowego układu, wyglądu i funkcjonalności naszego serwisu.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Rok temu Portowcy na własnym stadionie podejmowali zespół Olympique Lyon. Spotkanie, które obejrzało blisko 11 000 kibiców stało się wielkim świętem futbolu w Szczecinie. Już jutro podopieczni Darius&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Od rana w różnych mediach pojawiały się informacje o tym, że klub z Chin zrezygnował z transferu Marcina Robaka. Zamiast niego przez Chińczyków pozyskany został Mike Hanke, zawodnik z Niemiec, który&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Zakończyła się już faza ćwierćfinałowa Mistrzostw Świata w Brazylii. W naszej zabawie udział bierze ponad 200 osób. Teraz czas aby oddać typy na 1/2 turnieju. Na Wasze typy czekamy do wtorku do godziny 22:00.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W drugim sobotnim spotkaniu Portowcy musieli uznać wyższość beniaminka I ligi – Bytovii Bytów. Mecz zakończył się zwycięstwem podopiecznych Pawła Janasa 1:0. Była to trzecia porażka graczy Pogoni podczas trw&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotnie przedpołudnie zawodnicy Dumy Pomorza rozegrali swój czwarty sparing podczas pobytu w Gniewinie. Tym razem przeciwnikiem Pogoni była Chojniczanka Chojnice, w której składzie wystąpił m.in. Przemys&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Potwierdziły się spekulacje sprzed kilku dni. Takafumi Akahoshi opuścił zgrupowanie Pogoni Szczecin w Gniewinie i uda się do Rosji, gdzie rozpocznie testy w beniaminku rosyjskiej ekstraklasy - FC Ufa.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Portowcy, którzy od kilku dni przebywają na obozie Gniewinie dotychczas rozegrali trzy sparingi, w których dwukrotnie uznawali wyższość rywali i raz zremisowali. Jutro gracze Pogoni będą mieli okazję do pop&lt;/p&gt;
