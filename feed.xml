@@ -7,14 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 15 Oct 2026 16:15:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 19:58:25 +0000</lastBuildDate>
     <item>
       <title>Zostań Patronem PogonSportNet.pl. Jak to działa i co zyskujesz?!</title>
       <link>https://pogonsportnet.pl/aktualnosci/zostan-patronem-pogonsportnetpl-jak-to-dziala-i-co-zyskujesz/</link>
       <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/36a3482a-94f4-4a69-b126-11f95a337cef/patronite-1920x1080-jpg.webp" alt="Zostań Patronem PogonSportNet.pl. Jak to działa i co zyskujesz?!" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
 &lt;p&gt;
-&lt;strong&gt;PogonSportNet.pl ma profil na Patronite. Od dziś każdy, kto chce wspierać najstarszy kibicowski portal o Pogoni, może to robić co miesiąc. W zamian dostaje konkretne korzyści na stronie: odznakę przy komentarzach, wyróżniony nick, dostęp do czatu patronów, a od progu 25 zł portal bez reklam.&lt;/strong&gt;
+&lt;strong&gt;PogonSportNet.pl ma profil na Patronite. Od dziś każdy, kto chce wspierać najstarszy kibicowski portal o Pogoni, może to robić co miesiąc. W zamian dostaje konkretne korzyści na stronie: odznakę przy komentarzach, wyróżniony nick, dostęp do czatu patronów, ciemną wersję serwisu i możliwość ukrycia komentarzy wybranych użytkowników, a od progu 25 zł portal bez reklam.&lt;/strong&gt;
 &lt;/p&gt;
 &lt;p&gt;Nasz profil: &lt;a href="https://patronite.pl/pogonsportnet"&gt;https://patronite.pl/pogonsportnet&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Dlaczego Patronite&lt;/h3&gt;
@@ -33,7 +33,9 @@
 &lt;ul&gt;
 &lt;li&gt;odznaka „Patron” przy Twoich komentarzach;&lt;/li&gt;
 &lt;li&gt;nick w barwach Pogoni (granat i bordo) i komentarz w złotej ramce;&lt;/li&gt;
-&lt;li&gt;dostęp do czatu patronów.&lt;/li&gt;
+&lt;li&gt;dostęp do czatu patronów;&lt;/li&gt;
+&lt;li&gt;ciemna wersja serwisu;&lt;/li&gt;
+&lt;li&gt;ukrywanie komentarzy wybranych użytkowników.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
 &lt;strong&gt;25 zł miesięcznie (polecany)&lt;/strong&gt;
@@ -63,6 +65,11 @@
 &lt;h3&gt;Czat patronów&lt;/h3&gt;
 &lt;p&gt;Po zalogowaniu na prawej krawędzi ekranu pojawi się przycisk „Czat patronów”. To miejsce tylko dla wspierających i redakcji: można porozmawiać o meczu na bieżąco, podzielić się opinią albo zapytać nas o plany. Liczba przy przycisku pokazuje nowe wiadomości.&lt;/p&gt;
 &lt;p&gt;Zasady są takie same jak w komentarzach: kultura dyskusji, bez obrażania innych. Wiadomość może mieć do 500 znaków, można używać emoji. Czat jest moderowany. Za łamanie zasad grozi czasowa lub stała blokada dostępu.&lt;/p&gt;
+&lt;p&gt;Linki wklejone na czacie są klikalne, a innych patronów możesz oznaczyć, wpisując @ i początek nicku. Gdy ktoś oznaczy Ciebie, wiadomość zostanie wyróżniona.&lt;/p&gt;
+&lt;h3&gt;Ciemna wersja serwisu&lt;/h3&gt;
+&lt;p&gt;Patroni mogą przełączyć PogonSportNet.pl na ciemną wersję w barwach Pogoni. Po zalogowaniu w górnym pasku pojawia się przycisk ☾ (☀ wraca do jasnej wersji). Jeśli na telefonie lub komputerze masz włączony tryb ciemny, portal dopasuje się do niego sam. Wybór zapamiętuje przeglądarka.&lt;/p&gt;
+&lt;h3&gt;Ukrywanie komentarzy wybranych użytkowników&lt;/h3&gt;
+&lt;p&gt;Jeśli nie chcesz czytać komentarzy konkretnej osoby, kliknij „Ukryj użytkownika” przy jej komentarzu. Od tej pory jej komentarze będą u Ciebie zwinięte do krótkiej informacji z przyciskiem „Pokaż”. Listę ukrytych osób znajdziesz pod nagłówkiem „Komentarze” – możesz z niej w każdej chwili kogoś odblokować. Ukryty użytkownik nie dostaje żadnej informacji, a lista jest zapisana na Twoim koncie, więc działa na wszystkich urządzeniach.&lt;/p&gt;
 &lt;h3&gt;Ile trwa status patrona i jak zrezygnować&lt;/h3&gt;
 &lt;p&gt;Status patrona jest ważny przez około miesiąc od ostatniej wpłaty i przedłuża się z każdą kolejną. Wsparcie możesz w każdej chwili zmienić albo anulować na swoim koncie na Patronite. Po anulowaniu korzyści zostają do końca opłaconego okresu.&lt;/p&gt;
 &lt;h3&gt;Wsparcie na prezent&lt;/h3&gt;
@@ -81,7 +88,7 @@
       <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/36a3482a-94f4-4a69-b126-11f95a337cef/patronite-1920x1080-jpg.webp" alt="Zostań Patronem PogonSportNet.pl. Jak to działa i co zyskujesz?!" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
 &lt;p&gt;
-&lt;strong&gt;PogonSportNet.pl ma profil na Patronite. Od dziś każdy, kto chce wspierać najstarszy kibicowski portal o Pogoni, może to robić co miesiąc. W zamian dostaje konkretne korzyści na stronie: odznakę przy komentarzach, wyróżniony nick, dostęp do czatu patronów, a od progu 25 zł portal bez reklam.&lt;/strong&gt;
+&lt;strong&gt;PogonSportNet.pl ma profil na Patronite. Od dziś każdy, kto chce wspierać najstarszy kibicowski portal o Pogoni, może to robić co miesiąc. W zamian dostaje konkretne korzyści na stronie: odznakę przy komentarzach, wyróżniony nick, dostęp do czatu patronów, ciemną wersję serwisu i możliwość ukrycia komentarzy wybranych użytkowników, a od progu 25 zł portal bez reklam.&lt;/strong&gt;
 &lt;/p&gt;
 &lt;p&gt;Nasz profil: &lt;a href="https://patronite.pl/pogonsportnet"&gt;https://patronite.pl/pogonsportnet&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Dlaczego Patronite&lt;/h3&gt;
@@ -100,7 +107,9 @@
 &lt;ul&gt;
 &lt;li&gt;odznaka „Patron” przy Twoich komentarzach;&lt;/li&gt;
 &lt;li&gt;nick w barwach Pogoni (granat i bordo) i komentarz w złotej ramce;&lt;/li&gt;
-&lt;li&gt;dostęp do czatu patronów.&lt;/li&gt;
+&lt;li&gt;dostęp do czatu patronów;&lt;/li&gt;
+&lt;li&gt;ciemna wersja serwisu;&lt;/li&gt;
+&lt;li&gt;ukrywanie komentarzy wybranych użytkowników.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
 &lt;strong&gt;25 zł miesięcznie (polecany)&lt;/strong&gt;
@@ -130,6 +139,11 @@
 &lt;h3&gt;Czat patronów&lt;/h3&gt;
 &lt;p&gt;Po zalogowaniu na prawej krawędzi ekranu pojawi się przycisk „Czat patronów”. To miejsce tylko dla wspierających i redakcji: można porozmawiać o meczu na bieżąco, podzielić się opinią albo zapytać nas o plany. Liczba przy przycisku pokazuje nowe wiadomości.&lt;/p&gt;
 &lt;p&gt;Zasady są takie same jak w komentarzach: kultura dyskusji, bez obrażania innych. Wiadomość może mieć do 500 znaków, można używać emoji. Czat jest moderowany. Za łamanie zasad grozi czasowa lub stała blokada dostępu.&lt;/p&gt;
+&lt;p&gt;Linki wklejone na czacie są klikalne, a innych patronów możesz oznaczyć, wpisując @ i początek nicku. Gdy ktoś oznaczy Ciebie, wiadomość zostanie wyróżniona.&lt;/p&gt;
+&lt;h3&gt;Ciemna wersja serwisu&lt;/h3&gt;
+&lt;p&gt;Patroni mogą przełączyć PogonSportNet.pl na ciemną wersję w barwach Pogoni. Po zalogowaniu w górnym pasku pojawia się przycisk ☾ (☀ wraca do jasnej wersji). Jeśli na telefonie lub komputerze masz włączony tryb ciemny, portal dopasuje się do niego sam. Wybór zapamiętuje przeglądarka.&lt;/p&gt;
+&lt;h3&gt;Ukrywanie komentarzy wybranych użytkowników&lt;/h3&gt;
+&lt;p&gt;Jeśli nie chcesz czytać komentarzy konkretnej osoby, kliknij „Ukryj użytkownika” przy jej komentarzu. Od tej pory jej komentarze będą u Ciebie zwinięte do krótkiej informacji z przyciskiem „Pokaż”. Listę ukrytych osób znajdziesz pod nagłówkiem „Komentarze” – możesz z niej w każdej chwili kogoś odblokować. Ukryty użytkownik nie dostaje żadnej informacji, a lista jest zapisana na Twoim koncie, więc działa na wszystkich urządzeniach.&lt;/p&gt;
 &lt;h3&gt;Ile trwa status patrona i jak zrezygnować&lt;/h3&gt;
 &lt;p&gt;Status patrona jest ważny przez około miesiąc od ostatniej wpłaty i przedłuża się z każdą kolejną. Wsparcie możesz w każdej chwili zmienić albo anulować na swoim koncie na Patronite. Po anulowaniu korzyści zostają do końca opłaconego okresu.&lt;/p&gt;
 &lt;h3&gt;Wsparcie na prezent&lt;/h3&gt;
