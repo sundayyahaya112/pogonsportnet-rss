@@ -7,23 +7,102 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sat, 17 Oct 2026 05:18:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 09:34:56 +0000</lastBuildDate>
     <item>
       <title>LIVE: GKS - Pogoń [TRANSMISJA AUDIO + LIVE]</title>
       <link>https://pogonsportnet.pl/aktualnosci/live-gks-pogon-transmisja-audio--live/</link>
       <description>&lt;html&gt;
 &lt;body&gt;&lt;p&gt;&lt;strong&gt;Już dziś o godzinie 17:30 piłkarze Pogoni Szczecin walczyć będą o punkty w Katowicach. My przeprowadzimy z tego meczu dla Was transmisję audio z komentarzem Radka Sikory, i tradycyjną pisaną, ale w naszym nowym panelu do relacji LIVE. Zapraszamy do spędzenia tego dnia z nami!&lt;/strong&gt;&lt;/p&gt;&lt;img alt="arenakatowice" src="https://pogonsportnet.pl/storage/c0a9e3d5-2d8f-48b5-a3a0-b74003ca2405/arenakatowice-webp.webp"/&gt;
 &lt;img alt="arenakatowice" src="https://pogonsportnet.pl/storage/c0a9e3d5-2d8f-48b5-a3a0-b74003ca2405/arenakatowice-webp.webp"/&gt;
-&lt;p&gt;17.10.2026 | 06:38&lt;/p&gt;&lt;p&gt;Komentarze: 1&lt;/p&gt;&lt;/body&gt;
+&lt;p&gt;17.10.2026 | 06:38&lt;/p&gt;&lt;p&gt;Komentarze: 10&lt;/p&gt;&lt;/body&gt;
 &lt;/html&gt;</description>
       <content:encoded>&lt;html&gt;
 &lt;body&gt;&lt;p&gt;&lt;strong&gt;Już dziś o godzinie 17:30 piłkarze Pogoni Szczecin walczyć będą o punkty w Katowicach. My przeprowadzimy z tego meczu dla Was transmisję audio z komentarzem Radka Sikory, i tradycyjną pisaną, ale w naszym nowym panelu do relacji LIVE. Zapraszamy do spędzenia tego dnia z nami!&lt;/strong&gt;&lt;/p&gt;&lt;img alt="arenakatowice" src="https://pogonsportnet.pl/storage/c0a9e3d5-2d8f-48b5-a3a0-b74003ca2405/arenakatowice-webp.webp"/&gt;
 &lt;img alt="arenakatowice" src="https://pogonsportnet.pl/storage/c0a9e3d5-2d8f-48b5-a3a0-b74003ca2405/arenakatowice-webp.webp"/&gt;
-&lt;p&gt;17.10.2026 | 06:38&lt;/p&gt;&lt;p&gt;Komentarze: 1&lt;/p&gt;&lt;/body&gt;
+&lt;p&gt;17.10.2026 | 06:38&lt;/p&gt;&lt;p&gt;Komentarze: 10&lt;/p&gt;&lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/live-gks-pogon-transmisja-audio--live/</guid>
       <enclosure url="https://pogonsportnet.pl/storage/c0a9e3d5-2d8f-48b5-a3a0-b74003ca2405/arenakatowice-webp.webp" length="0" type="image/jpeg"/>
       <pubDate>Sat, 17 Oct 2026 06:38:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Co nowego na pogonsportnet.pl? Przegląd zmian z ostatnich dni w serwisie</title>
+      <link>https://pogonsportnet.pl/aktualnosci/co-nowego-na-pogonsportnetpl-przeglad-zmian-z-ostatnich-dni-w-serwisie/</link>
+      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/36a3482a-94f4-4a69-b126-11f95a337cef/patronite-1920x1080-jpg.webp" alt="Co nowego na pogonsportnet.pl? Przegląd zmian z ostatnich dni w serwisie" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;W ostatnich dniach w serwisie pojawiło się sporo nowości – od wyników na żywo na stronie głównej, przez statystyki i składy meczowe, po funkcje dla Patronów. Zebraliśmy wszystko w jednym miejscu.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ekstraklasa na żywo na stronie głównej&lt;/strong&gt; &lt;i&gt;(dla wszystkich)&lt;/i&gt;&lt;br/&gt;Nad modułami meczowymi pojawił się moduł PKO BP Ekstraklasa. Pokazuje bieżącą kolejkę z wynikami na żywo oraz tabelę live, która uwzględnia trwające mecze. Po zakończeniu kolejki moduł sam przełącza się na następną. Przy trwających spotkaniach obok oznaczenia LIVE widać aktualną minutę meczu, a w przerwie napis PRZERWA.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ostatni i następny mecz – automatycznie i z większą liczbą danych&lt;/strong&gt; &lt;i&gt;(dla wszystkich)&lt;/i&gt;&lt;br/&gt;Moduły Ostatni mecz i Następny mecz aktualizują się teraz same. Przy ostatnim meczu znajdziecie:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;strzelców goli z asystami i kartki;&lt;/li&gt;
+&lt;li&gt;statystyki: posiadanie piłki, gole oczekiwane (xG), strzały, strzały celne, rzuty rożne i faule;&lt;/li&gt;
+&lt;li&gt;składy pod przyciskiem „Składy”: ustawienie, wyjściowe jedenastki, kapitanów, zmiany z minutami i ławkę rezerwowych.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;W trakcie meczu Pogoni moduł następnego meczu pokazuje wynik na żywo, zdarzenia i statystyki. Oba moduły dostały też nowy, lżejszy wygląd.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wystaw swoją jedenastkę&lt;/strong&gt; &lt;i&gt;(dla wszystkich)&lt;/i&gt;&lt;br/&gt;Pod adresem &lt;a href="https://pogonsportnet.pl/pogonsportnet.pl/jedenastka/"&gt;&lt;i&gt;&lt;strong&gt;pogonsportnet.pl/jedenastka/&lt;/strong&gt;&lt;/i&gt;&lt;/a&gt; każdy może ułożyć własny skład Pogoni na najbliższy mecz. Wystarczy wybrać ustawienie i zawodników pierwszej drużyny, a potem podpisać się imieniem lub nickiem. Powstaje grafika z informacją o meczu (rywal, data, godzina, stadion), którą można udostępnić jako link albo obrazek. Do kreatora prowadzi też przycisk „Wystaw swój skład!” w module Następny mecz.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Terminarz i tabela LIVE w panelu bocznym&lt;/strong&gt; &lt;i&gt;(dla wszystkich)&lt;/i&gt;&lt;br/&gt;Moduł terminarza w prawej kolumnie ma teraz przełącznik Terminarz / Tabela LIVE. Między kolejkami można przechodzić strzałkami, a wyniki trwających meczów odświeżają się na bieżąco. Panel boczny przewija się płynnie razem ze stroną.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kadra&lt;/strong&gt; &lt;i&gt;(dla wszystkich)&lt;/i&gt;&lt;br/&gt;Po otwarciu karty zawodnika lub zawodniczki można przechodzić do kolejnych osób strzałkami, klawiaturą albo przesunięciem palca na telefonie. Działa to w kadrze pierwszej drużyny, II zespołu i drużyny kobiet. Kadra II zespołu ma nową sekcję „Występowali także”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Redakcja&lt;/strong&gt; &lt;i&gt;(dla wszystkich)&lt;/i&gt;&lt;br/&gt;Nowa strona Redakcja przedstawia osoby, które tworzą serwis: redakcję, dział wideo, fotoreporterów, twórców TikToka i stałych współpracowników.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Komentarze&lt;/strong&gt; &lt;i&gt;(dla zalogowanych)&lt;/i&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stopnie:&lt;/strong&gt; za aktywność w komentarzach użytkownicy zdobywają kolejne stopnie, od Majtka aż po Legendę Portu.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kapitan miesiąca:&lt;/strong&gt; najaktywniejszy komentujący w danym miesiącu dostaje wyróżnienie przy nicku.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ukrywanie użytkowników:&lt;/strong&gt; komentarze wybranej osoby można zwinąć u siebie. Tę decyzję można w każdej chwili cofnąć.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Google&lt;/strong&gt; &lt;i&gt;(dla wszystkich)&lt;/i&gt;&lt;br/&gt;W serwisie pojawił się przycisk, którym można dodać Pogoń SportNet do preferowanych źródeł w wiadomościach Google.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dla Patronów&lt;/strong&gt;&lt;br/&gt;Od października serwis można wspierać w ramach &lt;strong&gt;Patronite (&lt;/strong&gt;&lt;strong&gt;patronite.pl/pogonsportnet&lt;/strong&gt;&lt;strong&gt;)&lt;/strong&gt;. Patroni mają dostęp do dodatkowych funkcji:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Czat Patronów&lt;/strong&gt; &lt;i&gt;(od 10 zł)&lt;/i&gt; – wysuwany czat dla Patronów, który pokazuje wiadomości z ostatnich 24 godzin.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serwis bez reklam&lt;/strong&gt; &lt;i&gt;(od 25 zł)&lt;/i&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tryb ciemny&lt;/strong&gt; – przełącznik w panelu użytkownika, na telefonie ikona księżyca w górnym menu.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wyszukiwarka newsów&lt;/strong&gt; – przeszukiwanie archiwum artykułów, również na telefonie.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Odznaka Patrona&lt;/strong&gt; przy nicku w komentarzach.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Miejsce na liście Patronów&lt;/strong&gt; na stronie Zostań Patronem.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Szczegóły i progi wsparcia znajdziecie na stronie &lt;a href="https://pogonsportnet.pl/zostan-patronem/"&gt;&lt;i&gt;&lt;strong&gt;pogonsportnet.pl/zostan-patronem/&lt;/strong&gt;&lt;/i&gt;&lt;/a&gt;. Dziękujemy wszystkim, którzy już nas wspierają.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/36a3482a-94f4-4a69-b126-11f95a337cef/patronite-1920x1080-jpg.webp" alt="Co nowego na pogonsportnet.pl? Przegląd zmian z ostatnich dni w serwisie" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;W ostatnich dniach w serwisie pojawiło się sporo nowości – od wyników na żywo na stronie głównej, przez statystyki i składy meczowe, po funkcje dla Patronów. Zebraliśmy wszystko w jednym miejscu.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ekstraklasa na żywo na stronie głównej&lt;/strong&gt; &lt;i&gt;(dla wszystkich)&lt;/i&gt;&lt;br/&gt;Nad modułami meczowymi pojawił się moduł PKO BP Ekstraklasa. Pokazuje bieżącą kolejkę z wynikami na żywo oraz tabelę live, która uwzględnia trwające mecze. Po zakończeniu kolejki moduł sam przełącza się na następną. Przy trwających spotkaniach obok oznaczenia LIVE widać aktualną minutę meczu, a w przerwie napis PRZERWA.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ostatni i następny mecz – automatycznie i z większą liczbą danych&lt;/strong&gt; &lt;i&gt;(dla wszystkich)&lt;/i&gt;&lt;br/&gt;Moduły Ostatni mecz i Następny mecz aktualizują się teraz same. Przy ostatnim meczu znajdziecie:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;strzelców goli z asystami i kartki;&lt;/li&gt;
+&lt;li&gt;statystyki: posiadanie piłki, gole oczekiwane (xG), strzały, strzały celne, rzuty rożne i faule;&lt;/li&gt;
+&lt;li&gt;składy pod przyciskiem „Składy”: ustawienie, wyjściowe jedenastki, kapitanów, zmiany z minutami i ławkę rezerwowych.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;W trakcie meczu Pogoni moduł następnego meczu pokazuje wynik na żywo, zdarzenia i statystyki. Oba moduły dostały też nowy, lżejszy wygląd.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wystaw swoją jedenastkę&lt;/strong&gt; &lt;i&gt;(dla wszystkich)&lt;/i&gt;&lt;br/&gt;Pod adresem &lt;a href="https://pogonsportnet.pl/pogonsportnet.pl/jedenastka/"&gt;&lt;i&gt;&lt;strong&gt;pogonsportnet.pl/jedenastka/&lt;/strong&gt;&lt;/i&gt;&lt;/a&gt; każdy może ułożyć własny skład Pogoni na najbliższy mecz. Wystarczy wybrać ustawienie i zawodników pierwszej drużyny, a potem podpisać się imieniem lub nickiem. Powstaje grafika z informacją o meczu (rywal, data, godzina, stadion), którą można udostępnić jako link albo obrazek. Do kreatora prowadzi też przycisk „Wystaw swój skład!” w module Następny mecz.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Terminarz i tabela LIVE w panelu bocznym&lt;/strong&gt; &lt;i&gt;(dla wszystkich)&lt;/i&gt;&lt;br/&gt;Moduł terminarza w prawej kolumnie ma teraz przełącznik Terminarz / Tabela LIVE. Między kolejkami można przechodzić strzałkami, a wyniki trwających meczów odświeżają się na bieżąco. Panel boczny przewija się płynnie razem ze stroną.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kadra&lt;/strong&gt; &lt;i&gt;(dla wszystkich)&lt;/i&gt;&lt;br/&gt;Po otwarciu karty zawodnika lub zawodniczki można przechodzić do kolejnych osób strzałkami, klawiaturą albo przesunięciem palca na telefonie. Działa to w kadrze pierwszej drużyny, II zespołu i drużyny kobiet. Kadra II zespołu ma nową sekcję „Występowali także”.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Redakcja&lt;/strong&gt; &lt;i&gt;(dla wszystkich)&lt;/i&gt;&lt;br/&gt;Nowa strona Redakcja przedstawia osoby, które tworzą serwis: redakcję, dział wideo, fotoreporterów, twórców TikToka i stałych współpracowników.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Komentarze&lt;/strong&gt; &lt;i&gt;(dla zalogowanych)&lt;/i&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stopnie:&lt;/strong&gt; za aktywność w komentarzach użytkownicy zdobywają kolejne stopnie, od Majtka aż po Legendę Portu.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kapitan miesiąca:&lt;/strong&gt; najaktywniejszy komentujący w danym miesiącu dostaje wyróżnienie przy nicku.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ukrywanie użytkowników:&lt;/strong&gt; komentarze wybranej osoby można zwinąć u siebie. Tę decyzję można w każdej chwili cofnąć.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Google&lt;/strong&gt; &lt;i&gt;(dla wszystkich)&lt;/i&gt;&lt;br/&gt;W serwisie pojawił się przycisk, którym można dodać Pogoń SportNet do preferowanych źródeł w wiadomościach Google.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dla Patronów&lt;/strong&gt;&lt;br/&gt;Od października serwis można wspierać w ramach &lt;strong&gt;Patronite (&lt;/strong&gt;&lt;strong&gt;patronite.pl/pogonsportnet&lt;/strong&gt;&lt;strong&gt;)&lt;/strong&gt;. Patroni mają dostęp do dodatkowych funkcji:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Czat Patronów&lt;/strong&gt; &lt;i&gt;(od 10 zł)&lt;/i&gt; – wysuwany czat dla Patronów, który pokazuje wiadomości z ostatnich 24 godzin.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serwis bez reklam&lt;/strong&gt; &lt;i&gt;(od 25 zł)&lt;/i&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tryb ciemny&lt;/strong&gt; – przełącznik w panelu użytkownika, na telefonie ikona księżyca w górnym menu.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wyszukiwarka newsów&lt;/strong&gt; – przeszukiwanie archiwum artykułów, również na telefonie.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Odznaka Patrona&lt;/strong&gt; przy nicku w komentarzach.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Miejsce na liście Patronów&lt;/strong&gt; na stronie Zostań Patronem.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Szczegóły i progi wsparcia znajdziecie na stronie &lt;a href="https://pogonsportnet.pl/zostan-patronem/"&gt;&lt;i&gt;&lt;strong&gt;pogonsportnet.pl/zostan-patronem/&lt;/strong&gt;&lt;/i&gt;&lt;/a&gt;. Dziękujemy wszystkim, którzy już nas wspierają.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content:encoded>
+      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/co-nowego-na-pogonsportnetpl-przeglad-zmian-z-ostatnich-dni-w-serwisie/</guid>
+      <enclosure url="https://pogonsportnet.pl/storage/36a3482a-94f4-4a69-b126-11f95a337cef/patronite-1920x1080-jpg.webp" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 17 Oct 2026 08:04:00 +0200</pubDate>
     </item>
     <item>
       <title>Zapowiedź: Najlepsza obrona kontra najlepszy atak!</title>
@@ -708,45 +787,40 @@
       <pubDate>Fri, 16 Oct 2026 10:56:00 +0200</pubDate>
     </item>
     <item>
-      <title>Garcia: Jeden z piłkarzy, którzy zrobili na mnie największe wrażenie</title>
-      <link>https://pogonsportnet.pl/aktualnosci/garcia-jeden-z-pilkarzy-ktorzy-zrobili-na-mnie-najwieksze-wrazenie/</link>
-      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/235ba84e-af55-4f02-9ed3-b4108465a7bd/nowak-jpg.webp" alt="Garcia: Jeden z piłkarzy, którzy zrobili na mnie największe wrażenie" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Bartosz Nowak będzie jednym z najważniejszych zawodników, których Pogoń Szczecin musi zatrzymać w sobotę w Katowicach. Óscar García nie szczędził pomocnikowi GKS-u komplementów.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;- Zatrzymanie takiego piłkarza to powinna być praca całego zespołu. To jeden z piłkarzy, którzy zrobili na mnie największe wrażenie w Ekstraklasie. Jest bardzo dobry z piłką, potrafi dograć kluczowe podanie i strzelać bramki. Wiele zagrożenia w ofensywie rywali pochodzi od jego mobilności, podań i umiejętności - powiedział trener Pogoni.&lt;/p&gt;
-&lt;p&gt;Hiszpan podkreślił, że GKS ma w ofensywie więcej groźnych zawodników, ale Portowcy też mają czym odpowiedzieć.&lt;/p&gt;
-&lt;p&gt;- Rywale mają także innych groźnych piłkarzy w ofensywie, ale my też mamy swoje mocne strony i będziemy chcieli je wykorzystać - zaznaczył.&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/235ba84e-af55-4f02-9ed3-b4108465a7bd/nowak-jpg.webp" alt="Garcia: Jeden z piłkarzy, którzy zrobili na mnie największe wrażenie" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Bartosz Nowak będzie jednym z najważniejszych zawodników, których Pogoń Szczecin musi zatrzymać w sobotę w Katowicach. Óscar García nie szczędził pomocnikowi GKS-u komplementów.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;- Zatrzymanie takiego piłkarza to powinna być praca całego zespołu. To jeden z piłkarzy, którzy zrobili na mnie największe wrażenie w Ekstraklasie. Jest bardzo dobry z piłką, potrafi dograć kluczowe podanie i strzelać bramki. Wiele zagrożenia w ofensywie rywali pochodzi od jego mobilności, podań i umiejętności - powiedział trener Pogoni.&lt;/p&gt;
-&lt;p&gt;Hiszpan podkreślił, że GKS ma w ofensywie więcej groźnych zawodników, ale Portowcy też mają czym odpowiedzieć.&lt;/p&gt;
-&lt;p&gt;- Rywale mają także innych groźnych piłkarzy w ofensywie, ale my też mamy swoje mocne strony i będziemy chcieli je wykorzystać - zaznaczył.&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</content:encoded>
-      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/garcia-jeden-z-pilkarzy-ktorzy-zrobili-na-mnie-najwieksze-wrazenie/</guid>
-      <enclosure url="https://pogonsportnet.pl/storage/235ba84e-af55-4f02-9ed3-b4108465a7bd/nowak-jpg.webp" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 16 Oct 2026 09:56:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Aktualności</title>
       <link>https://pogonsportnet.pl/aktualnosci/2/</link>
       <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Zapowiedź: W niedzielę lider podejmie Spartę&lt;/h3&gt;
+&lt;h3&gt;Garcia: Jeden z piłkarzy, którzy zrobili na mnie największe wrażenie&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Bartosz Nowak będzie jednym z najważniejszych zawodników, których Pogoń Szczecin musi zatrzymać w sobotę w Katowicach. Óscar García nie szczędził pomocnikowi GKS-u komplementów.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W niedzielę o godzinie 15:00 Pogoń II Szczecin zmierzy się u siebie ze Spartą Gryfice w 10. kolejce IV ligi zachodniopomorskiej. Rezerwy Portowców przystępują do meczu jako lider tabeli i z serią czterech zwycięstw z rzędu.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Maciej Wojciechowski jest jednym z wygranych początku sezonu w Pogoni Szczecin. Óscar García nie ukrywał na konferencji przed meczem z GKS-em, że postawa młodego pomocnika daje mu dużo satysfakcji.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin jedzie do Katowic z zamiarem przerwania serii GKS-u na własnym stadionie. Óscar García podkreślał na przedmeczowej konferencji siłę rywala, ale mówił też, że jego zespół podejdzie do sobotniego meczu optymistycznie.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę o godzinie 12:00 piłkarki Pogoni Szczecin zagrają na wyjeździe z Lechem/UAM Poznań w 8. kolejce Orlen Ekstraligi kobiet. Podopieczne Martina Masaryka chcą wrócić na zwycięską ścieżkę po porażce z Rekordem Bielsko-Biała.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Rywalizacja Pogoni z GKS-em Katowice trwa od 1966 roku. W tym czasie wielu zawodników grało w obu klubach.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;PogonSportNet.pl ma profil na Patronite. Od dziś każdy, kto chce wspierać najstarszy kibicowski portal o Pogoni, może to robić co miesiąc. W zamian dostaje konkretne korzyści na stronie: odznakę przy komentarzach, wyróżniony nick, dostęp do czatu patronów, a od progu 25 zł portal bez reklam.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Szwedzki defensor kończył program UEFA Certificate in Football Management (Players' Edition). Linus to przykład, że profesjonalny sportowiec może skutecznie łączyć występ na boisku z budowaniem kompetencji na przyszłość.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Za nami konferencja prasowa przed meczem 11. kolejki PKO BP Ekstraklasy z GKS-em Katowice. Sprawdź, co do powiedzenia miał na spotkaniu z mediami trener Oscar Garcia.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Prezes Pogoni Szczecin Alex Haditaghi skomentował w mediach społecznościowych dwie ostatnie akcje klubu. Pierwsza to spotkanie Benjamina Mendy’ego z zawodnikami Akademii, druga to wizyta Macieja Wojciechowskiego w jego dawnej szkole.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Na niedzielny mecz z Koroną Kielce (2:0) Pogoń Szczecin przekazała 197 biletów osobom walczącym z chorobą nowotworową, osobom w spektrum autyzmu oraz ich bliskim. Akcja była osobistą inicjatywą prezesa klubu Alexa Haditaghiego.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Zamówiliście ponad 1000 koszulek meczowych 12. zawodnik, co jest dla nas czytelnym sygnałem, że ta propozycja mocno przypadła Wam do gustu. W związku z tym postanowiliśmy przedłużyć możliwość zamówień, aby dać szansę tym, którzy jeszcze się wahają lub czekają na dopływ pieniędzy - informuje klub.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
       <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Zapowiedź: W niedzielę lider podejmie Spartę&lt;/h3&gt;
+&lt;h3&gt;Garcia: Jeden z piłkarzy, którzy zrobili na mnie największe wrażenie&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Bartosz Nowak będzie jednym z najważniejszych zawodników, których Pogoń Szczecin musi zatrzymać w sobotę w Katowicach. Óscar García nie szczędził pomocnikowi GKS-u komplementów.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W niedzielę o godzinie 15:00 Pogoń II Szczecin zmierzy się u siebie ze Spartą Gryfice w 10. kolejce IV ligi zachodniopomorskiej. Rezerwy Portowców przystępują do meczu jako lider tabeli i z serią czterech zwycięstw z rzędu.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Maciej Wojciechowski jest jednym z wygranych początku sezonu w Pogoni Szczecin. Óscar García nie ukrywał na konferencji przed meczem z GKS-em, że postawa młodego pomocnika daje mu dużo satysfakcji.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin jedzie do Katowic z zamiarem przerwania serii GKS-u na własnym stadionie. Óscar García podkreślał na przedmeczowej konferencji siłę rywala, ale mówił też, że jego zespół podejdzie do sobotniego meczu optymistycznie.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę o godzinie 12:00 piłkarki Pogoni Szczecin zagrają na wyjeździe z Lechem/UAM Poznań w 8. kolejce Orlen Ekstraligi kobiet. Podopieczne Martina Masaryka chcą wrócić na zwycięską ścieżkę po porażce z Rekordem Bielsko-Biała.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Rywalizacja Pogoni z GKS-em Katowice trwa od 1966 roku. W tym czasie wielu zawodników grało w obu klubach.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;PogonSportNet.pl ma profil na Patronite. Od dziś każdy, kto chce wspierać najstarszy kibicowski portal o Pogoni, może to robić co miesiąc. W zamian dostaje konkretne korzyści na stronie: odznakę przy komentarzach, wyróżniony nick, dostęp do czatu patronów, a od progu 25 zł portal bez reklam.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Szwedzki defensor kończył program UEFA Certificate in Football Management (Players' Edition). Linus to przykład, że profesjonalny sportowiec może skutecznie łączyć występ na boisku z budowaniem kompetencji na przyszłość.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Za nami konferencja prasowa przed meczem 11. kolejki PKO BP Ekstraklasy z GKS-em Katowice. Sprawdź, co do powiedzenia miał na spotkaniu z mediami trener Oscar Garcia.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Prezes Pogoni Szczecin Alex Haditaghi skomentował w mediach społecznościowych dwie ostatnie akcje klubu. Pierwsza to spotkanie Benjamina Mendy’ego z zawodnikami Akademii, druga to wizyta Macieja Wojciechowskiego w jego dawnej szkole.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Na niedzielny mecz z Koroną Kielce (2:0) Pogoń Szczecin przekazała 197 biletów osobom walczącym z chorobą nowotworową, osobom w spektrum autyzmu oraz ich bliskim. Akcja była osobistą inicjatywą prezesa klubu Alexa Haditaghiego.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Zamówiliście ponad 1000 koszulek meczowych 12. zawodnik, co jest dla nas czytelnym sygnałem, że ta propozycja mocno przypadła Wam do gustu. W związku z tym postanowiliśmy przedłużyć możliwość zamówień, aby dać szansę tym, którzy jeszcze się wahają lub czekają na dopływ pieniędzy - informuje klub.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/2/</guid>
@@ -757,14 +831,36 @@
       <link>https://pogonsportnet.pl/aktualnosci/3/</link>
       <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Kesler dla Weszlo: Pogoń jest dla mnie czystym płótnem&lt;/h3&gt;
+&lt;h3&gt;Marciniak sędzią meczu z GKS-em&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Kolegium Sędziów PZPN wyznaczyło Szymona Marciniaka do poprowadzenia sobotniego meczu GKS Katowice - Pogoń Szczecin. Spotkanie 11. kolejki PKO BP Ekstraklasy rozpocznie się o 17:30.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;CEO Pogoni Szczecin Tan Kesler ma ambitne plany związane z klubem i całą polską piłką. W rozmowie z Weszło mówi o budowie stabilnej organizacji, rozwoju młodych zawodników, walce o europejskie puchary i szansach Ekstraklasy na awans do europejskiej czołówki. Nie zabrakło też zaskakującego wątku Roberta Lewandowskiego.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę o 17:30 Pogoń Szczecin zagra na wyjeździe z GKS-em Katowice w 11. kolejce PKO BP Ekstraklasy. Óscar García ma do dyspozycji wszystkich zawodników, bo nikt w szeregach Portowców nie pauzuje za kartki. Jeden piłkarz gra jednak pod presją.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Piłkarze Pogoni Szczecin przygotowują się do sobotniego meczu z GKS-em Katowice, a w kolejny weekend zagramy w Szczecinie z Radomiakiem Radom. W czwartek o godzinie 11:20 licznik w serwisie ilunapogon.pl wskazuje, że swoją wejściówkę na to wydarzenie ma już 9 471 kibiców.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W środę opublikowaliśmy listę poprawionych rzeczy w serwisie, a pod nią pojawiła się świetna dyskusja o kolejnych możliwościach. Na tej podstawie od środy każdy może oceniać komentarze, nawet bez logowania. Zmieniliśmy też sposób wyboru komentarza dnia i wydłużyliśmy sesję logowania do 30 dni. W najbliższych tygodniach uruchomimy możliwość wspierania serwisu, a z nią wersję PogonSportNet.pl bez reklam.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń nie przegrała od ośmiu kolejek i straciła tylko sześć goli. W Katowicach zagra o kolejne zwycięstwo.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;GKS Katowice strzelił 22 gole w dziesięciu meczach, więcej niż Pogoń. Kto stanowi o sile ofensywnej rywala?&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Z okazji Dnia Edukacji Narodowej Pogoń Szczecin przygotowała niespodziankę dla nauczycielek, które uczyły jednego z jej młodych zawodników. Maciej Wojciechowski wrócił do swojej dawnej szkoły, żeby osobiście podziękować byłym nauczycielkom.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Benjamin Mendy odwiedził Akademię Piłkarską Pogoni Szczecin. Francuski obrońca, mistrz świata z 2018 roku, spotkał się z młodymi Portowcami i opowiedział im o swojej karierze.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W ostatnich dniach sporo zmieniłem w serwisie. Odświeżyłem stronę główną, komentarze i tabele, ograniczyłem uciążliwość reklam i dodałem nowe działy: kadrę Pogoni, kolejkę Ekstraklasy z wynikami na żywo i rozbudowane relacje LIVE. Poniżej opisuję wszystkie zmiany po kolei.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Przed nami sobotni mecz z GKS-em Katowice. Jak wyglądały ostatnie pojedynki tych drużyn? Zapraszamy na serię skrótów.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W historii meczów z GKS-em Pogoń ma na koncie kilka bardzo wysokich zwycięstw. Najlepsze lata to połowa lat 80.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
       <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Kesler dla Weszlo: Pogoń jest dla mnie czystym płótnem&lt;/h3&gt;
+&lt;h3&gt;Marciniak sędzią meczu z GKS-em&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Kolegium Sędziów PZPN wyznaczyło Szymona Marciniaka do poprowadzenia sobotniego meczu GKS Katowice - Pogoń Szczecin. Spotkanie 11. kolejki PKO BP Ekstraklasy rozpocznie się o 17:30.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;CEO Pogoni Szczecin Tan Kesler ma ambitne plany związane z klubem i całą polską piłką. W rozmowie z Weszło mówi o budowie stabilnej organizacji, rozwoju młodych zawodników, walce o europejskie puchary i szansach Ekstraklasy na awans do europejskiej czołówki. Nie zabrakło też zaskakującego wątku Roberta Lewandowskiego.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę o 17:30 Pogoń Szczecin zagra na wyjeździe z GKS-em Katowice w 11. kolejce PKO BP Ekstraklasy. Óscar García ma do dyspozycji wszystkich zawodników, bo nikt w szeregach Portowców nie pauzuje za kartki. Jeden piłkarz gra jednak pod presją.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Piłkarze Pogoni Szczecin przygotowują się do sobotniego meczu z GKS-em Katowice, a w kolejny weekend zagramy w Szczecinie z Radomiakiem Radom. W czwartek o godzinie 11:20 licznik w serwisie ilunapogon.pl wskazuje, że swoją wejściówkę na to wydarzenie ma już 9 471 kibiców.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W środę opublikowaliśmy listę poprawionych rzeczy w serwisie, a pod nią pojawiła się świetna dyskusja o kolejnych możliwościach. Na tej podstawie od środy każdy może oceniać komentarze, nawet bez logowania. Zmieniliśmy też sposób wyboru komentarza dnia i wydłużyliśmy sesję logowania do 30 dni. W najbliższych tygodniach uruchomimy możliwość wspierania serwisu, a z nią wersję PogonSportNet.pl bez reklam.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń nie przegrała od ośmiu kolejek i straciła tylko sześć goli. W Katowicach zagra o kolejne zwycięstwo.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;GKS Katowice strzelił 22 gole w dziesięciu meczach, więcej niż Pogoń. Kto stanowi o sile ofensywnej rywala?&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Z okazji Dnia Edukacji Narodowej Pogoń Szczecin przygotowała niespodziankę dla nauczycielek, które uczyły jednego z jej młodych zawodników. Maciej Wojciechowski wrócił do swojej dawnej szkoły, żeby osobiście podziękować byłym nauczycielkom.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Benjamin Mendy odwiedził Akademię Piłkarską Pogoni Szczecin. Francuski obrońca, mistrz świata z 2018 roku, spotkał się z młodymi Portowcami i opowiedział im o swojej karierze.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W ostatnich dniach sporo zmieniłem w serwisie. Odświeżyłem stronę główną, komentarze i tabele, ograniczyłem uciążliwość reklam i dodałem nowe działy: kadrę Pogoni, kolejkę Ekstraklasy z wynikami na żywo i rozbudowane relacje LIVE. Poniżej opisuję wszystkie zmiany po kolei.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Przed nami sobotni mecz z GKS-em Katowice. Jak wyglądały ostatnie pojedynki tych drużyn? Zapraszamy na serię skrótów.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W historii meczów z GKS-em Pogoń ma na koncie kilka bardzo wysokich zwycięstw. Najlepsze lata to połowa lat 80.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/3/</guid>
@@ -775,14 +871,36 @@
       <link>https://pogonsportnet.pl/aktualnosci/4/</link>
       <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;#KartkaZKalendarza: 14 października 2016. Setny mecz Fojuta i zwycięstwo z mistrzem Polski&lt;/h3&gt;
+&lt;h3&gt;Wychowankowie Pogoni po drugiej stronie&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W GKS-ie Katowice grają dwaj zawodnicy, którzy przeszli przez Akademię Pogoni.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Dokładnie 10 lat temu, 14 października 2016 roku, Pogoń Szczecin pokonała Legię Warszawa 3:2. Dla Jarosława Fojuta był to setny mecz w Ekstraklasie, a obrońca Portowców uczcił go asystą przy pierwszym golu.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Kamil Jakubczyk, wychowanek Pogoni Szczecin, a obecnie zawodnik Korony Kielce, w rozmowie ze Stolicą Sportu opowiedział o swoich latach w Szczecinie i o tym, dlaczego odszedł z klubu. Mimo rozstania podkreśla, że Pogoń wciąż jest mu bliska.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Według kronikapogoni.pl Pogoń zagrała z GKS-em Katowice 58 razy. Bilans jest korzystny dla Portowców, ale nie na wyjazdach.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Na swoim stadionie GKS Katowice wygrywa wszystko. Pogoń czeka trudne zadanie.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Zwycięstwo z Koroną Kielce (2:0) zwróciło uwagę ekspertów. W programie Meczyki.pl dyskutowano o formie Pogoni Szczecin, pracy Oscara Garcii, najważniejszych zawodnikach i roli Alexa Haditaghiego. Oceny były w większości bardzo pozytywne.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Na moment wracamy jeszcze do niedzielnego meczu Pogoni Szczecin z Koroną Kielce. Mamy dla Was materiał wideo z dopingiem z całego spotkania.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę Pogoń Szczecin zagra z GKS-em Katowice po raz 59. w lidze. To jedna z najdłuższych rywalizacji w historii Portowców, bo pierwszy mecz odbył się w 1966 roku. Według kronikapogoni.pl ogólny bilans jest lekko korzystny dla Pogoni, ale w Katowicach od lat przeważa GKS.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Benni Schunk, dyrektor pionu skautingu i rekrutacji Dumy Pomorza, pomyślnie ukończył pięciomiesięczny kurs Sportmanagement CAS HSG na szwajcarskim University of St. Gallen.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Paul Mukairu znalazł się w oficjalnej jedenastce 10. kolejki PKO BP Ekstraklasy. To wyróżnienie za mecz z Koroną Kielce (2:0), w którym skrzydłowy Pogoni Szczecin zaliczył gola i asystę.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę zagrają przeciwko sobie dwaj najlepsi strzelcy Ekstraklasy. Jordi Sánchez i Ilja Szkurin mają po osiem goli.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń i GKS Katowice mają po 18 punktów i wygrały ostatnie trzy mecze. W sobotę jedna z tych serii się skończy, a może i obie.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
       <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;#KartkaZKalendarza: 14 października 2016. Setny mecz Fojuta i zwycięstwo z mistrzem Polski&lt;/h3&gt;
+&lt;h3&gt;Wychowankowie Pogoni po drugiej stronie&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W GKS-ie Katowice grają dwaj zawodnicy, którzy przeszli przez Akademię Pogoni.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Dokładnie 10 lat temu, 14 października 2016 roku, Pogoń Szczecin pokonała Legię Warszawa 3:2. Dla Jarosława Fojuta był to setny mecz w Ekstraklasie, a obrońca Portowców uczcił go asystą przy pierwszym golu.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Kamil Jakubczyk, wychowanek Pogoni Szczecin, a obecnie zawodnik Korony Kielce, w rozmowie ze Stolicą Sportu opowiedział o swoich latach w Szczecinie i o tym, dlaczego odszedł z klubu. Mimo rozstania podkreśla, że Pogoń wciąż jest mu bliska.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Według kronikapogoni.pl Pogoń zagrała z GKS-em Katowice 58 razy. Bilans jest korzystny dla Portowców, ale nie na wyjazdach.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Na swoim stadionie GKS Katowice wygrywa wszystko. Pogoń czeka trudne zadanie.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Zwycięstwo z Koroną Kielce (2:0) zwróciło uwagę ekspertów. W programie Meczyki.pl dyskutowano o formie Pogoni Szczecin, pracy Oscara Garcii, najważniejszych zawodnikach i roli Alexa Haditaghiego. Oceny były w większości bardzo pozytywne.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Na moment wracamy jeszcze do niedzielnego meczu Pogoni Szczecin z Koroną Kielce. Mamy dla Was materiał wideo z dopingiem z całego spotkania.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę Pogoń Szczecin zagra z GKS-em Katowice po raz 59. w lidze. To jedna z najdłuższych rywalizacji w historii Portowców, bo pierwszy mecz odbył się w 1966 roku. Według kronikapogoni.pl ogólny bilans jest lekko korzystny dla Pogoni, ale w Katowicach od lat przeważa GKS.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Benni Schunk, dyrektor pionu skautingu i rekrutacji Dumy Pomorza, pomyślnie ukończył pięciomiesięczny kurs Sportmanagement CAS HSG na szwajcarskim University of St. Gallen.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Paul Mukairu znalazł się w oficjalnej jedenastce 10. kolejki PKO BP Ekstraklasy. To wyróżnienie za mecz z Koroną Kielce (2:0), w którym skrzydłowy Pogoni Szczecin zaliczył gola i asystę.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę zagrają przeciwko sobie dwaj najlepsi strzelcy Ekstraklasy. Jordi Sánchez i Ilja Szkurin mają po osiem goli.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń i GKS Katowice mają po 18 punktów i wygrały ostatnie trzy mecze. W sobotę jedna z tych serii się skończy, a może i obie.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/4/</guid>
@@ -793,7 +911,8 @@
       <link>https://pogonsportnet.pl/aktualnosci/2268/</link>
       <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Robak zostaje w Pogoni!&lt;/h3&gt;
+&lt;h3&gt;Spotkanie z Werderem już jutro!&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Rok temu Portowcy na własnym stadionie podejmowali zespół Olympique Lyon. Spotkanie, które obejrzało blisko 11 000 kibiców stało się wielkim świętem futbolu w Szczecinie. Już jutro podopieczni Darius&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Od rana w różnych mediach pojawiały się informacje o tym, że klub z Chin zrezygnował z transferu Marcina Robaka. Zamiast niego przez Chińczyków pozyskany został Mike Hanke, zawodnik z Niemiec, który&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Zakończyła się już faza ćwierćfinałowa Mistrzostw Świata w Brazylii. W naszej zabawie udział bierze ponad 200 osób. Teraz czas aby oddać typy na 1/2 turnieju. Na Wasze typy czekamy do wtorku do godziny 22:00.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W drugim sobotnim spotkaniu Portowcy musieli uznać wyższość beniaminka I ligi – Bytovii Bytów. Mecz zakończył się zwycięstwem podopiecznych Pawła Janasa 1:0. Była to trzecia porażka graczy Pogoni podczas trw&lt;/p&gt;
@@ -807,7 +926,8 @@
 &lt;/html&gt;</description>
       <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Robak zostaje w Pogoni!&lt;/h3&gt;
+&lt;h3&gt;Spotkanie z Werderem już jutro!&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Rok temu Portowcy na własnym stadionie podejmowali zespół Olympique Lyon. Spotkanie, które obejrzało blisko 11 000 kibiców stało się wielkim świętem futbolu w Szczecinie. Już jutro podopieczni Darius&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Od rana w różnych mediach pojawiały się informacje o tym, że klub z Chin zrezygnował z transferu Marcina Robaka. Zamiast niego przez Chińczyków pozyskany został Mike Hanke, zawodnik z Niemiec, który&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Zakończyła się już faza ćwierćfinałowa Mistrzostw Świata w Brazylii. W naszej zabawie udział bierze ponad 200 osób. Teraz czas aby oddać typy na 1/2 turnieju. Na Wasze typy czekamy do wtorku do godziny 22:00.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W drugim sobotnim spotkaniu Portowcy musieli uznać wyższość beniaminka I ligi – Bytovii Bytów. Mecz zakończył się zwycięstwem podopiecznych Pawła Janasa 1:0. Była to trzecia porażka graczy Pogoni podczas trw&lt;/p&gt;
