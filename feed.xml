@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 20 Oct 2026 22:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:44:59 +0000</lastBuildDate>
     <item>
       <title>Pogoń i PKO BP Ekstraklasa</title>
       <link>https://pogonsportnet.pl/aktualnosci/rozmowy-pogon-i-ekstraklasa/</link>
@@ -149,6 +149,127 @@
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/rozmowy-hydepark/</guid>
       <enclosure url="https://pogonsportnet.pl/img/og_image.jpg" length="0" type="image/jpeg"/>
       <pubDate>Tue, 20 Oct 2026 23:38:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Rozmowy kibiców, logowanie przez Google i duża aktualizacja Portowca. Co nowego na PogonSportNet.pl</title>
+      <link>https://pogonsportnet.pl/aktualnosci/rozmowy-kibicow-logowanie-przez-google-i-duza-aktualizacja-portowca-co-nowego-na-pogonsportnetpl/</link>
+      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/050ef7a2-bf4b-4827-a65d-72fcaae37c34/news-zmiany-1920x1080-png.webp" alt="Rozmowy kibiców, logowanie przez Google i duża aktualizacja Portowca. Co nowego na PogonSportNet.pl" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;Nowa zakładka Rozmowy ze stałymi wątkami, logowanie jednym kliknięciem, wszystkie gry na jednej stronie i nowy Portowiec Simulator. Zebraliśmy zmiany z ostatnich dni.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Od &lt;a href="https://pogonsportnet.pl/aktualnosci/nowa-strona-glowna-nowy-wyglad-artykulow-i-zmiany-w-portowcu-co-sie-zmienilo-na-pogonsportnetpl/"&gt;ostatniego podsumowania&lt;/a&gt; wprowadziliśmy kolejne zmiany. Najważniejsza to nowy dział, w którym możecie rozmawiać o Pogoni niezależnie od bieżących newsów. Pomysł wyszedł od Was - w komentarzach padła propozycja forum.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Rozmowy kibiców - nowa zakładka w menu&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Dyskusja pod newsem zwykle cichnie po dniu czy dwóch, gdy tekst spada ze strony głównej. Dlatego w menu pojawiła się zakładka &lt;a href="https://pogonsportnet.pl/rozmowy/"&gt;Rozmowy&lt;/a&gt; ze stałymi wątkami, które nie znikają:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-pogon-i-ekstraklasa/"&gt;&lt;strong&gt;Pogoń i PKO BP Ekstraklasa&lt;/strong&gt;&lt;/a&gt; - główna rozmowa o pierwszej drużynie: forma, skład, trener, mecze i tabela,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-okno-transferowe/"&gt;Okno transferowe&lt;/a&gt; - plotki i nazwiska, otwarte przez cały rok,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-akademia-i-rezerwy/"&gt;Akademia i rezerwy&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-pogon-kobiet/"&gt;Pogoń kobiet&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-wyjazdy-i-bilety/"&gt;Wyjazdy i bilety&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-stadion-i-doping/"&gt;Stadion i doping&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-historia-pogoni/"&gt;Historia Pogoni&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-hydepark/"&gt;Hydepark&lt;/a&gt; - wszystko poza Pogonią.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Jak pisać?&lt;/strong&gt; Wejdźcie w wybrany wątek i przewińcie na dół - pole „Napisz w rozmowie” jest pod wpisami. Można też kliknąć przycisk „Napisz” w nagłówku wątku. Wystarczy to samo konto, którego używacie do komentarzy.&lt;/p&gt;
+&lt;p&gt;Wpisy są ułożone od najstarszego, więc rozmowę czyta się jak na forum. Kto woli odwrotną kolejność, może przełączyć na „Najnowsze”. Wpisy dodane od Waszej ostatniej wizyty są oznaczone czerwonym paskiem, a na liście rozmów przy wątku widać, ile nowych wpisów na Was czeka.&lt;/p&gt;
+&lt;p&gt;Ostatnie rozmowy pokazujemy też na stronie głównej, a pod newsami pojawił się pasek „Rozmowa trwa dalej” z linkiem do pasującego wątku. Zasady są takie same jak w komentarzach: bez obrażania i spamu, a plotki najlepiej ze źródłem.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Logowanie przez Google&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Na &lt;a href="https://pogonsportnet.pl/panel/zaloguj/"&gt;stronie logowania&lt;/a&gt; i w okienku logowania przy komentarzach jest przycisk „Kontynuuj przy użyciu konta Google”. Jeśli macie już u nas konto na ten sam adres e-mail, zalogujecie się na nie. Jeśli nie, konto założy się samo - bez wymyślania hasła i potwierdzania adresu. Nie widzimy Waszego hasła do Google. Od Google dostajemy tylko imię, nazwisko i adres e-mail.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Wszystkie gry w jednym miejscu&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Kliknięcie zakładki &lt;a href="https://pogonsportnet.pl/dodatki/"&gt;Dodatki&lt;/a&gt; prowadzi teraz na stronę ze wszystkimi naszymi zabawami: &lt;a href="https://pogonsportnet.pl/portowiec/"&gt;Portowiec Simulator&lt;/a&gt;, &lt;a href="https://pogonsportnet.pl/zgadnij-portowca/"&gt;Zgadnij Portowca&lt;/a&gt;, &lt;a href="https://pogonsportnet.pl/symulator-konca-sezonu/"&gt;Symulator sezonu&lt;/a&gt;, &lt;a href="https://pogonsportnet.pl/jedenastka/"&gt;Twoja jedenastka&lt;/a&gt;, &lt;a href="https://pogonsportnet.pl/sklad-z-archiwum/"&gt;Skład z archiwum&lt;/a&gt; i &lt;a href="https://pogonsportnet.pl/typer/"&gt;Typer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Portowiec Simulator - duża aktualizacja&lt;/strong&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;500 nowych scenariuszy&lt;/strong&gt; - po 100 dla piłkarza, trenera, dyrektora sportowego, agenta i właściciela klubu.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turnieje po sezonie&lt;/strong&gt; - Euro i mundial rozgrywane są teraz po ostatniej kolejce ligi, w czerwcu i lipcu, a nie w trakcie rozgrywek.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nowy drybling&lt;/strong&gt; - na klawiaturze: Z to zwód albo przełożenie piłki między nogami rywala, C to obrót, a Shift to sprint (z paskiem kondycji). Na telefonie są do tego osobne przyciski. Obrońca sygnalizuje wślizg czerwonym wykrzyknikiem, więc jest chwila, żeby mu uciec.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Umiejętności mają większe znaczenie&lt;/strong&gt; - szybszy zawodnik naprawdę szybciej biega, mocniejszy strzał trudniej obronić, a lepszy drybler częściej mija rywala.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pogoda&lt;/strong&gt; - w deszczu na boisku pojawiają się kałuże, a zimą murawa bywa ośnieżona.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://pogonsportnet.pl/portowiec/"&gt;Zagrajcie w Portowca&lt;/a&gt; i dajcie znać, jak Wam idzie kariera.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Mniejsze zmiany&lt;/strong&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Menu&lt;/strong&gt; - Kontakt przenieśliśmy do zakładki Redakcja. Po najechaniu na nią widać skład redakcji i szybki kontakt z nami. Dział, w którym jesteście, jest wyróżniony na złoto.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zdjęcia w sliderze&lt;/strong&gt; - są kadrowane automatycznie. Strona rozpoznaje twarze i dobiera kadr tak, żeby nie ucinać głów.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wygląd&lt;/strong&gt; - ujednoliciliśmy czcionkę nagłówków, menu i przycisków, a przełącznik trybu jasnego i ciemnego dostał nowe ikony.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stopka&lt;/strong&gt; - mapa strony ma nowe pozycje (Rozmowy, Dodatki, Typer, Wideorelacje, Zostań Patronem) i poprawione linki do terminarza, tabeli i kontaktu.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;strong&gt;Czekamy na Wasze uwagi&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Jeśli coś nie działa albo wygląda źle na Waszym urządzeniu, napiszcie w komentarzach albo przez &lt;a href="https://pogonsportnet.pl/kontakt/"&gt;formularz kontaktowy&lt;/a&gt;. Podajcie, na jakim urządzeniu i w jakiej przeglądarce wystąpił problem - wtedy najszybciej go znajdziemy.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/050ef7a2-bf4b-4827-a65d-72fcaae37c34/news-zmiany-1920x1080-png.webp" alt="Rozmowy kibiców, logowanie przez Google i duża aktualizacja Portowca. Co nowego na PogonSportNet.pl" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;Nowa zakładka Rozmowy ze stałymi wątkami, logowanie jednym kliknięciem, wszystkie gry na jednej stronie i nowy Portowiec Simulator. Zebraliśmy zmiany z ostatnich dni.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Od &lt;a href="https://pogonsportnet.pl/aktualnosci/nowa-strona-glowna-nowy-wyglad-artykulow-i-zmiany-w-portowcu-co-sie-zmienilo-na-pogonsportnetpl/"&gt;ostatniego podsumowania&lt;/a&gt; wprowadziliśmy kolejne zmiany. Najważniejsza to nowy dział, w którym możecie rozmawiać o Pogoni niezależnie od bieżących newsów. Pomysł wyszedł od Was - w komentarzach padła propozycja forum.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Rozmowy kibiców - nowa zakładka w menu&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Dyskusja pod newsem zwykle cichnie po dniu czy dwóch, gdy tekst spada ze strony głównej. Dlatego w menu pojawiła się zakładka &lt;a href="https://pogonsportnet.pl/rozmowy/"&gt;Rozmowy&lt;/a&gt; ze stałymi wątkami, które nie znikają:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-pogon-i-ekstraklasa/"&gt;&lt;strong&gt;Pogoń i PKO BP Ekstraklasa&lt;/strong&gt;&lt;/a&gt; - główna rozmowa o pierwszej drużynie: forma, skład, trener, mecze i tabela,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-okno-transferowe/"&gt;Okno transferowe&lt;/a&gt; - plotki i nazwiska, otwarte przez cały rok,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-akademia-i-rezerwy/"&gt;Akademia i rezerwy&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-pogon-kobiet/"&gt;Pogoń kobiet&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-wyjazdy-i-bilety/"&gt;Wyjazdy i bilety&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-stadion-i-doping/"&gt;Stadion i doping&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-historia-pogoni/"&gt;Historia Pogoni&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-hydepark/"&gt;Hydepark&lt;/a&gt; - wszystko poza Pogonią.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Jak pisać?&lt;/strong&gt; Wejdźcie w wybrany wątek i przewińcie na dół - pole „Napisz w rozmowie” jest pod wpisami. Można też kliknąć przycisk „Napisz” w nagłówku wątku. Wystarczy to samo konto, którego używacie do komentarzy.&lt;/p&gt;
+&lt;p&gt;Wpisy są ułożone od najstarszego, więc rozmowę czyta się jak na forum. Kto woli odwrotną kolejność, może przełączyć na „Najnowsze”. Wpisy dodane od Waszej ostatniej wizyty są oznaczone czerwonym paskiem, a na liście rozmów przy wątku widać, ile nowych wpisów na Was czeka.&lt;/p&gt;
+&lt;p&gt;Ostatnie rozmowy pokazujemy też na stronie głównej, a pod newsami pojawił się pasek „Rozmowa trwa dalej” z linkiem do pasującego wątku. Zasady są takie same jak w komentarzach: bez obrażania i spamu, a plotki najlepiej ze źródłem.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Logowanie przez Google&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Na &lt;a href="https://pogonsportnet.pl/panel/zaloguj/"&gt;stronie logowania&lt;/a&gt; i w okienku logowania przy komentarzach jest przycisk „Kontynuuj przy użyciu konta Google”. Jeśli macie już u nas konto na ten sam adres e-mail, zalogujecie się na nie. Jeśli nie, konto założy się samo - bez wymyślania hasła i potwierdzania adresu. Nie widzimy Waszego hasła do Google. Od Google dostajemy tylko imię, nazwisko i adres e-mail.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Wszystkie gry w jednym miejscu&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Kliknięcie zakładki &lt;a href="https://pogonsportnet.pl/dodatki/"&gt;Dodatki&lt;/a&gt; prowadzi teraz na stronę ze wszystkimi naszymi zabawami: &lt;a href="https://pogonsportnet.pl/portowiec/"&gt;Portowiec Simulator&lt;/a&gt;, &lt;a href="https://pogonsportnet.pl/zgadnij-portowca/"&gt;Zgadnij Portowca&lt;/a&gt;, &lt;a href="https://pogonsportnet.pl/symulator-konca-sezonu/"&gt;Symulator sezonu&lt;/a&gt;, &lt;a href="https://pogonsportnet.pl/jedenastka/"&gt;Twoja jedenastka&lt;/a&gt;, &lt;a href="https://pogonsportnet.pl/sklad-z-archiwum/"&gt;Skład z archiwum&lt;/a&gt; i &lt;a href="https://pogonsportnet.pl/typer/"&gt;Typer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Portowiec Simulator - duża aktualizacja&lt;/strong&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;500 nowych scenariuszy&lt;/strong&gt; - po 100 dla piłkarza, trenera, dyrektora sportowego, agenta i właściciela klubu.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Turnieje po sezonie&lt;/strong&gt; - Euro i mundial rozgrywane są teraz po ostatniej kolejce ligi, w czerwcu i lipcu, a nie w trakcie rozgrywek.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nowy drybling&lt;/strong&gt; - na klawiaturze: Z to zwód albo przełożenie piłki między nogami rywala, C to obrót, a Shift to sprint (z paskiem kondycji). Na telefonie są do tego osobne przyciski. Obrońca sygnalizuje wślizg czerwonym wykrzyknikiem, więc jest chwila, żeby mu uciec.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Umiejętności mają większe znaczenie&lt;/strong&gt; - szybszy zawodnik naprawdę szybciej biega, mocniejszy strzał trudniej obronić, a lepszy drybler częściej mija rywala.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pogoda&lt;/strong&gt; - w deszczu na boisku pojawiają się kałuże, a zimą murawa bywa ośnieżona.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://pogonsportnet.pl/portowiec/"&gt;Zagrajcie w Portowca&lt;/a&gt; i dajcie znać, jak Wam idzie kariera.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Mniejsze zmiany&lt;/strong&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Menu&lt;/strong&gt; - Kontakt przenieśliśmy do zakładki Redakcja. Po najechaniu na nią widać skład redakcji i szybki kontakt z nami. Dział, w którym jesteście, jest wyróżniony na złoto.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zdjęcia w sliderze&lt;/strong&gt; - są kadrowane automatycznie. Strona rozpoznaje twarze i dobiera kadr tak, żeby nie ucinać głów.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wygląd&lt;/strong&gt; - ujednoliciliśmy czcionkę nagłówków, menu i przycisków, a przełącznik trybu jasnego i ciemnego dostał nowe ikony.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stopka&lt;/strong&gt; - mapa strony ma nowe pozycje (Rozmowy, Dodatki, Typer, Wideorelacje, Zostań Patronem) i poprawione linki do terminarza, tabeli i kontaktu.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;strong&gt;Czekamy na Wasze uwagi&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Jeśli coś nie działa albo wygląda źle na Waszym urządzeniu, napiszcie w komentarzach albo przez &lt;a href="https://pogonsportnet.pl/kontakt/"&gt;formularz kontaktowy&lt;/a&gt;. Podajcie, na jakim urządzeniu i w jakiej przeglądarce wystąpił problem - wtedy najszybciej go znajdziemy.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content:encoded>
+      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/rozmowy-kibicow-logowanie-przez-google-i-duza-aktualizacja-portowca-co-nowego-na-pogonsportnetpl/</guid>
+      <enclosure url="https://pogonsportnet.pl/storage/050ef7a2-bf4b-4827-a65d-72fcaae37c34/news-zmiany-1920x1080-png.webp" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 21 Oct 2026 00:25:00 +0200</pubDate>
     </item>
     <item>
       <title>Wahlqvist myśli o przyszłości: Dobry początek</title>
@@ -848,171 +969,18 @@
       <pubDate>Tue, 20 Oct 2026 07:40:00 +0200</pubDate>
     </item>
     <item>
-      <title>Paweł Ozga o sile Pogoni: No flamingo, talizmany i plan na GKS</title>
-      <link>https://pogonsportnet.pl/aktualnosci/pawel-ozga-o-sile-pogoni-no-flamingo-talizmany-i-plan-na-gks/</link>
-      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/367750d6-987b-47c1-afd8-eaf90750dfa5/ozga-jpg.webp" alt="Paweł Ozga o sile Pogoni: No flamingo, talizmany i plan na GKS" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Paweł Ozga, asystent Óscara Garcíi, gościł w programie „Liga PL” na Kanale Sportowym. Opowiedział o tym, skąd się bierze najlepsza obrona w Ekstraklasie, czym jest hasło „no flamingo”, o roli Benjamina Mendy’ego i Kamila Grosickiego oraz o planie na wygrany mecz w Katowicach.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Defensywa: praca sztabu i zasady&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Pogoń straciła w dziesięciu meczach ligowych tylko sześć bramek, najmniej w lidze. Ozga podkreśla jednak, że w obronie wciąż jest co poprawiać.&lt;/p&gt;
-&lt;p&gt;- Na pewno miło to słyszeć. Mamy najmniej straconych bramek, ale w tej sprawie wciąż jest wiele do poprawy. Jeśli chodzi o sam proces wdrażania tego, co dzieje się u nas w defensywie, to myślę, że zaczęło to nieźle funkcjonować już w poprzednim sezonie, a przynajmniej w jego końcówce. Tych bramek nie traciliśmy wiele. Duży wpływ ma na to Patryk Czubak, który w naszym sztabie odpowiada między innymi za funkcjonowanie zespołu w defensywie. Jakość jego odpraw jest naprawdę na wysokim poziomie - powiedział asystent trenera Pogoni.&lt;/p&gt;
-&lt;p&gt;Według Ozgi kluczowe jest też podejście pierwszego trenera.&lt;/p&gt;
-&lt;p&gt;- Trener Óscar García bardzo zwraca uwagę na zabezpieczenie ataku, czyli nie tylko na to, co się dzieje, kiedy przeciwnik ma piłkę, ale też wtedy, gdy my ją mamy. Ważny jest sposób, w jaki przekazuje zawodnikom informacje o zabezpieczeniu ataku, ustawieniu ciała, odległościach między nimi w momencie straty i reakcji po stracie. To na pewno ma duży wpływ na to, jak dziś funkcjonujemy w defensywie. Do tego dochodzą ogólne zasady, które mamy. Myślę, że chłopaki to kupują i starają się to realizować - mówił.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;“Biegają jak dzikie zwierzęta”&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Trzecim elementem są według Ozgi sami piłkarze i ich gotowość do poświęceń.&lt;/p&gt;
-&lt;p&gt;-Ostatni wątek to oczywiście jakość piłkarzy i chęć do poświęcenia, bo to jest bardzo istotne. Dziś mamy z przodu stabilny kwartet: Churlinov, Mukairu, Sánchez i Wojciechowski. To zawodnicy, którzy moim zdaniem lubią bronić, wierzą w to i potrafią biegać jak dzikie zwierzęta. Nawet jeśli w danym momencie organizacja nie jest dobra, nadrabiamy to ich intensywnością i poświęceniem. Uważam też, że przekonaliśmy zawodników, że dyscypliną w defensywie można wygrać sporo meczów - stwierdził.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;“No flamingo”, czyli nie odwracaj się od strzału&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Ozga opowiedział o haśle, które stało się w Pogoni symbolem gry w obronie.&lt;/p&gt;
-&lt;p&gt;- Wszyscy w sztabie się zgadzamy, że kluczowe słowa budują kulturę zespołu. Jednym z nich, które Patryk zaszczepił w drużynie, jest „no flamingo”. Każdy wie, jak wygląda flaming, który stoi na jednej nodze. Ostatnio Janek Biegański dostał piłką między nogami i chyba straciliśmy wtedy bramkę, jeśli się nie mylę. Było o to dużo pretensji. „No flamingo” to hasło przewodnie w defensywie, w obronie pola karnego i przy blokowaniu strzałów - tłumaczył.&lt;/p&gt;
-&lt;p&gt;Hasło przyjęło się w szatni tak bardzo, że piłkarze używają go nawet poza boiskiem.&lt;/p&gt;
-&lt;p&gt;- Śmialiśmy się ostatnio, bo podczas wyjazdu do Gliwic oglądaliśmy wieczorem z zawodnikami jakiś mecz. Któryś zespół ligowy dopuścił do strzału właśnie w taki sposób i komentarz dwudziestu zawodników różnych narodowości brzmiał: „no flamingo, panowie”. Patryk to zaszczepił, trener mocno to podkreśla i myślę, że takie kluczowe słowa i zasady sprawiają, że zawodnicy wiedzą, co robić na swoich pozycjach. Olbrzymią przyjemnością jest później pokazywać na analizie Mukairu, który jedzie na tyłku, blokuje przestrzeń do strzału, a potem jeszcze wstaje i próbuje wyprowadzić kontratak. To dowody na to, że udało się przekonać zawodników, że to jest ważne - mówił Ozga.&lt;/p&gt;
-&lt;p&gt;- Skoro zawodnicy to kupili, sami budują tę kulturę w zespole. Czasem jest zabawnie, czasem śmiesznie, czasem Patryk wymyśla jakąś grafikę, żeby jeszcze bardziej uświadomić to zawodnikom. To się sprawdza, więc na pewno możemy być z tego zadowoleni. Nawet Kamil Grosicki potrafi to zrobić na treningu i wtedy jest olbrzymi aplauz, brawa i uśmiechy na twarzach. Oczywiście będziemy chcieli to kontynuować - dodał.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Udane okienko transferowe&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Ozga chwalił też letnie ruchy kadrowe klubu.&lt;/p&gt;
-&lt;p&gt;- Na pewno brawa dla naszej góry, bo w tym okienku dostarczyła zawodników zdolnych i chętnych do tego, żeby biegać i się poświęcać. Wystarczy spojrzeć na liczby, jakie w defensywie kręcą Churlinov czy Sánchez. Do tego Dziczek, który daje olbrzymią stabilność w środku i bez większego problemu przebiega w meczu 12 kilometrów, oraz intensywny Wojciechowski. Nawet jeśli w którymś momencie organizacja nam siądzie albo czegoś zabraknie, możemy to nadrobić nastawieniem do powrotu pod piłkę i bycia blisko siebie. W tym jesteśmy naprawdę dobrzy - podkreślił.&lt;/p&gt;
-&lt;p&gt;- Nie tylko ten ofensywny kwartet, ale też zawodnicy wchodzący z ławki są gotowi po prostu zasuwać i widzą efekty. Wiedzą, że gra w defensywie zaczyna się od pojedynków, reakcji po stracie i szybkiego odbudowania pozycji, żeby przeciwnik nie miał możliwości kontry ani szybkiego rozszerzenia ataku. To są kluczowe rzeczy. Dlatego uważam, że nasze letnie okienko było bardzo dobre, a poprzedni trenerzy nie mieli tak jakościowej kadry, jaką ma teraz trener García - ocenił.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Riccio i Sánchez, czyli talizmany&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Asystent trenera z uśmiechem mówił o dwóch nowych zawodnikach.&lt;/p&gt;
-&lt;p&gt;- Doszedł też talizman. Śmieję się, bo Alessandro Riccio był ściągany jako środkowy obrońca, do rywalizacji z Keramitsisem, a ostatnio gra na prawej obronie, ponieważ wypadł Linus Wahlqvist. Skoro mowa o Linusie: myślę, że jak wróci, będziemy jeszcze mocniejsi, a rywalizacja na pozycjach będzie jeszcze większa. Śmieję się, że Riccio i Jordi to talizmany, bo cztery mecze z nimi w składzie to cztery zwycięstwa i tylko jeden stracony gol. Zarząd wykonał dobrą robotę i dał nam zawodników zdolnych do biegania. Biegamy lepiej, bo profile zawodników są lepsze. Oczywiście to także dobra robota trenerów przygotowania motorycznego. Ale jeśli ma się z przodu takie, w cudzysłowie, „zwierzaki”, to łatwiej kręcić dobre liczby - mówił.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Mendy: lider w szatni&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Sporo uwagi Ozga poświęcił Benjaminowi Mendy’emu.&lt;/p&gt;
-&lt;p&gt;- Uważam, że to zawodnik, który nie potrzebuje wielkiej rywalizacji, jeśli jest zdrowy, a jest zdrowy i bardzo dobrze o siebie dba. Do tego czyta i rozumie taktykę oraz plan na mecz, więc z takim zawodnikiem łatwiej się gra. Ma olbrzymi posłuch w szatni i jest pozytywnym motorem napędowym nie tylko na boisku. Na pewno widzieliście filmiki z szatni po meczu, na których rozkręca pozytywny team spirit - powiedział.&lt;/p&gt;
-&lt;p&gt;- U niego jedynym problemem jest to, czy jest zdrowy i czy nic mu nie dokucza. Jeśli wszystko jest w porządku, ciężko pracuje na treningach i nie można mu nic zarzucić. Oczywiście lubi mieć dwa dni wolnego po meczu, żeby się zregenerować, bo ma swoje lata i swoje pomysły. To jednak chłopak, który bardzo dużo daje szatni i klubowi. Pewnie widzieliście akcje z naszą Akademią czy różne akcje marketingowe. Jego doświadczenie jest tu kluczowe - dodał.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Biegański: balans w środku pola&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Ozga ocenił też rolę Jana Biegańskiego.&lt;/p&gt;
-&lt;p&gt;- Janek daje nam na pewno balans między ofensywą a defensywą. Nie jest zawodnikiem, który biega nie wiadomo jak szybko, ale jest zdyscyplinowany taktycznie. Uważam, że dobrze uzupełnia się z Dziczkiem, a naciska na nich Acosta, więc to ciekawy tercet do rywalizacji: trzy różne profile zawodników. Janek na pewno dobrze wykonuje stałe fragmenty w ofensywie i potrafi zagrać kluczowe podanie. Ostatnio w meczu z GKS-em zagrał dwie takie piłki i mieliśmy dwie bardzo dobre sytuacje - mówił.&lt;/p&gt;
-&lt;p&gt;- Uważam też, że atutem naszego zespołu jest to, że bardzo małą liczbą podań potrafimy wykreować świetną sytuację strzelecką. Chyba jesteśmy w tym w czołówce ligi. Po dwóch, trzech podaniach potrafimy wejść w pole karne, a kiedy już tam jesteśmy, zazwyczaj kreujemy dobre szanse i jest nas tam wielu - dodał.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Grosicki jako joker&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Ozga szeroko wypowiedział się o Kamilu Grosickim, który w tym sezonie częściej wchodzi z ławki.&lt;/p&gt;
-&lt;p&gt;- Uważam, że Kamil miał ciężki początek sezonu, bo był przyzwyczajony do tego, że jako skrzydłowy będzie często przy piłce, będzie mógł atakować przestrzeń i stamtąd kreować sytuacje. Zespół trochę się zmienił: mniej posiadamy piłkę i częściej bazujemy na dobrej obronie. Kamil nie ma wielkiego problemu z bronieniem, a jako drugi napastnik w naszej układance sprawdza się bardzo dobrze. Od meczu z Udinese jest na fali wznoszącej, więc ostatnie mecze dały mu trochę paliwa - mówił asystent trenera.&lt;/p&gt;
-&lt;p&gt;- Myślę, że dopóki Kamil grał w reprezentacji, niesamowicie go to napędzało do treningu i motywowało do tego, żeby cały czas udowadniać w lidze, że jest w czołówce. Później miał moment regresu, a teraz znów ruszył, więc bardzo liczymy na jego doświadczenie. Czasem na treningu jednym zagraniem pokazuje, ile jest wart i jaką ma jakość. Jedno podanie zewnętrzną częścią stopy sprawia, że mimo czterech rywali w polu karnym akcję i tak kończy nasz napastnik - dodał.&lt;/p&gt;
-&lt;p&gt;- Myślę, że teraz Kamil będzie na fali wznoszącej i do końca rundy będzie ważnym zawodnikiem. Poczuł, że jako joker może dużo dać drużynie, i nie ma problemu z tym, że trzeba harować w defensywie, być odpowiedzialnym i zamykać środek. A wiadomo, że kiedy dostanie piłkę, może zagrać kluczowe podanie albo oddać strzał. Słabszy okres wynikał z tego, że musiał przyzwyczaić się do nowej sytuacji. Teraz już to zaakceptował i ostatnie mecze pokazują, że będzie wartością dla zespołu. Z takim jokerem na ławce można dużo. Jest też Nsame, który również jest jakościowym piłkarzem, a do zdrowia wrócił Molnár. Na ławce mamy więc kim zarządzać w końcówkach meczów, zarówno w defensywie, jak i w ofensywie. To duże ułatwienie dla nas wszystkich w sztabie - podsumował.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Ofensywa: “80 procent czasu na atak”&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Ozga odniósł się też do oczekiwań, że pod wodzą hiszpańskiego trenera Pogoń będzie grała bardziej ofensywnie.&lt;/p&gt;
-&lt;p&gt;- Pierwsza myśl wszystkich kibiców i ludzi interesujących się Pogonią była na pewno taka, że skoro przychodzi hiszpański trener, będziemy grać nie wiadomo jak pięknie. Cały czas dążymy do tego, żeby być lepsi w ofensywie. Żeby tak było, musimy szybciej zajmować dobre pozycje na boisku i mieć większą swobodę. Myślę, że teraz jest taki moment, że zespół ma dużą pewność siebie i grania w piłkę będzie coraz więcej - mówił.&lt;/p&gt;
-&lt;p&gt;- Zawodnicy są świadomi i gotowi do poświęceń. Dobrze, że mamy punkt wyjścia: bazą jest defensywa, bo z niej zawsze łatwiej budować ofensywę. Ciekawostka: przed meczem z GKS-em mieliśmy trzy jednostki treningowe i 80 procent czasu poświęciliśmy na ofensywę, bo wiemy, w których momentach i aspektach musimy się rozwijać. Uważam, że trener García jest bardzo dobry w indywidualnym rozwijaniu zawodników i pokazuje im, jaką pozycję ciała powinni zająć w danej sytuacji. Pracujemy też nad tym, żeby zawodnicy widzieli to, co się dzieje dalej. Asysta Szalaia jest dobrym przykładem: dwoma kontaktami, widząc zawodników najdalej od piłki, można bardzo łatwo zaskoczyć przeciwnika - dodał.&lt;/p&gt;
-&lt;p&gt;- Chcemy lepiej grać w piłkę i na pewno dłużej ją utrzymywać. Dobrym prognostykiem była około 22. minuta meczu z GKS-em, kiedy utrzymywaliśmy piłkę prawie dwie minuty, cztery razy zmieniliśmy stronę, a Churlinov dograł świetne dośrodkowanie do Mukairu, który mógł zakończyć akcję głową. Nie jest jednak tak, że chcemy mieć 70 procent posiadania piłki i pozwalać przeciwnikowi bronić się w jedenastu w polu karnym, bo bardzo trudno byłoby otworzyć w ten sposób mecz. To wyzwanie, ale mamy piłkarzy z dużą jakością i chcemy grać lepiej w piłkę - zaznaczył.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Plan na GKS: Nowak i środek pola&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Na koniec Ozga zdradził kulisy przygotowań do zwycięskiego meczu w Katowicach.&lt;/p&gt;
-&lt;p&gt;- Przełamać GKS po jedenastu miesiącach bez porażki u siebie to była duża rzecz i olbrzymia satysfakcja. GKS to bardzo dobry, poukładany zespół z jasnymi, klarownymi zasadami, co pozwala go w miarę czytelnie rozszyfrować. Ale ich organizacja gry, jakość piłkarzy i szybkość wykonywania zadań są na tak dobrym poziomie, że nawet przy dobrej analizie nie zawsze zdążysz - mówił.&lt;/p&gt;
-&lt;p&gt;Pierwszym punktem planu było wyłączenie z gry Bartosza Nowaka.&lt;/p&gt;
-&lt;p&gt;- Każdy wie, jaki wpływ ma na sytuacje kreowane przez GKS i na liczbę zdobytych bramek, i jak sam strzela gole. To był pierwszy punkt: nie pozwolić Nowakowi na przestrzeń do odwracania się z piłką, bo jeśli się odwróci, zawsze znajdzie świetne podanie. Realizowaliśmy to od pierwszej minuty i w tym meczu zneutralizowaliśmy Bartka - wyjaśnił.&lt;/p&gt;
-&lt;p&gt;Drugim było zamknięcie środka pola.&lt;/p&gt;
-&lt;p&gt;- Drugim punktem było bardzo mocne zamknięcie środka pola i bycie jak najbliżej przeciwnika, bo Kowalczyk i Łukasiak są w bardzo dobrej formie. Razem z Nowakiem i Wędrychowskim są w stanie przyspieszyć każdą akcję i wyjść spod każdego pressingu. Naszym celem było maksymalnie zamknąć środek, a po podaniu do tyłu wypychać ich jak najwyżej i zmuszać do gry przez bramkarza. Pozwalało to skrócić pole gry, zabrać przestrzeń środkowym pomocnikom i zamknąć ich „szóstki”, żeby nie mogły się odwracać z piłką. Myślę, że moglibyśmy być w tym jeszcze lepsi, ale było w porządku. Przeciwnik wykreował mniej dogodnych sytuacji niż my, a nasze szanse były lepsze - podsumował Ozga.&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/367750d6-987b-47c1-afd8-eaf90750dfa5/ozga-jpg.webp" alt="Paweł Ozga o sile Pogoni: No flamingo, talizmany i plan na GKS" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Paweł Ozga, asystent Óscara Garcíi, gościł w programie „Liga PL” na Kanale Sportowym. Opowiedział o tym, skąd się bierze najlepsza obrona w Ekstraklasie, czym jest hasło „no flamingo”, o roli Benjamina Mendy’ego i Kamila Grosickiego oraz o planie na wygrany mecz w Katowicach.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Defensywa: praca sztabu i zasady&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Pogoń straciła w dziesięciu meczach ligowych tylko sześć bramek, najmniej w lidze. Ozga podkreśla jednak, że w obronie wciąż jest co poprawiać.&lt;/p&gt;
-&lt;p&gt;- Na pewno miło to słyszeć. Mamy najmniej straconych bramek, ale w tej sprawie wciąż jest wiele do poprawy. Jeśli chodzi o sam proces wdrażania tego, co dzieje się u nas w defensywie, to myślę, że zaczęło to nieźle funkcjonować już w poprzednim sezonie, a przynajmniej w jego końcówce. Tych bramek nie traciliśmy wiele. Duży wpływ ma na to Patryk Czubak, który w naszym sztabie odpowiada między innymi za funkcjonowanie zespołu w defensywie. Jakość jego odpraw jest naprawdę na wysokim poziomie - powiedział asystent trenera Pogoni.&lt;/p&gt;
-&lt;p&gt;Według Ozgi kluczowe jest też podejście pierwszego trenera.&lt;/p&gt;
-&lt;p&gt;- Trener Óscar García bardzo zwraca uwagę na zabezpieczenie ataku, czyli nie tylko na to, co się dzieje, kiedy przeciwnik ma piłkę, ale też wtedy, gdy my ją mamy. Ważny jest sposób, w jaki przekazuje zawodnikom informacje o zabezpieczeniu ataku, ustawieniu ciała, odległościach między nimi w momencie straty i reakcji po stracie. To na pewno ma duży wpływ na to, jak dziś funkcjonujemy w defensywie. Do tego dochodzą ogólne zasady, które mamy. Myślę, że chłopaki to kupują i starają się to realizować - mówił.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;“Biegają jak dzikie zwierzęta”&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Trzecim elementem są według Ozgi sami piłkarze i ich gotowość do poświęceń.&lt;/p&gt;
-&lt;p&gt;-Ostatni wątek to oczywiście jakość piłkarzy i chęć do poświęcenia, bo to jest bardzo istotne. Dziś mamy z przodu stabilny kwartet: Churlinov, Mukairu, Sánchez i Wojciechowski. To zawodnicy, którzy moim zdaniem lubią bronić, wierzą w to i potrafią biegać jak dzikie zwierzęta. Nawet jeśli w danym momencie organizacja nie jest dobra, nadrabiamy to ich intensywnością i poświęceniem. Uważam też, że przekonaliśmy zawodników, że dyscypliną w defensywie można wygrać sporo meczów - stwierdził.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;“No flamingo”, czyli nie odwracaj się od strzału&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Ozga opowiedział o haśle, które stało się w Pogoni symbolem gry w obronie.&lt;/p&gt;
-&lt;p&gt;- Wszyscy w sztabie się zgadzamy, że kluczowe słowa budują kulturę zespołu. Jednym z nich, które Patryk zaszczepił w drużynie, jest „no flamingo”. Każdy wie, jak wygląda flaming, który stoi na jednej nodze. Ostatnio Janek Biegański dostał piłką między nogami i chyba straciliśmy wtedy bramkę, jeśli się nie mylę. Było o to dużo pretensji. „No flamingo” to hasło przewodnie w defensywie, w obronie pola karnego i przy blokowaniu strzałów - tłumaczył.&lt;/p&gt;
-&lt;p&gt;Hasło przyjęło się w szatni tak bardzo, że piłkarze używają go nawet poza boiskiem.&lt;/p&gt;
-&lt;p&gt;- Śmialiśmy się ostatnio, bo podczas wyjazdu do Gliwic oglądaliśmy wieczorem z zawodnikami jakiś mecz. Któryś zespół ligowy dopuścił do strzału właśnie w taki sposób i komentarz dwudziestu zawodników różnych narodowości brzmiał: „no flamingo, panowie”. Patryk to zaszczepił, trener mocno to podkreśla i myślę, że takie kluczowe słowa i zasady sprawiają, że zawodnicy wiedzą, co robić na swoich pozycjach. Olbrzymią przyjemnością jest później pokazywać na analizie Mukairu, który jedzie na tyłku, blokuje przestrzeń do strzału, a potem jeszcze wstaje i próbuje wyprowadzić kontratak. To dowody na to, że udało się przekonać zawodników, że to jest ważne - mówił Ozga.&lt;/p&gt;
-&lt;p&gt;- Skoro zawodnicy to kupili, sami budują tę kulturę w zespole. Czasem jest zabawnie, czasem śmiesznie, czasem Patryk wymyśla jakąś grafikę, żeby jeszcze bardziej uświadomić to zawodnikom. To się sprawdza, więc na pewno możemy być z tego zadowoleni. Nawet Kamil Grosicki potrafi to zrobić na treningu i wtedy jest olbrzymi aplauz, brawa i uśmiechy na twarzach. Oczywiście będziemy chcieli to kontynuować - dodał.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Udane okienko transferowe&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Ozga chwalił też letnie ruchy kadrowe klubu.&lt;/p&gt;
-&lt;p&gt;- Na pewno brawa dla naszej góry, bo w tym okienku dostarczyła zawodników zdolnych i chętnych do tego, żeby biegać i się poświęcać. Wystarczy spojrzeć na liczby, jakie w defensywie kręcą Churlinov czy Sánchez. Do tego Dziczek, który daje olbrzymią stabilność w środku i bez większego problemu przebiega w meczu 12 kilometrów, oraz intensywny Wojciechowski. Nawet jeśli w którymś momencie organizacja nam siądzie albo czegoś zabraknie, możemy to nadrobić nastawieniem do powrotu pod piłkę i bycia blisko siebie. W tym jesteśmy naprawdę dobrzy - podkreślił.&lt;/p&gt;
-&lt;p&gt;- Nie tylko ten ofensywny kwartet, ale też zawodnicy wchodzący z ławki są gotowi po prostu zasuwać i widzą efekty. Wiedzą, że gra w defensywie zaczyna się od pojedynków, reakcji po stracie i szybkiego odbudowania pozycji, żeby przeciwnik nie miał możliwości kontry ani szybkiego rozszerzenia ataku. To są kluczowe rzeczy. Dlatego uważam, że nasze letnie okienko było bardzo dobre, a poprzedni trenerzy nie mieli tak jakościowej kadry, jaką ma teraz trener García - ocenił.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Riccio i Sánchez, czyli talizmany&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Asystent trenera z uśmiechem mówił o dwóch nowych zawodnikach.&lt;/p&gt;
-&lt;p&gt;- Doszedł też talizman. Śmieję się, bo Alessandro Riccio był ściągany jako środkowy obrońca, do rywalizacji z Keramitsisem, a ostatnio gra na prawej obronie, ponieważ wypadł Linus Wahlqvist. Skoro mowa o Linusie: myślę, że jak wróci, będziemy jeszcze mocniejsi, a rywalizacja na pozycjach będzie jeszcze większa. Śmieję się, że Riccio i Jordi to talizmany, bo cztery mecze z nimi w składzie to cztery zwycięstwa i tylko jeden stracony gol. Zarząd wykonał dobrą robotę i dał nam zawodników zdolnych do biegania. Biegamy lepiej, bo profile zawodników są lepsze. Oczywiście to także dobra robota trenerów przygotowania motorycznego. Ale jeśli ma się z przodu takie, w cudzysłowie, „zwierzaki”, to łatwiej kręcić dobre liczby - mówił.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Mendy: lider w szatni&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Sporo uwagi Ozga poświęcił Benjaminowi Mendy’emu.&lt;/p&gt;
-&lt;p&gt;- Uważam, że to zawodnik, który nie potrzebuje wielkiej rywalizacji, jeśli jest zdrowy, a jest zdrowy i bardzo dobrze o siebie dba. Do tego czyta i rozumie taktykę oraz plan na mecz, więc z takim zawodnikiem łatwiej się gra. Ma olbrzymi posłuch w szatni i jest pozytywnym motorem napędowym nie tylko na boisku. Na pewno widzieliście filmiki z szatni po meczu, na których rozkręca pozytywny team spirit - powiedział.&lt;/p&gt;
-&lt;p&gt;- U niego jedynym problemem jest to, czy jest zdrowy i czy nic mu nie dokucza. Jeśli wszystko jest w porządku, ciężko pracuje na treningach i nie można mu nic zarzucić. Oczywiście lubi mieć dwa dni wolnego po meczu, żeby się zregenerować, bo ma swoje lata i swoje pomysły. To jednak chłopak, który bardzo dużo daje szatni i klubowi. Pewnie widzieliście akcje z naszą Akademią czy różne akcje marketingowe. Jego doświadczenie jest tu kluczowe - dodał.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Biegański: balans w środku pola&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Ozga ocenił też rolę Jana Biegańskiego.&lt;/p&gt;
-&lt;p&gt;- Janek daje nam na pewno balans między ofensywą a defensywą. Nie jest zawodnikiem, który biega nie wiadomo jak szybko, ale jest zdyscyplinowany taktycznie. Uważam, że dobrze uzupełnia się z Dziczkiem, a naciska na nich Acosta, więc to ciekawy tercet do rywalizacji: trzy różne profile zawodników. Janek na pewno dobrze wykonuje stałe fragmenty w ofensywie i potrafi zagrać kluczowe podanie. Ostatnio w meczu z GKS-em zagrał dwie takie piłki i mieliśmy dwie bardzo dobre sytuacje - mówił.&lt;/p&gt;
-&lt;p&gt;- Uważam też, że atutem naszego zespołu jest to, że bardzo małą liczbą podań potrafimy wykreować świetną sytuację strzelecką. Chyba jesteśmy w tym w czołówce ligi. Po dwóch, trzech podaniach potrafimy wejść w pole karne, a kiedy już tam jesteśmy, zazwyczaj kreujemy dobre szanse i jest nas tam wielu - dodał.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Grosicki jako joker&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Ozga szeroko wypowiedział się o Kamilu Grosickim, który w tym sezonie częściej wchodzi z ławki.&lt;/p&gt;
-&lt;p&gt;- Uważam, że Kamil miał ciężki początek sezonu, bo był przyzwyczajony do tego, że jako skrzydłowy będzie często przy piłce, będzie mógł atakować przestrzeń i stamtąd kreować sytuacje. Zespół trochę się zmienił: mniej posiadamy piłkę i częściej bazujemy na dobrej obronie. Kamil nie ma wielkiego problemu z bronieniem, a jako drugi napastnik w naszej układance sprawdza się bardzo dobrze. Od meczu z Udinese jest na fali wznoszącej, więc ostatnie mecze dały mu trochę paliwa - mówił asystent trenera.&lt;/p&gt;
-&lt;p&gt;- Myślę, że dopóki Kamil grał w reprezentacji, niesamowicie go to napędzało do treningu i motywowało do tego, żeby cały czas udowadniać w lidze, że jest w czołówce. Później miał moment regresu, a teraz znów ruszył, więc bardzo liczymy na jego doświadczenie. Czasem na treningu jednym zagraniem pokazuje, ile jest wart i jaką ma jakość. Jedno podanie zewnętrzną częścią stopy sprawia, że mimo czterech rywali w polu karnym akcję i tak kończy nasz napastnik - dodał.&lt;/p&gt;
-&lt;p&gt;- Myślę, że teraz Kamil będzie na fali wznoszącej i do końca rundy będzie ważnym zawodnikiem. Poczuł, że jako joker może dużo dać drużynie, i nie ma problemu z tym, że trzeba harować w defensywie, być odpowiedzialnym i zamykać środek. A wiadomo, że kiedy dostanie piłkę, może zagrać kluczowe podanie albo oddać strzał. Słabszy okres wynikał z tego, że musiał przyzwyczaić się do nowej sytuacji. Teraz już to zaakceptował i ostatnie mecze pokazują, że będzie wartością dla zespołu. Z takim jokerem na ławce można dużo. Jest też Nsame, który również jest jakościowym piłkarzem, a do zdrowia wrócił Molnár. Na ławce mamy więc kim zarządzać w końcówkach meczów, zarówno w defensywie, jak i w ofensywie. To duże ułatwienie dla nas wszystkich w sztabie - podsumował.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Ofensywa: “80 procent czasu na atak”&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Ozga odniósł się też do oczekiwań, że pod wodzą hiszpańskiego trenera Pogoń będzie grała bardziej ofensywnie.&lt;/p&gt;
-&lt;p&gt;- Pierwsza myśl wszystkich kibiców i ludzi interesujących się Pogonią była na pewno taka, że skoro przychodzi hiszpański trener, będziemy grać nie wiadomo jak pięknie. Cały czas dążymy do tego, żeby być lepsi w ofensywie. Żeby tak było, musimy szybciej zajmować dobre pozycje na boisku i mieć większą swobodę. Myślę, że teraz jest taki moment, że zespół ma dużą pewność siebie i grania w piłkę będzie coraz więcej - mówił.&lt;/p&gt;
-&lt;p&gt;- Zawodnicy są świadomi i gotowi do poświęceń. Dobrze, że mamy punkt wyjścia: bazą jest defensywa, bo z niej zawsze łatwiej budować ofensywę. Ciekawostka: przed meczem z GKS-em mieliśmy trzy jednostki treningowe i 80 procent czasu poświęciliśmy na ofensywę, bo wiemy, w których momentach i aspektach musimy się rozwijać. Uważam, że trener García jest bardzo dobry w indywidualnym rozwijaniu zawodników i pokazuje im, jaką pozycję ciała powinni zająć w danej sytuacji. Pracujemy też nad tym, żeby zawodnicy widzieli to, co się dzieje dalej. Asysta Szalaia jest dobrym przykładem: dwoma kontaktami, widząc zawodników najdalej od piłki, można bardzo łatwo zaskoczyć przeciwnika - dodał.&lt;/p&gt;
-&lt;p&gt;- Chcemy lepiej grać w piłkę i na pewno dłużej ją utrzymywać. Dobrym prognostykiem była około 22. minuta meczu z GKS-em, kiedy utrzymywaliśmy piłkę prawie dwie minuty, cztery razy zmieniliśmy stronę, a Churlinov dograł świetne dośrodkowanie do Mukairu, który mógł zakończyć akcję głową. Nie jest jednak tak, że chcemy mieć 70 procent posiadania piłki i pozwalać przeciwnikowi bronić się w jedenastu w polu karnym, bo bardzo trudno byłoby otworzyć w ten sposób mecz. To wyzwanie, ale mamy piłkarzy z dużą jakością i chcemy grać lepiej w piłkę - zaznaczył.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Plan na GKS: Nowak i środek pola&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Na koniec Ozga zdradził kulisy przygotowań do zwycięskiego meczu w Katowicach.&lt;/p&gt;
-&lt;p&gt;- Przełamać GKS po jedenastu miesiącach bez porażki u siebie to była duża rzecz i olbrzymia satysfakcja. GKS to bardzo dobry, poukładany zespół z jasnymi, klarownymi zasadami, co pozwala go w miarę czytelnie rozszyfrować. Ale ich organizacja gry, jakość piłkarzy i szybkość wykonywania zadań są na tak dobrym poziomie, że nawet przy dobrej analizie nie zawsze zdążysz - mówił.&lt;/p&gt;
-&lt;p&gt;Pierwszym punktem planu było wyłączenie z gry Bartosza Nowaka.&lt;/p&gt;
-&lt;p&gt;- Każdy wie, jaki wpływ ma na sytuacje kreowane przez GKS i na liczbę zdobytych bramek, i jak sam strzela gole. To był pierwszy punkt: nie pozwolić Nowakowi na przestrzeń do odwracania się z piłką, bo jeśli się odwróci, zawsze znajdzie świetne podanie. Realizowaliśmy to od pierwszej minuty i w tym meczu zneutralizowaliśmy Bartka - wyjaśnił.&lt;/p&gt;
-&lt;p&gt;Drugim było zamknięcie środka pola.&lt;/p&gt;
-&lt;p&gt;- Drugim punktem było bardzo mocne zamknięcie środka pola i bycie jak najbliżej przeciwnika, bo Kowalczyk i Łukasiak są w bardzo dobrej formie. Razem z Nowakiem i Wędrychowskim są w stanie przyspieszyć każdą akcję i wyjść spod każdego pressingu. Naszym celem było maksymalnie zamknąć środek, a po podaniu do tyłu wypychać ich jak najwyżej i zmuszać do gry przez bramkarza. Pozwalało to skrócić pole gry, zabrać przestrzeń środkowym pomocnikom i zamknąć ich „szóstki”, żeby nie mogły się odwracać z piłką. Myślę, że moglibyśmy być w tym jeszcze lepsi, ale było w porządku. Przeciwnik wykreował mniej dogodnych sytuacji niż my, a nasze szanse były lepsze - podsumował Ozga.&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</content:encoded>
-      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/pawel-ozga-o-sile-pogoni-no-flamingo-talizmany-i-plan-na-gks/</guid>
-      <enclosure url="https://pogonsportnet.pl/storage/367750d6-987b-47c1-afd8-eaf90750dfa5/ozga-jpg.webp" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 19 Oct 2026 18:43:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Aktualności</title>
       <link>https://pogonsportnet.pl/aktualnosci/2/</link>
       <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Dziczek: Nasza gra w ofensywie może wyglądać znacznie lepiej&lt;/h3&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin wygrała cztery mecze z rzędu i ma najlepszą obronę w Ekstraklasie, ale Patryk Dziczek nie chce popadać w zachwyt. W rozmowie z Goal.pl pomocnik Portowców mówił o rosnącej pewności siebie zespołu i o tym, nad czym drużyna wciąż musi pracować.&lt;/p&gt;
+&lt;h3&gt;Paweł Ozga o sile Pogoni: No flamingo, talizmany i plan na GKS&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Paweł Ozga, asystent Óscara Garcíi, gościł w programie „Liga PL” na Kanale Sportowym. Opowiedział o tym, skąd się bierze najlepsza obrona w Ekstraklasie, czym jest hasło „no flamingo”, o roli Benjamina Mendy’ego i Kamila Grosickiego oraz o planie na wygrany mecz w Katowicach.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
       <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Dziczek: Nasza gra w ofensywie może wyglądać znacznie lepiej&lt;/h3&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin wygrała cztery mecze z rzędu i ma najlepszą obronę w Ekstraklasie, ale Patryk Dziczek nie chce popadać w zachwyt. W rozmowie z Goal.pl pomocnik Portowców mówił o rosnącej pewności siebie zespołu i o tym, nad czym drużyna wciąż musi pracować.&lt;/p&gt;
+&lt;h3&gt;Paweł Ozga o sile Pogoni: No flamingo, talizmany i plan na GKS&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Paweł Ozga, asystent Óscara Garcíi, gościł w programie „Liga PL” na Kanale Sportowym. Opowiedział o tym, skąd się bierze najlepsza obrona w Ekstraklasie, czym jest hasło „no flamingo”, o roli Benjamina Mendy’ego i Kamila Grosickiego oraz o planie na wygrany mecz w Katowicach.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/2/</guid>
@@ -1023,7 +991,8 @@
       <link>https://pogonsportnet.pl/aktualnosci/3/</link>
       <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Garcia: Moi zawodnicy nie odlecą na księżyc&lt;/h3&gt;
+&lt;h3&gt;Zobacz zdjęcia z meczu GKS - Pogoń [FOTO]&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Mecz Pogoni Szczecin z GKS-em Katowice jest już historią. Wracamy do niego jednak na fotografiach, które przygotował dla Was Dominik Markiewicz. Zachęcamy do oglądania.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin wygrała czwarty ligowy mecz z rzędu, pierwszy raz od lutego 2025 roku. Óscar García zapewnia, że seria nie zmieni podejścia zespołu przed meczem z Radomiakiem Radom.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;O godzinie 15:00 rozpocznie się mecz IV ligi w którym Pogoń II Szczecin podejmie Spartę Gryfice. Transmisję z meczu znajdziecie poniżej.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Piłkarki Pogoni Szczecin pokonały na wyjeździe Lech Poznań UAM 3:1 w 8. kolejce Orlen Ekstraligi kobiet. Gole dla podopiecznych Martina Masaryka zdobyły Bianca Ienovan i Kyah Le, a trzecią bramkę samobójczą strzeliła jedna z zawodniczek gospodyń. Dzięki wygranej zawodniczki Pogoni awansowały na trzecie miejsce w tabeli.&lt;/p&gt;
@@ -1035,12 +1004,12 @@
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin pokonała GKS Katowice 1:0 i jako pierwsza od 11 miesięcy wygrała na Nowej Bukowej. Óscar García nie krył po meczu zadowolenia z przerwania serii rywala.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Jordi Sánchez strzelił gola, który dał Pogoni Szczecin zwycięstwo w Katowicach. Hiszpański napastnik mówił po meczu o dumie z defensywy, podaniu Atilli Szalaia i kibicach, którzy wypełnili sektor gości. Rozmawiał Dominik Markiewicz.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Portowcy przerwali blisko roczną serię meczów bez porażki na własnym stadionie GKS-u Katowice. Jak po meczu piłkarze Dumy Pomorza cieszyli się wraz z kibicami? Mamy dla Was materiał wideo!&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin wygrała w Katowicach, przerwała prawie roczną serię GKS-u bez porażki na własnym stadionie i odniosła czwarte ligowe zwycięstwo z rzędu. Po meczu Maciej Wojciechowski mówił o planie na ten mecz, intensywności spotkania i pracy w defensywie. Rozmawiał Dominik Markiewicz.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
       <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Garcia: Moi zawodnicy nie odlecą na księżyc&lt;/h3&gt;
+&lt;h3&gt;Zobacz zdjęcia z meczu GKS - Pogoń [FOTO]&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Mecz Pogoni Szczecin z GKS-em Katowice jest już historią. Wracamy do niego jednak na fotografiach, które przygotował dla Was Dominik Markiewicz. Zachęcamy do oglądania.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin wygrała czwarty ligowy mecz z rzędu, pierwszy raz od lutego 2025 roku. Óscar García zapewnia, że seria nie zmieni podejścia zespołu przed meczem z Radomiakiem Radom.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;O godzinie 15:00 rozpocznie się mecz IV ligi w którym Pogoń II Szczecin podejmie Spartę Gryfice. Transmisję z meczu znajdziecie poniżej.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Piłkarki Pogoni Szczecin pokonały na wyjeździe Lech Poznań UAM 3:1 w 8. kolejce Orlen Ekstraligi kobiet. Gole dla podopiecznych Martina Masaryka zdobyły Bianca Ienovan i Kyah Le, a trzecią bramkę samobójczą strzeliła jedna z zawodniczek gospodyń. Dzięki wygranej zawodniczki Pogoni awansowały na trzecie miejsce w tabeli.&lt;/p&gt;
@@ -1052,7 +1021,6 @@
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin pokonała GKS Katowice 1:0 i jako pierwsza od 11 miesięcy wygrała na Nowej Bukowej. Óscar García nie krył po meczu zadowolenia z przerwania serii rywala.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Jordi Sánchez strzelił gola, który dał Pogoni Szczecin zwycięstwo w Katowicach. Hiszpański napastnik mówił po meczu o dumie z defensywy, podaniu Atilli Szalaia i kibicach, którzy wypełnili sektor gości. Rozmawiał Dominik Markiewicz.&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Portowcy przerwali blisko roczną serię meczów bez porażki na własnym stadionie GKS-u Katowice. Jak po meczu piłkarze Dumy Pomorza cieszyli się wraz z kibicami? Mamy dla Was materiał wideo!&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin wygrała w Katowicach, przerwała prawie roczną serię GKS-u bez porażki na własnym stadionie i odniosła czwarte ligowe zwycięstwo z rzędu. Po meczu Maciej Wojciechowski mówił o planie na ten mecz, intensywności spotkania i pracy w defensywie. Rozmawiał Dominik Markiewicz.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/3/</guid>
@@ -1063,36 +1031,14 @@
       <link>https://pogonsportnet.pl/aktualnosci/4/</link>
       <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Pomeczowe opinie trenerów&lt;/h3&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Trener Oscar Garcia mógł być w znacznie lepszym nastroju od Rafała Góraka po meczu GKS - Pogoń rozegranym w Katowicach. Poniżej znajdziecie pomeczowe opinie trenerów.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Długie podanie Atilli Szalaia i zimna krew Jordiego Sancheza. Tak padł gol dla Pogoni Szczecin w meczu z GKS-em Katowice. Jeśli nie oglądaliście tego spotkania poniżej znajdziecie jego skrót.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W najważniejszej pomeczowej statystyce 1 po stronie Pogoni i 0 po stronie GKS-u Katowice. Jak wyglądały pozostałe liczby z tego meczu?&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin po goli Jordiego Sancheza wygrała w Katowicach z GKS-em 1:0. Portowcy kolejny już raz zachowali czyste konto i są w ligowej czołówce mimo jednego zaległego meczu.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Piłkarze Pogoni Szczecin za sobą mają już mecz z GKS-em Katowice. Portowcy wygrali 1:0. Na jakie noty zasłużyli podopieczni Oscara Garcii?&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Już dziś o godzinie 17:30 piłkarze Pogoni Szczecin walczyć będą o punkty w Katowicach. My przeprowadzimy z tego meczu dla Was transmisję audio z komentarzem Radka Sikory, i tradycyjną pisaną, ale w naszym nowym panelu do relacji LIVE. Zapraszamy do spędzenia tego dnia z nami!&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W ostatnich dniach w serwisie pojawiło się sporo nowości – od wyników na żywo na stronie głównej, przez statystyki i składy meczowe, po funkcje dla Patronów. Zebraliśmy wszystko w jednym miejscu.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę o 17:30 Pogoń Szczecin zagra na wyjeździe z GKS-em Katowice w 11. kolejce PKO BP Ekstraklasy. Spotkają się dwie drużyny z takim samym dorobkiem punktowym, a do tego najszczelniejsza obrona w lidze z najskuteczniejszym atakiem.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Jan Biegański spodziewa się w Katowicach zaciętego meczu. Pomocnik Pogoni Szczecin podkreśla, że obie drużyny są w dobrej formie, a największą zmianą w grze Portowców w tym sezonie jest szczelniejsza defensywa.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Dlaczego zamienił Hull City na Szczecin, jak widzi przyszłość Pogoni i dlaczego wierzy, że Ekstraklasa w ciągu kilku lat wejdzie do czołowej dziesiątki rankingu UEFA? Prezes Pogoni Szczecin Tan Kesler opowiedział o tym w obszernej rozmowie z portalem WP SportoweFakty.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Mecz Pogoni Szczecin z GKS-em w Katowicach już w sobotę. Poniżej znajdziecie najnowszy odcinek programu O Portowcach od kanału sPort Szczecin.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Dimitrios Keramitsis jeszcze nie wygrał z Pogonią Szczecin w Katowicach. Grecki obrońca przekonuje, że jeśli Portowcy chcą w tym sezonie osiągnąć coś dużego, muszą to zmienić w sobotę.&lt;/p&gt;
+&lt;h3&gt;Wojciechowski: Zrobiliśmy dokładnie tak, jak planowaliśmy&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin wygrała w Katowicach, przerwała prawie roczną serię GKS-u bez porażki na własnym stadionie i odniosła czwarte ligowe zwycięstwo z rzędu. Po meczu Maciej Wojciechowski mówił o planie na ten mecz, intensywności spotkania i pracy w defensywie. Rozmawiał Dominik Markiewicz.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
       <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Pomeczowe opinie trenerów&lt;/h3&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Trener Oscar Garcia mógł być w znacznie lepszym nastroju od Rafała Góraka po meczu GKS - Pogoń rozegranym w Katowicach. Poniżej znajdziecie pomeczowe opinie trenerów.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Długie podanie Atilli Szalaia i zimna krew Jordiego Sancheza. Tak padł gol dla Pogoni Szczecin w meczu z GKS-em Katowice. Jeśli nie oglądaliście tego spotkania poniżej znajdziecie jego skrót.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W najważniejszej pomeczowej statystyce 1 po stronie Pogoni i 0 po stronie GKS-u Katowice. Jak wyglądały pozostałe liczby z tego meczu?&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin po goli Jordiego Sancheza wygrała w Katowicach z GKS-em 1:0. Portowcy kolejny już raz zachowali czyste konto i są w ligowej czołówce mimo jednego zaległego meczu.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Piłkarze Pogoni Szczecin za sobą mają już mecz z GKS-em Katowice. Portowcy wygrali 1:0. Na jakie noty zasłużyli podopieczni Oscara Garcii?&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Już dziś o godzinie 17:30 piłkarze Pogoni Szczecin walczyć będą o punkty w Katowicach. My przeprowadzimy z tego meczu dla Was transmisję audio z komentarzem Radka Sikory, i tradycyjną pisaną, ale w naszym nowym panelu do relacji LIVE. Zapraszamy do spędzenia tego dnia z nami!&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W ostatnich dniach w serwisie pojawiło się sporo nowości – od wyników na żywo na stronie głównej, przez statystyki i składy meczowe, po funkcje dla Patronów. Zebraliśmy wszystko w jednym miejscu.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę o 17:30 Pogoń Szczecin zagra na wyjeździe z GKS-em Katowice w 11. kolejce PKO BP Ekstraklasy. Spotkają się dwie drużyny z takim samym dorobkiem punktowym, a do tego najszczelniejsza obrona w lidze z najskuteczniejszym atakiem.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Jan Biegański spodziewa się w Katowicach zaciętego meczu. Pomocnik Pogoni Szczecin podkreśla, że obie drużyny są w dobrej formie, a największą zmianą w grze Portowców w tym sezonie jest szczelniejsza defensywa.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Dlaczego zamienił Hull City na Szczecin, jak widzi przyszłość Pogoni i dlaczego wierzy, że Ekstraklasa w ciągu kilku lat wejdzie do czołowej dziesiątki rankingu UEFA? Prezes Pogoni Szczecin Tan Kesler opowiedział o tym w obszernej rozmowie z portalem WP SportoweFakty.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Mecz Pogoni Szczecin z GKS-em w Katowicach już w sobotę. Poniżej znajdziecie najnowszy odcinek programu O Portowcach od kanału sPort Szczecin.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Dimitrios Keramitsis jeszcze nie wygrał z Pogonią Szczecin w Katowicach. Grecki obrońca przekonuje, że jeśli Portowcy chcą w tym sezonie osiągnąć coś dużego, muszą to zmienić w sobotę.&lt;/p&gt;
+&lt;h3&gt;Wojciechowski: Zrobiliśmy dokładnie tak, jak planowaliśmy&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin wygrała w Katowicach, przerwała prawie roczną serię GKS-u bez porażki na własnym stadionie i odniosła czwarte ligowe zwycięstwo z rzędu. Po meczu Maciej Wojciechowski mówił o planie na ten mecz, intensywności spotkania i pracy w defensywie. Rozmawiał Dominik Markiewicz.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/4/</guid>
@@ -1103,14 +1049,20 @@
       <link>https://pogonsportnet.pl/aktualnosci/2273/</link>
       <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Ostatnia możliwość wygrania biletów na mecz z Werderem!&lt;/h3&gt;
+&lt;h3&gt;Portowcy zmierzą się z I - ligowcami&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Portowcy, którzy od kilku dni przebywają na obozie Gniewinie dotychczas rozegrali trzy sparingi, w których dwukrotnie uznawali wyższość rywali i raz zremisowali. Jutro gracze Pogoni będą mieli okazję do pop&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Czas na ostatni konkurs w którym będzie można wygrać po dwa bilety na mecz sparingowy Pogoni Szczecin z Werderem Brema. Będzie to z pewnością jedno z najciekawszych sportowych wydarzeń lata w naszym regionie! Na W&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Najlepszy snajper ubiegłego sezonu T-Mobile Ekstraklasy odchodzi z Pogoni Szczecin na zasadzie transferu definitywnego. Marcin Robak w przyszłym sezonie zagra w chińskiej ekstraklasie.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Miejsce dla czytelników PogonSportNet.pl do rozmów o wszystkim i o niczym. Podlega takiej samej moderacji jak komentarze przy newsach.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
       <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Ostatnia możliwość wygrania biletów na mecz z Werderem!&lt;/h3&gt;
+&lt;h3&gt;Portowcy zmierzą się z I - ligowcami&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Portowcy, którzy od kilku dni przebywają na obozie Gniewinie dotychczas rozegrali trzy sparingi, w których dwukrotnie uznawali wyższość rywali i raz zremisowali. Jutro gracze Pogoni będą mieli okazję do pop&lt;/p&gt;
 &lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Czas na ostatni konkurs w którym będzie można wygrać po dwa bilety na mecz sparingowy Pogoni Szczecin z Werderem Brema. Będzie to z pewnością jedno z najciekawszych sportowych wydarzeń lata w naszym regionie! Na W&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Najlepszy snajper ubiegłego sezonu T-Mobile Ekstraklasy odchodzi z Pogoni Szczecin na zasadzie transferu definitywnego. Marcin Robak w przyszłym sezonie zagra w chińskiej ekstraklasie.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Miejsce dla czytelników PogonSportNet.pl do rozmów o wszystkim i o niczym. Podlega takiej samej moderacji jak komentarze przy newsach.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/2273/</guid>
