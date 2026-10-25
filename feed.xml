@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 25 Oct 2026 18:05:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 21:03:49 +0000</lastBuildDate>
     <item>
       <title>Pogoń i PKO BP Ekstraklasa</title>
       <link>https://pogonsportnet.pl/aktualnosci/rozmowy-pogon-i-ekstraklasa/</link>
@@ -120,7 +120,7 @@
 &lt;p&gt;Z tego co pamiętam była też możliwość wykupienia grawerunku na wybranym krzesełku na stadionie czy coś ten deseń.&lt;/p&gt;
 &lt;p&gt;Pytam z czystej ciekowości, bo pamiętam że trochę osób uczestniczyło w wspomnianej akcji (w tym ja), a niestety nie napotkałem się na żadną oficjalną informację w tej sprawie.&lt;/p&gt;
 &lt;p&gt;fdm&lt;/p&gt;
-&lt;p&gt;(4963/6400)21.10.2026 15:22&lt;/p&gt;
+&lt;p&gt;(4964/6400)21.10.2026 15:22&lt;/p&gt;
 &lt;p&gt;Tablica stoi na głównym placu przed stadionem.&lt;/p&gt;
 &lt;p&gt;tomil3373&lt;/p&gt;
 &lt;p&gt;(18740/24000)21.10.2026 17:42&lt;/p&gt;
@@ -137,7 +137,7 @@
 &lt;p&gt;Z tego co pamiętam była też możliwość wykupienia grawerunku na wybranym krzesełku na stadionie czy coś ten deseń.&lt;/p&gt;
 &lt;p&gt;Pytam z czystej ciekowości, bo pamiętam że trochę osób uczestniczyło w wspomnianej akcji (w tym ja), a niestety nie napotkałem się na żadną oficjalną informację w tej sprawie.&lt;/p&gt;
 &lt;p&gt;fdm&lt;/p&gt;
-&lt;p&gt;(4963/6400)21.10.2026 15:22&lt;/p&gt;
+&lt;p&gt;(4964/6400)21.10.2026 15:22&lt;/p&gt;
 &lt;p&gt;Tablica stoi na głównym placu przed stadionem.&lt;/p&gt;
 &lt;p&gt;tomil3373&lt;/p&gt;
 &lt;p&gt;(18740/24000)21.10.2026 17:42&lt;/p&gt;
@@ -183,17 +183,254 @@
       <pubDate>Tue, 20 Oct 2026 23:38:00 +0200</pubDate>
     </item>
     <item>
+      <title>Centrum meczowe, nowa Kadra, Legendy i Stadion. Co nowego na PogonSportNet.pl</title>
+      <link>https://pogonsportnet.pl/aktualnosci/centrum-meczowe-nowa-kadra-legendy-i-stadion-co-nowego-na-pogonsportnetpl/</link>
+      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/3165e5a0-382d-46c0-be91-23e28917beb3/co-nowego-26-10-news-jpg.webp" alt="Centrum meczowe, nowa Kadra, Legendy i Stadion. Co nowego na PogonSportNet.pl" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;Centrum meczowe ze statystykami sezonu i drużyną kobiet, rozbudowane profile piłkarzy, profile rywali, terminarz w kalendarzu telefonu, czytanie tekstów na głos oraz nowe strony o legendach Pogoni, stadionie i Galeria kibiców.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Od &lt;a href="https://pogonsportnet.pl/aktualnosci/dziewiec-nowych-gier-kalendarium-i-nowosci-dla-patronow-co-nowego-na-pogonsportnetpl/"&gt;ostatniego podsumowania&lt;/a&gt; zmian jest sporo. Najwięcej przybyło wokół meczów i liczb: nowe Centrum meczowe, statystyki sezonu, profile piłkarzy i rywali. Do tego trzy nowe strony o historii klubu i kilka rzeczy, które ułatwiają czytanie serwisu na co dzień.&lt;/p&gt;
+&lt;h3&gt;Centrum meczowe&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://pogonsportnet.pl/centrum-meczowe/"&gt;&lt;strong&gt;Centrum meczowe&lt;/strong&gt;&lt;/a&gt; zbiera w jednym miejscu wszystko, co dotyczy najbliższego albo ostatniego meczu Pogoni. Na górze jest lista wszystkich kolejek sezonu, więc można cofnąć się do każdego rozegranego spotkania. W zakładce &lt;strong&gt;Mecz&lt;/strong&gt; znajdziecie:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Rywal pod lupą&lt;/strong&gt; - przed meczem: miejsce i punkty przeciwnika, jego bramki, najlepsi strzelcy, asystenci i zawodnicy z największą liczbą minut,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sędzia meczu&lt;/strong&gt; - kto poprowadzi spotkanie,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Materiały PogonSportNet.pl&lt;/strong&gt; - nasze teksty o meczu ułożone w grupach: przed meczem, konferencje, po meczu i fotorelacje,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wideo&lt;/strong&gt; - skróty, relacje, #ObokMeczu, #wObiektywie i doping z trybun,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Składy&lt;/strong&gt; z ustawieniem obu drużyn, zmianami i minutami (dane ekstraklasa.org) oraz statystyki meczu: posiadanie piłki, strzały, strzały celne, rzuty rożne i faule,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Noty kibiców&lt;/strong&gt; po meczu,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Byłem na meczu&lt;/strong&gt; - przy meczach u siebie możecie zaznaczyć, że byliście na stadionie. Widać, ilu czytelników było na trybunach, a Wy dostajecie swój bilans Pogoni z meczów, które oglądaliście na żywo. Logowanie nie jest potrzebne,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Historia z rywalem&lt;/strong&gt; - wszystkie mecze z danym przeciwnikiem według &lt;a href="https://kronikapogoni.pl/"&gt;Kroniki Pogoni&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Barometr nastrojów&lt;/h4&gt;
+&lt;p&gt;Przed każdym meczem i po nim pytamy, jak oceniacie obecną formę Pogoni w skali od 1 do 10. Barometr pokazuje średnią ocen, nastrój opisany słowem (np. „optymizm”) i wykres całego sezonu. Głosować można w Centrum meczowym i na &lt;a href="https://pogonsportnet.pl/"&gt;stronie głównej&lt;/a&gt;.&lt;/p&gt;
+&lt;h4&gt;Sezon w liczbach&lt;/h4&gt;
+&lt;p&gt;Druga zakładka, &lt;a href="https://pogonsportnet.pl/centrum-meczowe/#sezon"&gt;&lt;strong&gt;Sezon w liczbach&lt;/strong&gt;&lt;/a&gt;, to statystyki Pogoni w lidze:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bilans zwycięstw, remisów i porażek (razem, u siebie i na wyjeździe), w których minutach Pogoń strzela i traci gole oraz bilans meczów, w których pierwsza strzeliła albo straciła gola,&lt;/li&gt;
+&lt;li&gt;strzelcy i asystenci,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pogoń na tle ligi&lt;/strong&gt; - miejsce wśród 18 drużyn w kilkunastu kategoriach z danych Opta,&lt;/li&gt;
+&lt;li&gt;frekwencja na meczach u siebie na tle średniej w lidze,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gdzie Pogoń strzela&lt;/strong&gt; - z jakich miejsc padają strzały, w którą część bramki trafiają, czym (noga, głowa) i po jakich akcjach,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Piłkarze Pogoni w rankingach ligi&lt;/strong&gt; - trzech najlepszych zawodników Pogoni w 13 kategoriach (m.in. gole, asysty, xG, kluczowe podania, dryblingi, odbiory) i ich miejsce wśród wszystkich piłkarzy Ekstraklasy,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Porównanie sezonów&lt;/strong&gt; - jak Pogoń wyglądała po tej samej liczbie meczów w poprzednich sezonach. Wykres pokazuje punkty albo miejsce w tabeli po kolejnych kolejkach.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Kobiety&lt;/h4&gt;
+&lt;p&gt;W zakładce &lt;a href="https://pogonsportnet.pl/centrum-meczowe/#kobiety"&gt;&lt;strong&gt;Kobiety&lt;/strong&gt;&lt;/a&gt; jest drużyna Pogoni w Orlen Ekstralidze: najbliższy i ostatni mecz, wyniki i terminarz, tabela, bilans u siebie i na wyjeździe oraz klasyfikacja strzelczyń.&lt;/p&gt;
+&lt;h3&gt;Kadra: profile piłkarzy i nowe zakładki&lt;/h3&gt;
+&lt;p&gt;Po kliknięciu zawodnika w &lt;a href="https://pogonsportnet.pl/kadra/"&gt;&lt;strong&gt;Kadrze&lt;/strong&gt;&lt;/a&gt; otwiera się rozbudowany profil. Są w nim punkty w klasyfikacji „Piłkarz Sezonu PogonSportNet.pl”, tytuły MVP, gole, asysty, kartki, wartość rynkowa, występy w sezonie z podziałem na rozgrywki i noty kibiców mecz po meczu. Niżej znajdziecie liczby zawodnika w Pogoni, datę końca umowy, debiut, pierwszego gola, całą karierę klubową z występami w reprezentacji i nasze teksty o tym piłkarzu. Strzałkami można przejść do kolejnego zawodnika, a każdy profil ma własny adres, np. &lt;a href="https://pogonsportnet.pl/kadra/#zawodnik-grosicki"&gt;profil Kamila Grosickiego&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;W Kadrze pojawiło się też pięć nowych zakładek:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/kadra/#wypozyczeni"&gt;&lt;strong&gt;Wypożyczeni&lt;/strong&gt;&lt;/a&gt; - zawodnicy Pogoni i Pogoni II na wypożyczeniach oraz ich liczby od dnia wypożyczenia,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/kadra/#wychowankowie"&gt;&lt;strong&gt;Wychowankowie&lt;/strong&gt;&lt;/a&gt; - ponad pięćdziesięciu zawodników z Akademii Pogoni, którzy grają dziś w innych klubach, z podziałem na Ekstraklasę, niższe ligi i zagranicę,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/kadra/#kontrakty"&gt;&lt;strong&gt;Kontrakty&lt;/strong&gt;&lt;/a&gt; - do kiedy obowiązują umowy piłkarzy pierwszej drużyny,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/kadra/#trenerzy"&gt;&lt;strong&gt;Trenerzy&lt;/strong&gt;&lt;/a&gt; - bilanse wszystkich trenerów Pogoni od sezonu 2008/09 w lidze, Pucharze Polski i europejskich pucharach. Listę można ułożyć od najnowszych, według punktów na mecz albo liczby meczów,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/kadra/#porownaj"&gt;&lt;strong&gt;Porównaj&lt;/strong&gt;&lt;/a&gt; - wybieracie dwóch piłkarzy i zestawiacie ich liczby z sezonu, noty kibiców i dane z Transfermarkt. Porównanie ma własny link, więc można je wysłać znajomym.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Profile rywali i tabela&lt;/h3&gt;
+&lt;p&gt;W &lt;a href="https://pogonsportnet.pl/tabela-ekstraklasa/"&gt;tabeli Ekstraklasy&lt;/a&gt; można przełączać widok: cała tabela, mecze u siebie, mecze na wyjeździe albo forma z pięciu ostatnich kolejek. Po kliknięciu nazwy drużyny otwiera się jej profil: miejsce w lidze, bilans, punkty na mecz, forma, wyniki u siebie i na wyjeździe, ostatni i następny mecz, frekwencja na jej stadionie oraz bilans wszystkich meczów z Pogonią od 2008 roku. Profil otworzycie także z &lt;a href="https://pogonsportnet.pl/ekstraklasa/"&gt;terminarza&lt;/a&gt; i z Centrum meczowego.&lt;/p&gt;
+&lt;h4&gt;Terminarz w Waszym kalendarzu&lt;/h4&gt;
+&lt;p&gt;Pod &lt;a href="https://pogonsportnet.pl/ekstraklasa/"&gt;terminarzem Ekstraklasy&lt;/a&gt; jest przycisk &lt;strong&gt;Terminarz w Twoim kalendarzu&lt;/strong&gt;. Wybieracie Google, iPhone / Mac, Outlook albo plik .ics, a mecze Pogoni same pojawią się w kalendarzu telefonu. Gdy liga ustali albo zmieni godzinę meczu, kalendarz zaktualizuje się sam.&lt;/p&gt;
+&lt;h3&gt;Strefa wideo&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://pogonsportnet.pl/strefa-wideo/"&gt;&lt;strong&gt;Strefa wideo&lt;/strong&gt;&lt;/a&gt; to archiwum ponad 2300 naszych materiałów wideo i audio. Można je filtrować według kategorii (#PogońFM, relacje i transmisje, #ObokMeczu, skróty meczów, konferencje, doping i oprawy, #wObiektywie, wywiady) albo wyszukać po nazwisku czy rywalu. Film otwiera się w odtwarzaczu na tej samej stronie.&lt;/p&gt;
+&lt;h3&gt;Dane i historia&lt;/h3&gt;
+&lt;p&gt;W menu Aktualności jest nowa sekcja &lt;strong&gt;Dane i historia&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://pogonsportnet.pl/legendy/"&gt;&lt;strong&gt;Legendy Pogoni&lt;/strong&gt;&lt;/a&gt; - sylwetki dwudziestu piłkarzy i trenerów, którzy zapisali się w historii klubu: od Floriana Krygiera i Mariusza Kurasa, przez Marka Leśniaka i Radosława Majdana, po Kamila Grosickiego i Kostę Runjaicia. Przy każdym są lata gry, liczba meczów i goli, krótki biogram i ciekawostka. Listę można zawęzić do rekordzistów występów, strzelców, reprezentantów albo ikon klubu. Na górze strony są klubowe rekordy: najwięcej meczów, najwięcej goli i królowie strzelców.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://pogonsportnet.pl/stadion/"&gt;&lt;strong&gt;Stadion im. Floriana Krygiera&lt;/strong&gt;&lt;/a&gt; - najważniejsze liczby, zdjęcia, najbliższy mecz przy Twardowskiego, bilans meczów u siebie, ostatnie wyniki, najwyższe wygrane na nowym obiekcie, frekwencja w tym sezonie, historia stadionu, dojazd, opis trybun i ciekawostki.&lt;/p&gt;
+&lt;h3&gt;Galeria kibiców&lt;/h3&gt;
+&lt;p&gt;Macie dobre zdjęcie z meczu, z wyjazdu albo z trybun? Wyślijcie je do &lt;a href="https://pogonsportnet.pl/galeria-kibicow/"&gt;&lt;strong&gt;Galerii kibiców&lt;/strong&gt;&lt;/a&gt;. Wystarczy dodać plik (JPG, PNG lub WEBP, do 15 MB), wybrać mecz i podpisać się imieniem albo pseudonimem. Zdjęcie pojawi się w galerii po akceptacji redakcji. Galerię można przeglądać według meczów. Link znajdziecie w menu Aktualności, pod Fotorelacjami.&lt;/p&gt;
+&lt;h3&gt;W artykułach&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Posłuchaj tekstu&lt;/strong&gt; - na początku artykułu jest przycisk, który czyta tekst na głos. Korzysta z polskiego głosu Waszego telefonu albo komputera, więc nic nie trzeba instalować, a tekst nie jest nigdzie wysyłany. Można zmienić tempo czytania, a czytany akapit jest podświetlony,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Linki do profili&lt;/strong&gt; - pierwsze nazwisko piłkarza z kadry w tekście prowadzi do jego profilu, np. w tekście &lt;a href="https://pogonsportnet.pl/aktualnosci/cojocaru-chwalony-w-rumunii-show-w-polsce/"&gt;o Valentinie Cojocaru&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Posty z mediów społecznościowych&lt;/strong&gt; - wpisy z X, Instagrama, Facebooka i TikToka wyświetlają się w artykułach w całości, a nie jako sam link.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Powiadomienie „Znamy skład”&lt;/h3&gt;
+&lt;p&gt;Jeśli macie włączone powiadomienia o newsach, przed każdym meczem ligowym dostaniecie powiadomienie, gdy tylko wyjściowa jedenastka Pogoni pojawi się w oficjalnych danych ligi. W treści jest ustawienie i nazwiska, a kliknięcie przenosi do Centrum meczowego.&lt;/p&gt;
+&lt;h3&gt;Nowe teczki&lt;/h3&gt;
+&lt;p&gt;Do teczek tematycznych doszły cztery nowe: &lt;a href="https://pogonsportnet.pl/aktualnosci/?teczka=konferencje-prasowe"&gt;Konferencje prasowe&lt;/a&gt;, &lt;a href="https://pogonsportnet.pl/aktualnosci/?teczka=materialy-meczowe"&gt;Materiały meczowe&lt;/a&gt;, &lt;a href="https://pogonsportnet.pl/aktualnosci/?teczka=fotorelacje"&gt;Fotorelacje&lt;/a&gt; i &lt;a href="https://pogonsportnet.pl/aktualnosci/?teczka=codzienne-newsy"&gt;Codzienne newsy&lt;/a&gt;. Każdy tekst trafia teraz przynajmniej do jednej teczki, więc łatwiej znaleźć starsze artykuły na dany temat.&lt;/p&gt;
+&lt;h3&gt;Piszcie, co działa, a co nie&lt;/h3&gt;
+&lt;p&gt;Jeśli coś nie działa albo macie pomysł na kolejną funkcję, napiszcie w komentarzu pod tym tekstem albo w rozmowie &lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-hydepark/"&gt;Hydepark&lt;/a&gt;. Dane w nowych modułach pochodzą m.in. z ekstraklasa.org (w tym Opta), Transfermarkt, 90minut.pl i Kroniki Pogoni. Jeśli zauważycie błąd w liczbach, dajcie znać, a poprawimy.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/3165e5a0-382d-46c0-be91-23e28917beb3/co-nowego-26-10-news-jpg.webp" alt="Centrum meczowe, nowa Kadra, Legendy i Stadion. Co nowego na PogonSportNet.pl" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;Centrum meczowe ze statystykami sezonu i drużyną kobiet, rozbudowane profile piłkarzy, profile rywali, terminarz w kalendarzu telefonu, czytanie tekstów na głos oraz nowe strony o legendach Pogoni, stadionie i Galeria kibiców.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Od &lt;a href="https://pogonsportnet.pl/aktualnosci/dziewiec-nowych-gier-kalendarium-i-nowosci-dla-patronow-co-nowego-na-pogonsportnetpl/"&gt;ostatniego podsumowania&lt;/a&gt; zmian jest sporo. Najwięcej przybyło wokół meczów i liczb: nowe Centrum meczowe, statystyki sezonu, profile piłkarzy i rywali. Do tego trzy nowe strony o historii klubu i kilka rzeczy, które ułatwiają czytanie serwisu na co dzień.&lt;/p&gt;
+&lt;h3&gt;Centrum meczowe&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://pogonsportnet.pl/centrum-meczowe/"&gt;&lt;strong&gt;Centrum meczowe&lt;/strong&gt;&lt;/a&gt; zbiera w jednym miejscu wszystko, co dotyczy najbliższego albo ostatniego meczu Pogoni. Na górze jest lista wszystkich kolejek sezonu, więc można cofnąć się do każdego rozegranego spotkania. W zakładce &lt;strong&gt;Mecz&lt;/strong&gt; znajdziecie:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Rywal pod lupą&lt;/strong&gt; - przed meczem: miejsce i punkty przeciwnika, jego bramki, najlepsi strzelcy, asystenci i zawodnicy z największą liczbą minut,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sędzia meczu&lt;/strong&gt; - kto poprowadzi spotkanie,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Materiały PogonSportNet.pl&lt;/strong&gt; - nasze teksty o meczu ułożone w grupach: przed meczem, konferencje, po meczu i fotorelacje,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wideo&lt;/strong&gt; - skróty, relacje, #ObokMeczu, #wObiektywie i doping z trybun,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Składy&lt;/strong&gt; z ustawieniem obu drużyn, zmianami i minutami (dane ekstraklasa.org) oraz statystyki meczu: posiadanie piłki, strzały, strzały celne, rzuty rożne i faule,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Noty kibiców&lt;/strong&gt; po meczu,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Byłem na meczu&lt;/strong&gt; - przy meczach u siebie możecie zaznaczyć, że byliście na stadionie. Widać, ilu czytelników było na trybunach, a Wy dostajecie swój bilans Pogoni z meczów, które oglądaliście na żywo. Logowanie nie jest potrzebne,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Historia z rywalem&lt;/strong&gt; - wszystkie mecze z danym przeciwnikiem według &lt;a href="https://kronikapogoni.pl/"&gt;Kroniki Pogoni&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Barometr nastrojów&lt;/h4&gt;
+&lt;p&gt;Przed każdym meczem i po nim pytamy, jak oceniacie obecną formę Pogoni w skali od 1 do 10. Barometr pokazuje średnią ocen, nastrój opisany słowem (np. „optymizm”) i wykres całego sezonu. Głosować można w Centrum meczowym i na &lt;a href="https://pogonsportnet.pl/"&gt;stronie głównej&lt;/a&gt;.&lt;/p&gt;
+&lt;h4&gt;Sezon w liczbach&lt;/h4&gt;
+&lt;p&gt;Druga zakładka, &lt;a href="https://pogonsportnet.pl/centrum-meczowe/#sezon"&gt;&lt;strong&gt;Sezon w liczbach&lt;/strong&gt;&lt;/a&gt;, to statystyki Pogoni w lidze:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bilans zwycięstw, remisów i porażek (razem, u siebie i na wyjeździe), w których minutach Pogoń strzela i traci gole oraz bilans meczów, w których pierwsza strzeliła albo straciła gola,&lt;/li&gt;
+&lt;li&gt;strzelcy i asystenci,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pogoń na tle ligi&lt;/strong&gt; - miejsce wśród 18 drużyn w kilkunastu kategoriach z danych Opta,&lt;/li&gt;
+&lt;li&gt;frekwencja na meczach u siebie na tle średniej w lidze,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gdzie Pogoń strzela&lt;/strong&gt; - z jakich miejsc padają strzały, w którą część bramki trafiają, czym (noga, głowa) i po jakich akcjach,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Piłkarze Pogoni w rankingach ligi&lt;/strong&gt; - trzech najlepszych zawodników Pogoni w 13 kategoriach (m.in. gole, asysty, xG, kluczowe podania, dryblingi, odbiory) i ich miejsce wśród wszystkich piłkarzy Ekstraklasy,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Porównanie sezonów&lt;/strong&gt; - jak Pogoń wyglądała po tej samej liczbie meczów w poprzednich sezonach. Wykres pokazuje punkty albo miejsce w tabeli po kolejnych kolejkach.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Kobiety&lt;/h4&gt;
+&lt;p&gt;W zakładce &lt;a href="https://pogonsportnet.pl/centrum-meczowe/#kobiety"&gt;&lt;strong&gt;Kobiety&lt;/strong&gt;&lt;/a&gt; jest drużyna Pogoni w Orlen Ekstralidze: najbliższy i ostatni mecz, wyniki i terminarz, tabela, bilans u siebie i na wyjeździe oraz klasyfikacja strzelczyń.&lt;/p&gt;
+&lt;h3&gt;Kadra: profile piłkarzy i nowe zakładki&lt;/h3&gt;
+&lt;p&gt;Po kliknięciu zawodnika w &lt;a href="https://pogonsportnet.pl/kadra/"&gt;&lt;strong&gt;Kadrze&lt;/strong&gt;&lt;/a&gt; otwiera się rozbudowany profil. Są w nim punkty w klasyfikacji „Piłkarz Sezonu PogonSportNet.pl”, tytuły MVP, gole, asysty, kartki, wartość rynkowa, występy w sezonie z podziałem na rozgrywki i noty kibiców mecz po meczu. Niżej znajdziecie liczby zawodnika w Pogoni, datę końca umowy, debiut, pierwszego gola, całą karierę klubową z występami w reprezentacji i nasze teksty o tym piłkarzu. Strzałkami można przejść do kolejnego zawodnika, a każdy profil ma własny adres, np. &lt;a href="https://pogonsportnet.pl/kadra/#zawodnik-grosicki"&gt;profil Kamila Grosickiego&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;W Kadrze pojawiło się też pięć nowych zakładek:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/kadra/#wypozyczeni"&gt;&lt;strong&gt;Wypożyczeni&lt;/strong&gt;&lt;/a&gt; - zawodnicy Pogoni i Pogoni II na wypożyczeniach oraz ich liczby od dnia wypożyczenia,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/kadra/#wychowankowie"&gt;&lt;strong&gt;Wychowankowie&lt;/strong&gt;&lt;/a&gt; - ponad pięćdziesięciu zawodników z Akademii Pogoni, którzy grają dziś w innych klubach, z podziałem na Ekstraklasę, niższe ligi i zagranicę,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/kadra/#kontrakty"&gt;&lt;strong&gt;Kontrakty&lt;/strong&gt;&lt;/a&gt; - do kiedy obowiązują umowy piłkarzy pierwszej drużyny,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/kadra/#trenerzy"&gt;&lt;strong&gt;Trenerzy&lt;/strong&gt;&lt;/a&gt; - bilanse wszystkich trenerów Pogoni od sezonu 2008/09 w lidze, Pucharze Polski i europejskich pucharach. Listę można ułożyć od najnowszych, według punktów na mecz albo liczby meczów,&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pogonsportnet.pl/kadra/#porownaj"&gt;&lt;strong&gt;Porównaj&lt;/strong&gt;&lt;/a&gt; - wybieracie dwóch piłkarzy i zestawiacie ich liczby z sezonu, noty kibiców i dane z Transfermarkt. Porównanie ma własny link, więc można je wysłać znajomym.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Profile rywali i tabela&lt;/h3&gt;
+&lt;p&gt;W &lt;a href="https://pogonsportnet.pl/tabela-ekstraklasa/"&gt;tabeli Ekstraklasy&lt;/a&gt; można przełączać widok: cała tabela, mecze u siebie, mecze na wyjeździe albo forma z pięciu ostatnich kolejek. Po kliknięciu nazwy drużyny otwiera się jej profil: miejsce w lidze, bilans, punkty na mecz, forma, wyniki u siebie i na wyjeździe, ostatni i następny mecz, frekwencja na jej stadionie oraz bilans wszystkich meczów z Pogonią od 2008 roku. Profil otworzycie także z &lt;a href="https://pogonsportnet.pl/ekstraklasa/"&gt;terminarza&lt;/a&gt; i z Centrum meczowego.&lt;/p&gt;
+&lt;h4&gt;Terminarz w Waszym kalendarzu&lt;/h4&gt;
+&lt;p&gt;Pod &lt;a href="https://pogonsportnet.pl/ekstraklasa/"&gt;terminarzem Ekstraklasy&lt;/a&gt; jest przycisk &lt;strong&gt;Terminarz w Twoim kalendarzu&lt;/strong&gt;. Wybieracie Google, iPhone / Mac, Outlook albo plik .ics, a mecze Pogoni same pojawią się w kalendarzu telefonu. Gdy liga ustali albo zmieni godzinę meczu, kalendarz zaktualizuje się sam.&lt;/p&gt;
+&lt;h3&gt;Strefa wideo&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://pogonsportnet.pl/strefa-wideo/"&gt;&lt;strong&gt;Strefa wideo&lt;/strong&gt;&lt;/a&gt; to archiwum ponad 2300 naszych materiałów wideo i audio. Można je filtrować według kategorii (#PogońFM, relacje i transmisje, #ObokMeczu, skróty meczów, konferencje, doping i oprawy, #wObiektywie, wywiady) albo wyszukać po nazwisku czy rywalu. Film otwiera się w odtwarzaczu na tej samej stronie.&lt;/p&gt;
+&lt;h3&gt;Dane i historia&lt;/h3&gt;
+&lt;p&gt;W menu Aktualności jest nowa sekcja &lt;strong&gt;Dane i historia&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://pogonsportnet.pl/legendy/"&gt;&lt;strong&gt;Legendy Pogoni&lt;/strong&gt;&lt;/a&gt; - sylwetki dwudziestu piłkarzy i trenerów, którzy zapisali się w historii klubu: od Floriana Krygiera i Mariusza Kurasa, przez Marka Leśniaka i Radosława Majdana, po Kamila Grosickiego i Kostę Runjaicia. Przy każdym są lata gry, liczba meczów i goli, krótki biogram i ciekawostka. Listę można zawęzić do rekordzistów występów, strzelców, reprezentantów albo ikon klubu. Na górze strony są klubowe rekordy: najwięcej meczów, najwięcej goli i królowie strzelców.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://pogonsportnet.pl/stadion/"&gt;&lt;strong&gt;Stadion im. Floriana Krygiera&lt;/strong&gt;&lt;/a&gt; - najważniejsze liczby, zdjęcia, najbliższy mecz przy Twardowskiego, bilans meczów u siebie, ostatnie wyniki, najwyższe wygrane na nowym obiekcie, frekwencja w tym sezonie, historia stadionu, dojazd, opis trybun i ciekawostki.&lt;/p&gt;
+&lt;h3&gt;Galeria kibiców&lt;/h3&gt;
+&lt;p&gt;Macie dobre zdjęcie z meczu, z wyjazdu albo z trybun? Wyślijcie je do &lt;a href="https://pogonsportnet.pl/galeria-kibicow/"&gt;&lt;strong&gt;Galerii kibiców&lt;/strong&gt;&lt;/a&gt;. Wystarczy dodać plik (JPG, PNG lub WEBP, do 15 MB), wybrać mecz i podpisać się imieniem albo pseudonimem. Zdjęcie pojawi się w galerii po akceptacji redakcji. Galerię można przeglądać według meczów. Link znajdziecie w menu Aktualności, pod Fotorelacjami.&lt;/p&gt;
+&lt;h3&gt;W artykułach&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Posłuchaj tekstu&lt;/strong&gt; - na początku artykułu jest przycisk, który czyta tekst na głos. Korzysta z polskiego głosu Waszego telefonu albo komputera, więc nic nie trzeba instalować, a tekst nie jest nigdzie wysyłany. Można zmienić tempo czytania, a czytany akapit jest podświetlony,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Linki do profili&lt;/strong&gt; - pierwsze nazwisko piłkarza z kadry w tekście prowadzi do jego profilu, np. w tekście &lt;a href="https://pogonsportnet.pl/aktualnosci/cojocaru-chwalony-w-rumunii-show-w-polsce/"&gt;o Valentinie Cojocaru&lt;/a&gt;,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Posty z mediów społecznościowych&lt;/strong&gt; - wpisy z X, Instagrama, Facebooka i TikToka wyświetlają się w artykułach w całości, a nie jako sam link.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Powiadomienie „Znamy skład”&lt;/h3&gt;
+&lt;p&gt;Jeśli macie włączone powiadomienia o newsach, przed każdym meczem ligowym dostaniecie powiadomienie, gdy tylko wyjściowa jedenastka Pogoni pojawi się w oficjalnych danych ligi. W treści jest ustawienie i nazwiska, a kliknięcie przenosi do Centrum meczowego.&lt;/p&gt;
+&lt;h3&gt;Nowe teczki&lt;/h3&gt;
+&lt;p&gt;Do teczek tematycznych doszły cztery nowe: &lt;a href="https://pogonsportnet.pl/aktualnosci/?teczka=konferencje-prasowe"&gt;Konferencje prasowe&lt;/a&gt;, &lt;a href="https://pogonsportnet.pl/aktualnosci/?teczka=materialy-meczowe"&gt;Materiały meczowe&lt;/a&gt;, &lt;a href="https://pogonsportnet.pl/aktualnosci/?teczka=fotorelacje"&gt;Fotorelacje&lt;/a&gt; i &lt;a href="https://pogonsportnet.pl/aktualnosci/?teczka=codzienne-newsy"&gt;Codzienne newsy&lt;/a&gt;. Każdy tekst trafia teraz przynajmniej do jednej teczki, więc łatwiej znaleźć starsze artykuły na dany temat.&lt;/p&gt;
+&lt;h3&gt;Piszcie, co działa, a co nie&lt;/h3&gt;
+&lt;p&gt;Jeśli coś nie działa albo macie pomysł na kolejną funkcję, napiszcie w komentarzu pod tym tekstem albo w rozmowie &lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-hydepark/"&gt;Hydepark&lt;/a&gt;. Dane w nowych modułach pochodzą m.in. z ekstraklasa.org (w tym Opta), Transfermarkt, 90minut.pl i Kroniki Pogoni. Jeśli zauważycie błąd w liczbach, dajcie znać, a poprawimy.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content:encoded>
+      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/centrum-meczowe-nowa-kadra-legendy-i-stadion-co-nowego-na-pogonsportnetpl/</guid>
+      <enclosure url="https://pogonsportnet.pl/storage/3165e5a0-382d-46c0-be91-23e28917beb3/co-nowego-26-10-news-jpg.webp" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 25 Oct 2026 21:27:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Radomiak pisze do Kolegium Sędziów po meczu z Pogonią. Chodzi o trzy sytuacje</title>
+      <link>https://pogonsportnet.pl/aktualnosci/radomiak-pisze-do-kolegium-sedziow-po-meczu-z-pogonia-chodzi-o-trzy-sytuacje/</link>
+      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/7251a72b-1abd-49d6-83ca-e5931f5a5c18/dsc9923-jpg.webp" alt="Radomiak pisze do Kolegium Sędziów po meczu z Pogonią. Chodzi o trzy sytuacje" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;Radomiak Radom wystąpił do Kolegium Sędziów PZPN o wyjaśnienie trzech decyzji sędziowskich z przegranego 3:4 meczu z Pogonią Szczecin. Klub pyta o kontakt przed golem Kamila Grosickiego, nieuznaną bramkę w 85. minucie i sytuację w polu karnym Pogoni w doliczonym czasie gry.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Pismo z 25 października podpisał prezes Radomiaka Sławomir Stempniewski. Jest skierowane do Marcina Szulca, przewodniczącego Prezydium Kolegium Sędziów PZPN. Klub prosi o “odrębną i merytoryczną ocenę” każdej z trzech sytuacji oraz o pisemne stanowisko w ciągu 14 dni. Mecz prowadził Bartosz Frankowski, a na wozie VAR pracowali Paweł Pskit i Michał Obukowicz.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Sytuacja pierwsza: 49. minuta&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Pierwsza wątpliwość dotyczy kontaktu Patryka Dziczka z Guilherme Luizem. Według Radomiaka to zdarzenie poprzedziło akcję, po której Pogoń zdobyła bramkę. W 49. minucie Kamil Grosicki strzelił gola na 3:2. Klub pyta, dlaczego zespół VAR nie wezwał sędziego do obejrzenia sytuacji na monitorze i czy kontakt uznano za zgodny z przepisami, czy za przewinienie, które nie kwalifikowało się do interwencji VAR.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Sytuacja druga: nieuznany gol w 85. minucie&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;W 85. minucie Radomiak strzelił gola, ale sędzia go nie uznał, oceniając, że Fernand Gouré sfaulował Dimitriosa Keramitsisa. Gdyby bramkę uznano, byłoby 4:4. Klub przekonuje, że w innych meczach ekstraklasy podobne kontakty nie były uznawane za przewinienia, i prosi o wskazanie kryteriów odróżniających dozwoloną walkę o pozycję od faulu.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Sytuacja trzecia: Riccio i Tapsoba w polu karnym&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Najważniejsza dla Radomiaka jest sytuacja z doliczonego czasu gry, którą klub opisuje jako “107. minutę meczu”. Według pisma Alessandro Riccio popchnął w polu karnym Pogoni Abdoula Tapsobę tuż przed oddaniem strzału, przez co zawodnik Radomiaka stracił równowagę i upadł. Klub pyta, czy zachowanie Riccio uznano za dozwolony kontakt, dlaczego VAR nie zalecił sędziemu analizy przy monitorze, i prosi o udostępnienie zapisu komunikacji między zespołem VAR a sędzią głównym.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;“Intencją nie jest podważanie autorytetu sędziów”&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Radomiak zaznacza, że nie kwestionuje wyniku ani autorytetu arbitrów.&lt;/p&gt;
+&lt;p&gt;- Zależy nam przede wszystkim na poznaniu konkretnych przesłanek, które zadecydowały o sposobie oceny wskazanych sytuacji - napisał klub. Według Radomiaka jednolite stosowanie przepisów i przejrzystość decyzji sędziowskich mają podstawowe znaczenie dla wiarygodności rozgrywek.&lt;/p&gt;
+&lt;p&gt;Pogoń wygrała z Radomiakiem 4:3 i odniosła piąte zwycięstwo z rzędu. Radomiak przegrał piąty mecz z rzędu i pozostaje na 16. miejscu w tabeli.&lt;/p&gt;
+&lt;img src="https://rksradomiak.pl/upload/6c12bPismo1.png"/&gt;
+&lt;img src="https://rksradomiak.pl/upload/9346bPismo2.png"/&gt;
+&lt;img src="https://rksradomiak.pl/upload/4780bPismo3.png"/&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/7251a72b-1abd-49d6-83ca-e5931f5a5c18/dsc9923-jpg.webp" alt="Radomiak pisze do Kolegium Sędziów po meczu z Pogonią. Chodzi o trzy sytuacje" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;Radomiak Radom wystąpił do Kolegium Sędziów PZPN o wyjaśnienie trzech decyzji sędziowskich z przegranego 3:4 meczu z Pogonią Szczecin. Klub pyta o kontakt przed golem Kamila Grosickiego, nieuznaną bramkę w 85. minucie i sytuację w polu karnym Pogoni w doliczonym czasie gry.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Pismo z 25 października podpisał prezes Radomiaka Sławomir Stempniewski. Jest skierowane do Marcina Szulca, przewodniczącego Prezydium Kolegium Sędziów PZPN. Klub prosi o “odrębną i merytoryczną ocenę” każdej z trzech sytuacji oraz o pisemne stanowisko w ciągu 14 dni. Mecz prowadził Bartosz Frankowski, a na wozie VAR pracowali Paweł Pskit i Michał Obukowicz.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Sytuacja pierwsza: 49. minuta&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Pierwsza wątpliwość dotyczy kontaktu Patryka Dziczka z Guilherme Luizem. Według Radomiaka to zdarzenie poprzedziło akcję, po której Pogoń zdobyła bramkę. W 49. minucie Kamil Grosicki strzelił gola na 3:2. Klub pyta, dlaczego zespół VAR nie wezwał sędziego do obejrzenia sytuacji na monitorze i czy kontakt uznano za zgodny z przepisami, czy za przewinienie, które nie kwalifikowało się do interwencji VAR.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Sytuacja druga: nieuznany gol w 85. minucie&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;W 85. minucie Radomiak strzelił gola, ale sędzia go nie uznał, oceniając, że Fernand Gouré sfaulował Dimitriosa Keramitsisa. Gdyby bramkę uznano, byłoby 4:4. Klub przekonuje, że w innych meczach ekstraklasy podobne kontakty nie były uznawane za przewinienia, i prosi o wskazanie kryteriów odróżniających dozwoloną walkę o pozycję od faulu.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Sytuacja trzecia: Riccio i Tapsoba w polu karnym&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Najważniejsza dla Radomiaka jest sytuacja z doliczonego czasu gry, którą klub opisuje jako “107. minutę meczu”. Według pisma Alessandro Riccio popchnął w polu karnym Pogoni Abdoula Tapsobę tuż przed oddaniem strzału, przez co zawodnik Radomiaka stracił równowagę i upadł. Klub pyta, czy zachowanie Riccio uznano za dozwolony kontakt, dlaczego VAR nie zalecił sędziemu analizy przy monitorze, i prosi o udostępnienie zapisu komunikacji między zespołem VAR a sędzią głównym.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;“Intencją nie jest podważanie autorytetu sędziów”&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Radomiak zaznacza, że nie kwestionuje wyniku ani autorytetu arbitrów.&lt;/p&gt;
+&lt;p&gt;- Zależy nam przede wszystkim na poznaniu konkretnych przesłanek, które zadecydowały o sposobie oceny wskazanych sytuacji - napisał klub. Według Radomiaka jednolite stosowanie przepisów i przejrzystość decyzji sędziowskich mają podstawowe znaczenie dla wiarygodności rozgrywek.&lt;/p&gt;
+&lt;p&gt;Pogoń wygrała z Radomiakiem 4:3 i odniosła piąte zwycięstwo z rzędu. Radomiak przegrał piąty mecz z rzędu i pozostaje na 16. miejscu w tabeli.&lt;/p&gt;
+&lt;img src="https://rksradomiak.pl/upload/6c12bPismo1.png"/&gt;
+&lt;img src="https://rksradomiak.pl/upload/9346bPismo2.png"/&gt;
+&lt;img src="https://rksradomiak.pl/upload/4780bPismo3.png"/&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content:encoded>
+      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/radomiak-pisze-do-kolegium-sedziow-po-meczu-z-pogonia-chodzi-o-trzy-sytuacje/</guid>
+      <enclosure url="https://pogonsportnet.pl/storage/7251a72b-1abd-49d6-83ca-e5931f5a5c18/dsc9923-jpg.webp" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 25 Oct 2026 20:36:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Komunikat Pogoni Szczecin dot. wydarzeń podczas meczu z Radomiakiem</title>
+      <link>https://pogonsportnet.pl/aktualnosci/komunikat-pogoni-szczecin-dot-wydarzen-podczas-meczu-z-radomiakiem/</link>
+      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/63bb15a4-4ebf-408c-96cb-7159c21d6821/komunikat-webp.webp" alt="Komunikat Pogoni Szczecin dot. wydarzeń podczas meczu z Radomiakiem" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;Pogoń Szczecin stanowczo potępia zachowania zawodników i członków sztabu szkoleniowego Radomiaka Radom wobec naszych piłkarzy oraz przedstawicieli klubu podczas wczorajszego spotkania. Uderzenie Darko Churlinova przy wejściu do tunelu było najpoważniejszym, ale nie jedynym zdarzeniem, które przekroczyło granice sportowej rywalizacji - czytamy w komunikacie klubu.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Nie godzimy się na agresję ani zachowania eskalujące konflikt i wymierzone w członków naszego zespołu. Emocje towarzyszące spotkaniu, jego wynik czy niezadowolenie z decyzji sędziowskich nie mogą być usprawiedliwieniem. Od wszystkich uczestników meczu, zarówno zawodników, jak i osób reprezentujących kluby, oczekujemy szacunku oraz odpowiedzialności za własne zachowanie.&lt;/p&gt;
+&lt;p&gt;Oczekujemy, że właściwe organy dyscyplinarne dokładnie przeanalizują przebieg tych zdarzeń i wyciągną konsekwencje adekwatne do ich powagi.&lt;/p&gt;
+&lt;p&gt;Wszyscy zawodnicy i przedstawiciele Pogoni mają pełne wsparcie klubu. Nie będziemy przechodzić obojętnie obok zachowań naruszających ich bezpieczeństwo i godność. Szacunek dla przeciwnika obowiązuje każdego, niezależnie od wyniku spotkania.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</description>
+      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/63bb15a4-4ebf-408c-96cb-7159c21d6821/komunikat-webp.webp" alt="Komunikat Pogoni Szczecin dot. wydarzeń podczas meczu z Radomiakiem" /&gt;&lt;/p&gt;&lt;html&gt;
+&lt;body&gt;
+&lt;p&gt;
+&lt;strong&gt;Pogoń Szczecin stanowczo potępia zachowania zawodników i członków sztabu szkoleniowego Radomiaka Radom wobec naszych piłkarzy oraz przedstawicieli klubu podczas wczorajszego spotkania. Uderzenie Darko Churlinova przy wejściu do tunelu było najpoważniejszym, ale nie jedynym zdarzeniem, które przekroczyło granice sportowej rywalizacji - czytamy w komunikacie klubu.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Nie godzimy się na agresję ani zachowania eskalujące konflikt i wymierzone w członków naszego zespołu. Emocje towarzyszące spotkaniu, jego wynik czy niezadowolenie z decyzji sędziowskich nie mogą być usprawiedliwieniem. Od wszystkich uczestników meczu, zarówno zawodników, jak i osób reprezentujących kluby, oczekujemy szacunku oraz odpowiedzialności za własne zachowanie.&lt;/p&gt;
+&lt;p&gt;Oczekujemy, że właściwe organy dyscyplinarne dokładnie przeanalizują przebieg tych zdarzeń i wyciągną konsekwencje adekwatne do ich powagi.&lt;/p&gt;
+&lt;p&gt;Wszyscy zawodnicy i przedstawiciele Pogoni mają pełne wsparcie klubu. Nie będziemy przechodzić obojętnie obok zachowań naruszających ich bezpieczeństwo i godność. Szacunek dla przeciwnika obowiązuje każdego, niezależnie od wyniku spotkania.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content:encoded>
+      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/komunikat-pogoni-szczecin-dot-wydarzen-podczas-meczu-z-radomiakiem/</guid>
+      <enclosure url="https://pogonsportnet.pl/storage/63bb15a4-4ebf-408c-96cb-7159c21d6821/komunikat-webp.webp" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 25 Oct 2026 19:13:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Grosicki najlepszy w meczu z Radomiakiem!</title>
       <link>https://pogonsportnet.pl/aktualnosci/grosicki-najlepszy-w-meczu-z-radomiakiem/</link>
       <description>&lt;html&gt;
 &lt;body&gt;&lt;p&gt;&lt;strong&gt;Kamil Grosicki, czyli strzelec dwóch goli w meczu z Radomiakiem, uznany został najlepszym zawodnikiem tego spotkania! Wyprzedził on Dimitriosa Keramitsisa i Patryka Dziczka.&lt;/strong&gt;&lt;/p&gt;&lt;img alt="oceny-pogon-radomiak" src="https://pogonsportnet.pl/storage/fe0eae1d-b8cf-4076-8db5-c3d075165f1e/oceny-pogon-radomiak-jpg.webp"/&gt;&lt;img alt="pilkarz-sezonu-po-12-kolejce" src="https://pogonsportnet.pl/storage/2dec74d9-2fd6-4654-af82-52278026ad31/pilkarz-sezonu-po-12-kolejce-jpg.webp"/&gt;&lt;img alt="IMG_7399" src="https://pogonsportnet.pl/storage/1f86a194-2ca3-46b0-89a0-f2aa00f8c893/img-7399-jpg.webp"/&gt;
 &lt;img alt="IMG_7399" src="https://pogonsportnet.pl/storage/1f86a194-2ca3-46b0-89a0-f2aa00f8c893/img-7399-jpg.webp"/&gt;
-&lt;p&gt;25.10.2026 | 16:50&lt;/p&gt;&lt;p&gt;Komentarze: 15&lt;/p&gt;&lt;/body&gt;
+&lt;p&gt;25.10.2026 | 16:50&lt;/p&gt;&lt;p&gt;Komentarze: 23&lt;/p&gt;&lt;/body&gt;
 &lt;/html&gt;</description>
       <content:encoded>&lt;html&gt;
 &lt;body&gt;&lt;p&gt;&lt;strong&gt;Kamil Grosicki, czyli strzelec dwóch goli w meczu z Radomiakiem, uznany został najlepszym zawodnikiem tego spotkania! Wyprzedził on Dimitriosa Keramitsisa i Patryka Dziczka.&lt;/strong&gt;&lt;/p&gt;&lt;img alt="oceny-pogon-radomiak" src="https://pogonsportnet.pl/storage/fe0eae1d-b8cf-4076-8db5-c3d075165f1e/oceny-pogon-radomiak-jpg.webp"/&gt;&lt;img alt="pilkarz-sezonu-po-12-kolejce" src="https://pogonsportnet.pl/storage/2dec74d9-2fd6-4654-af82-52278026ad31/pilkarz-sezonu-po-12-kolejce-jpg.webp"/&gt;&lt;img alt="IMG_7399" src="https://pogonsportnet.pl/storage/1f86a194-2ca3-46b0-89a0-f2aa00f8c893/img-7399-jpg.webp"/&gt;
 &lt;img alt="IMG_7399" src="https://pogonsportnet.pl/storage/1f86a194-2ca3-46b0-89a0-f2aa00f8c893/img-7399-jpg.webp"/&gt;
-&lt;p&gt;25.10.2026 | 16:50&lt;/p&gt;&lt;p&gt;Komentarze: 15&lt;/p&gt;&lt;/body&gt;
+&lt;p&gt;25.10.2026 | 16:50&lt;/p&gt;&lt;p&gt;Komentarze: 23&lt;/p&gt;&lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/grosicki-najlepszy-w-meczu-z-radomiakiem/</guid>
       <enclosure url="https://pogonsportnet.pl/storage/1f86a194-2ca3-46b0-89a0-f2aa00f8c893/img-7399-jpg.webp" length="0" type="image/jpeg"/>
@@ -470,199 +707,18 @@
       <pubDate>Sun, 25 Oct 2026 08:03:00 +0100</pubDate>
     </item>
     <item>
-      <title>Haditaghi krótko: Okropne sędziowanie, rywal bez klasy</title>
-      <link>https://pogonsportnet.pl/aktualnosci/haditaghi-krotko-okropne-sedziowanie-rywal-bez-klasy/</link>
-      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/d3f6c14e-b817-4305-9889-d8a2ffec5558/dsc9929-jpg.webp" alt="Haditaghi krótko: Okropne sędziowanie, rywal bez klasy" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Spotkanie Pogoni Szczecin z Radomiakiem Radom obfitowało w kontrowersje. Bartosz Frankowski tradycyjnie nie zapanował nad boiskowymi wydarzeniami, a w samej końcówce rywalizacji doszło do awantury, w której ucierpiał Darko Churlinov. Nie trzeba było długo czekać na reakcję Alexa Haditaghiego, który krótko podsumował pracę arbitra i postawę przeciwników Portowców.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Zadyma zaczęła się od nieuznanego gola na 4:4 dla gości. Niedługo potem zasłużoną czerwoną kartkę za kopnięcie rywala Ibrahima Camara. Zawodnikowi Radomiaka nie spieszyło się jednak do szatni: zaczął rozrabiać w okolicach ławki rezerwowych gospodarzy, co zaowocowało przepychanką i ogólnym chaosem. Gdzieś po drodze ucierpiał wspomniany Churlinov, który potem sam ledwie trzymał nerwy na wodzy. Okiełznał go dopiero Tan Kesler, CEO szczecińskiego klubu.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Piłkarz Radomiaka wraca z tunelu i uderza z premedytacją Darko Churlinova, no to już jest recydywa i zapraszam @_Ekstraklasa_ i @pzpn_pl do wlepienia wysokiej kary za to. https://t.co/TYPx4Knbnj&lt;/p&gt;
-&lt;p&gt;— Dawid Zieliński (@DaveZielinskii) &lt;a href="https://x.com/DaveZielinskii/status/2114047926477443153?ref_src=twsrc%5Etfw"&gt;October 24, 2026&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Nie może więc dziwić, że Alex Haditaghi w ostrych słowach skomentował zarówno sędziego Frankowskiego, jak i zachowanie graczy z Radomia.&lt;/p&gt;
-&lt;p&gt;– Świetny wynik. Brzydki mecz. Okropne sędziowanie. I przeciwnik, który wykazał się absolutnym brakiem klasy – ocenił właściciel Portowców w serwisie X.&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/d3f6c14e-b817-4305-9889-d8a2ffec5558/dsc9929-jpg.webp" alt="Haditaghi krótko: Okropne sędziowanie, rywal bez klasy" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Spotkanie Pogoni Szczecin z Radomiakiem Radom obfitowało w kontrowersje. Bartosz Frankowski tradycyjnie nie zapanował nad boiskowymi wydarzeniami, a w samej końcówce rywalizacji doszło do awantury, w której ucierpiał Darko Churlinov. Nie trzeba było długo czekać na reakcję Alexa Haditaghiego, który krótko podsumował pracę arbitra i postawę przeciwników Portowców.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Zadyma zaczęła się od nieuznanego gola na 4:4 dla gości. Niedługo potem zasłużoną czerwoną kartkę za kopnięcie rywala Ibrahima Camara. Zawodnikowi Radomiaka nie spieszyło się jednak do szatni: zaczął rozrabiać w okolicach ławki rezerwowych gospodarzy, co zaowocowało przepychanką i ogólnym chaosem. Gdzieś po drodze ucierpiał wspomniany Churlinov, który potem sam ledwie trzymał nerwy na wodzy. Okiełznał go dopiero Tan Kesler, CEO szczecińskiego klubu.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Piłkarz Radomiaka wraca z tunelu i uderza z premedytacją Darko Churlinova, no to już jest recydywa i zapraszam @_Ekstraklasa_ i @pzpn_pl do wlepienia wysokiej kary za to. https://t.co/TYPx4Knbnj&lt;/p&gt;
-&lt;p&gt;— Dawid Zieliński (@DaveZielinskii) &lt;a href="https://x.com/DaveZielinskii/status/2114047926477443153?ref_src=twsrc%5Etfw"&gt;October 24, 2026&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Nie może więc dziwić, że Alex Haditaghi w ostrych słowach skomentował zarówno sędziego Frankowskiego, jak i zachowanie graczy z Radomia.&lt;/p&gt;
-&lt;p&gt;– Świetny wynik. Brzydki mecz. Okropne sędziowanie. I przeciwnik, który wykazał się absolutnym brakiem klasy – ocenił właściciel Portowców w serwisie X.&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</content:encoded>
-      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/haditaghi-krotko-okropne-sedziowanie-rywal-bez-klasy/</guid>
-      <enclosure url="https://pogonsportnet.pl/storage/d3f6c14e-b817-4305-9889-d8a2ffec5558/dsc9929-jpg.webp" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 25 Oct 2026 06:43:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Gol w osłabieniu nie był przypadkiem - Garcia nie bagatelizuje</title>
-      <link>https://pogonsportnet.pl/aktualnosci/gol-w-oslabieniu-nie-byl-przypadkiem-garcia-nie-bagatelizuje/</link>
-      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/af7adc33-d766-4132-a59e-07378d21d144/080a8674-jpg.webp" alt="Gol w osłabieniu nie był przypadkiem - Garcia nie bagatelizuje" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Óscar García nie zbagatelizował bramki straconej na 4:3. Pogoń straciła ją, grając w dziesiątkę bez środkowego obrońcy, gdy Dimitrios Keramitsis schodził z boiska z pomocą medyczną. Trener nie wie jeszcze, jak poważny jest uraz Benjamina Mendy’ego.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Gdy Keramitsis opuszczał murawę, Pogoń przez chwilę grała w osłabieniu i w 74. minucie straciła gola po strzale Jana Grzesika. Po meczu trener od razu przeanalizował tę sytuację z drużyną.&lt;/p&gt;
-&lt;p&gt;- Rozmawiałem o tym z drużyną zaraz po meczu. Faktu, że graliśmy w dziesiątkę bez środkowego obrońcy i straciliśmy bramkę, nie uważam za przypadek. To młody zawodnik i musimy wyciągać wnioski z tej sytuacji na przyszłość - powiedział García.&lt;/p&gt;
-&lt;p&gt;Zwrócił też uwagę na grę w ostatnich minutach. - Musimy lepiej kontrolować grę, aby nie dopuszczać rywali do tylu rzutów wolnych i stałych fragmentów - dodał.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Badania Mendy’ego w niedzielę&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Benjamin Mendy opuścił boisko w 38. minucie, zastąpił go Lukas Willen. - Na ten moment nie wiemy dokładnie, jak poważny jest to uraz. Liczymy na to, że było to tylko bolesne uderzenie. Jutro przeprowadzimy badania lekarskie i będziemy wiedzieli więcej - powiedział García.&lt;/p&gt;
-&lt;p&gt;Kolejny mecz Pogoń zagra 2 listopada w Częstochowie z Rakowem.&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/af7adc33-d766-4132-a59e-07378d21d144/080a8674-jpg.webp" alt="Gol w osłabieniu nie był przypadkiem - Garcia nie bagatelizuje" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Óscar García nie zbagatelizował bramki straconej na 4:3. Pogoń straciła ją, grając w dziesiątkę bez środkowego obrońcy, gdy Dimitrios Keramitsis schodził z boiska z pomocą medyczną. Trener nie wie jeszcze, jak poważny jest uraz Benjamina Mendy’ego.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Gdy Keramitsis opuszczał murawę, Pogoń przez chwilę grała w osłabieniu i w 74. minucie straciła gola po strzale Jana Grzesika. Po meczu trener od razu przeanalizował tę sytuację z drużyną.&lt;/p&gt;
-&lt;p&gt;- Rozmawiałem o tym z drużyną zaraz po meczu. Faktu, że graliśmy w dziesiątkę bez środkowego obrońcy i straciliśmy bramkę, nie uważam za przypadek. To młody zawodnik i musimy wyciągać wnioski z tej sytuacji na przyszłość - powiedział García.&lt;/p&gt;
-&lt;p&gt;Zwrócił też uwagę na grę w ostatnich minutach. - Musimy lepiej kontrolować grę, aby nie dopuszczać rywali do tylu rzutów wolnych i stałych fragmentów - dodał.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Badania Mendy’ego w niedzielę&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Benjamin Mendy opuścił boisko w 38. minucie, zastąpił go Lukas Willen. - Na ten moment nie wiemy dokładnie, jak poważny jest to uraz. Liczymy na to, że było to tylko bolesne uderzenie. Jutro przeprowadzimy badania lekarskie i będziemy wiedzieli więcej - powiedział García.&lt;/p&gt;
-&lt;p&gt;Kolejny mecz Pogoń zagra 2 listopada w Częstochowie z Rakowem.&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</content:encoded>
-      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/gol-w-oslabieniu-nie-byl-przypadkiem-garcia-nie-bagatelizuje/</guid>
-      <enclosure url="https://pogonsportnet.pl/storage/af7adc33-d766-4132-a59e-07378d21d144/080a8674-jpg.webp" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 25 Oct 2026 06:37:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Dziewięć nowych gier, Kalendarium i nowości dla Patronów. Co nowego na PogonSportNet.pl</title>
-      <link>https://pogonsportnet.pl/aktualnosci/dziewiec-nowych-gier-kalendarium-i-nowosci-dla-patronow-co-nowego-na-pogonsportnetpl/</link>
-      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/1625ba2e-d5f8-4f90-b8f5-c5bb0108ab1a/co-nowego-25-10-news-jpg.webp" alt="Dziewięć nowych gier, Kalendarium i nowości dla Patronów. Co nowego na PogonSportNet.pl" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Codzienne zagadki z historii Pogoni, nowe menu Dodatki, Kalendarium na stronie głównej, obserwowanie teczek i piłkarzy oraz nowy czat Patronów. Zebraliśmy zmiany z ostatnich dni.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Od &lt;a href="https://pogonsportnet.pl/aktualnosci/granatowo-bordowe-linie-nowe-tabele-i-teczki-co-nowego-na-pogonsportnetpl/"&gt;ostatniego podsumowania&lt;/a&gt; przybyło sporo nowości. Najwięcej dzieje się w zakładce Dodatki, gdzie pojawiło się dziewięć nowych gier opartych na historii Pogoni. Do tego Kalendarium na stronie głównej i kilka rzeczy dla Patronów.&lt;/p&gt;
-&lt;h3&gt;Dziewięć nowych gier&lt;/h3&gt;
-&lt;p&gt;Wszystkie gry korzystają z danych &lt;a href="https://kronikapogoni.pl/"&gt;Kroniki Pogoni&lt;/a&gt;, czyli z meczów, goli, debiutów i miejsc urodzenia zawodników od 1958 roku. Kariery klubowe Portowców pobieramy z Wikipedii. Większość gier ma nowy zestaw codziennie o północy, ten sam dla wszystkich, więc można porównywać wyniki ze znajomymi.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Codzienne zagadki&lt;/strong&gt;
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/siatka-portowcow/"&gt;&lt;strong&gt;Siatka Portowców&lt;/strong&gt;&lt;/a&gt; - siatka 3x3, w której każde pole łączy dwa warunki, np. „grał też w Widzewie” i „100+ meczów w Pogoni”. Masz 9 prób, a na koniec widzisz, ilu graczy wybrało tego samego zawodnika,&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/sciezka-kariery/"&gt;&lt;strong&gt;Ścieżka kariery&lt;/strong&gt;&lt;/a&gt; - kluby zawodnika odkrywają się po kolei, a Ty zgadujesz, kto to. Masz 6 prób i podpowiedzi na końcu,&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/mapa-portowcow/"&gt;&lt;strong&gt;Mapa Portowców&lt;/strong&gt;&lt;/a&gt; - zaznaczasz na mapie Polski, gdzie urodził się zawodnik. Im bliżej, tym więcej punktów,&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/zgadnij-wynik/"&gt;&lt;strong&gt;Zgadnij wynik&lt;/strong&gt;&lt;/a&gt; - dziesięć ligowych meczów Pogoni z różnych dekad, w których typujesz wyniki,&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/os-czasu/"&gt;&lt;strong&gt;Oś czasu&lt;/strong&gt;&lt;/a&gt; - układasz debiuty, pierwsze gole i wysokie wyniki w kolejności, w jakiej się wydarzyły,&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/draft-wszech-czasow/"&gt;&lt;strong&gt;Draft wszech czasów&lt;/strong&gt;&lt;/a&gt; - na każdą pozycję w ustawieniu 4-3-3 dostajesz trzech Portowców i wybierasz jednego. Oceny poznasz dopiero po złożeniu jedenastki,&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/wymien-ich/"&gt;&lt;strong&gt;Wymień ich w 60 sekund&lt;/strong&gt;&lt;/a&gt; - w minutę wpisujesz jak najwięcej Portowców pasujących do hasła dnia, np. „obrońcy z lat 90.”.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-&lt;strong&gt;Na serię i co tydzień&lt;/strong&gt;
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/wiecej-czy-mniej/"&gt;&lt;strong&gt;Więcej czy mniej&lt;/strong&gt;&lt;/a&gt; - kto rozegrał więcej meczów albo strzelił więcej goli dla Pogoni? Grasz do pierwszej pomyłki,&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/krzyzowka-tygodnia/"&gt;&lt;strong&gt;Krzyżówka tygodnia&lt;/strong&gt;&lt;/a&gt; - nowa w każdy poniedziałek, z nazwiskami Portowców i hasłami o klubie. Liczy się czas rozwiązania.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Każda gra ma ranking. Żeby Wasz wynik do niego trafił, trzeba być zalogowanym. Bez logowania wszystkie gry działają normalnie, tylko bez rankingu. Wynik możecie udostępnić przyciskiem „Udostępnij”, np. w komentarzach albo w mediach społecznościowych.&lt;/p&gt;
-&lt;h3&gt;Nowe menu Dodatki&lt;/h3&gt;
-&lt;p&gt;Gier zrobiło się na tyle dużo, że przebudowaliśmy rozwijane menu &lt;a href="https://pogonsportnet.pl/dodatki/"&gt;Dodatki&lt;/a&gt;. Zamiast długiej listy i dużych banerów są teraz trzy grupy: codzienne zagadki, wyzwania z rankingami oraz gry online i kreatory. Przy każdej grze jest miniatura i krótki opis, a nowości są oznaczone plakietką „NOWE”.&lt;/p&gt;
-&lt;h3&gt;Kalendarium na stronie głównej&lt;/h3&gt;
-&lt;p&gt;Pod sekcją „Najchętniej komentowane” pojawiło się Kalendarium. Codziennie przypomina urodziny byłych i obecnych piłkarzy Pogoni, rocznice ważnych meczów oraz debiuty i pierwsze gole zasłużonych Portowców. Strzałkami można przejść do innych dni, a pasek z całym tygodniem pokazuje, gdzie czekają wpisy. Korzystamy z kalendarium klubu i z Kroniki Pogoni.&lt;/p&gt;
-&lt;h3&gt;W menu Aktualności widać więcej newsów&lt;/h3&gt;
-&lt;p&gt;W rozwijanym menu Aktualności zmniejszyliśmy listę teczek tematycznych. Na zwolnionym miejscu jest drugi rząd najnowszych tekstów, który odświeża się co kilka minut.&lt;/p&gt;
-&lt;h3&gt;Dla Patronów&lt;/h3&gt;
-&lt;p&gt;
-&lt;strong&gt;Od progu 25 zł:&lt;/strong&gt;
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Obserwowane&lt;/strong&gt; - możecie obserwować wybrane teczki tematyczne i konkretnych piłkarzy. Gdy pojawi się nowy tekst na ten temat, przyjdzie powiadomienie. Przycisk „Obserwuj” jest w teczkach, pod artykułami i przy zawodnikach w kadrze,&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tapety z terminarzem&lt;/strong&gt; Pogoni na każdy miesiąc, w wersji na telefon i na komputer,&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Grafiki z wynikiem&lt;/strong&gt; po każdym meczu ligowym, w formacie posta i relacji,&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kanał RSS&lt;/strong&gt; ze wszystkimi newsami, bez tekstów sponsorowanych i reklamowych, do Waszego czytnika.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Tapety, grafiki, listę obserwowanych i link do kanału RSS znajdziecie w &lt;a href="https://pogonsportnet.pl/panel/#strefa-patrona"&gt;Strefie Patrona&lt;/a&gt; w panelu użytkownika.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Od progu 10 zł: nowy czat Patronów.&lt;/strong&gt; Można odpowiadać na konkretne wiadomości, dodawać reakcje i wrzucać zdjęcia. Jeśli ktoś Was oznaczy albo Wam odpowie, przyjdzie powiadomienie. Przy nickach widać próg wsparcia, a redakcja może przypiąć ważną wiadomość na górze czatu.&lt;/p&gt;
-&lt;p&gt;Wszystkie progi wsparcia są opisane na naszym profilu na &lt;a href="https://patronite.pl/pogonsportnet"&gt;Patronite&lt;/a&gt;. Dziękujemy wszystkim, którzy już nas wspierają - to dzięki Wam możemy rozwijać serwis.&lt;/p&gt;
-&lt;h3&gt;Piszcie, co działa, a co nie&lt;/h3&gt;
-&lt;p&gt;Jeśli coś nie działa albo macie pomysł na kolejną grę lub funkcję, napiszcie w komentarzu pod tym tekstem albo w rozmowie &lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-hydepark/"&gt;Hydepark&lt;/a&gt;. Część zmian z ostatnich tygodni wyszła właśnie od Was.&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/1625ba2e-d5f8-4f90-b8f5-c5bb0108ab1a/co-nowego-25-10-news-jpg.webp" alt="Dziewięć nowych gier, Kalendarium i nowości dla Patronów. Co nowego na PogonSportNet.pl" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Codzienne zagadki z historii Pogoni, nowe menu Dodatki, Kalendarium na stronie głównej, obserwowanie teczek i piłkarzy oraz nowy czat Patronów. Zebraliśmy zmiany z ostatnich dni.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;Od &lt;a href="https://pogonsportnet.pl/aktualnosci/granatowo-bordowe-linie-nowe-tabele-i-teczki-co-nowego-na-pogonsportnetpl/"&gt;ostatniego podsumowania&lt;/a&gt; przybyło sporo nowości. Najwięcej dzieje się w zakładce Dodatki, gdzie pojawiło się dziewięć nowych gier opartych na historii Pogoni. Do tego Kalendarium na stronie głównej i kilka rzeczy dla Patronów.&lt;/p&gt;
-&lt;h3&gt;Dziewięć nowych gier&lt;/h3&gt;
-&lt;p&gt;Wszystkie gry korzystają z danych &lt;a href="https://kronikapogoni.pl/"&gt;Kroniki Pogoni&lt;/a&gt;, czyli z meczów, goli, debiutów i miejsc urodzenia zawodników od 1958 roku. Kariery klubowe Portowców pobieramy z Wikipedii. Większość gier ma nowy zestaw codziennie o północy, ten sam dla wszystkich, więc można porównywać wyniki ze znajomymi.&lt;/p&gt;
-&lt;p&gt;
-&lt;strong&gt;Codzienne zagadki&lt;/strong&gt;
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/siatka-portowcow/"&gt;&lt;strong&gt;Siatka Portowców&lt;/strong&gt;&lt;/a&gt; - siatka 3x3, w której każde pole łączy dwa warunki, np. „grał też w Widzewie” i „100+ meczów w Pogoni”. Masz 9 prób, a na koniec widzisz, ilu graczy wybrało tego samego zawodnika,&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/sciezka-kariery/"&gt;&lt;strong&gt;Ścieżka kariery&lt;/strong&gt;&lt;/a&gt; - kluby zawodnika odkrywają się po kolei, a Ty zgadujesz, kto to. Masz 6 prób i podpowiedzi na końcu,&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/mapa-portowcow/"&gt;&lt;strong&gt;Mapa Portowców&lt;/strong&gt;&lt;/a&gt; - zaznaczasz na mapie Polski, gdzie urodził się zawodnik. Im bliżej, tym więcej punktów,&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/zgadnij-wynik/"&gt;&lt;strong&gt;Zgadnij wynik&lt;/strong&gt;&lt;/a&gt; - dziesięć ligowych meczów Pogoni z różnych dekad, w których typujesz wyniki,&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/os-czasu/"&gt;&lt;strong&gt;Oś czasu&lt;/strong&gt;&lt;/a&gt; - układasz debiuty, pierwsze gole i wysokie wyniki w kolejności, w jakiej się wydarzyły,&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/draft-wszech-czasow/"&gt;&lt;strong&gt;Draft wszech czasów&lt;/strong&gt;&lt;/a&gt; - na każdą pozycję w ustawieniu 4-3-3 dostajesz trzech Portowców i wybierasz jednego. Oceny poznasz dopiero po złożeniu jedenastki,&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/wymien-ich/"&gt;&lt;strong&gt;Wymień ich w 60 sekund&lt;/strong&gt;&lt;/a&gt; - w minutę wpisujesz jak najwięcej Portowców pasujących do hasła dnia, np. „obrońcy z lat 90.”.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-&lt;strong&gt;Na serię i co tydzień&lt;/strong&gt;
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/wiecej-czy-mniej/"&gt;&lt;strong&gt;Więcej czy mniej&lt;/strong&gt;&lt;/a&gt; - kto rozegrał więcej meczów albo strzelił więcej goli dla Pogoni? Grasz do pierwszej pomyłki,&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://pogonsportnet.pl/krzyzowka-tygodnia/"&gt;&lt;strong&gt;Krzyżówka tygodnia&lt;/strong&gt;&lt;/a&gt; - nowa w każdy poniedziałek, z nazwiskami Portowców i hasłami o klubie. Liczy się czas rozwiązania.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Każda gra ma ranking. Żeby Wasz wynik do niego trafił, trzeba być zalogowanym. Bez logowania wszystkie gry działają normalnie, tylko bez rankingu. Wynik możecie udostępnić przyciskiem „Udostępnij”, np. w komentarzach albo w mediach społecznościowych.&lt;/p&gt;
-&lt;h3&gt;Nowe menu Dodatki&lt;/h3&gt;
-&lt;p&gt;Gier zrobiło się na tyle dużo, że przebudowaliśmy rozwijane menu &lt;a href="https://pogonsportnet.pl/dodatki/"&gt;Dodatki&lt;/a&gt;. Zamiast długiej listy i dużych banerów są teraz trzy grupy: codzienne zagadki, wyzwania z rankingami oraz gry online i kreatory. Przy każdej grze jest miniatura i krótki opis, a nowości są oznaczone plakietką „NOWE”.&lt;/p&gt;
-&lt;h3&gt;Kalendarium na stronie głównej&lt;/h3&gt;
-&lt;p&gt;Pod sekcją „Najchętniej komentowane” pojawiło się Kalendarium. Codziennie przypomina urodziny byłych i obecnych piłkarzy Pogoni, rocznice ważnych meczów oraz debiuty i pierwsze gole zasłużonych Portowców. Strzałkami można przejść do innych dni, a pasek z całym tygodniem pokazuje, gdzie czekają wpisy. Korzystamy z kalendarium klubu i z Kroniki Pogoni.&lt;/p&gt;
-&lt;h3&gt;W menu Aktualności widać więcej newsów&lt;/h3&gt;
-&lt;p&gt;W rozwijanym menu Aktualności zmniejszyliśmy listę teczek tematycznych. Na zwolnionym miejscu jest drugi rząd najnowszych tekstów, który odświeża się co kilka minut.&lt;/p&gt;
-&lt;h3&gt;Dla Patronów&lt;/h3&gt;
-&lt;p&gt;
-&lt;strong&gt;Od progu 25 zł:&lt;/strong&gt;
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Obserwowane&lt;/strong&gt; - możecie obserwować wybrane teczki tematyczne i konkretnych piłkarzy. Gdy pojawi się nowy tekst na ten temat, przyjdzie powiadomienie. Przycisk „Obserwuj” jest w teczkach, pod artykułami i przy zawodnikach w kadrze,&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tapety z terminarzem&lt;/strong&gt; Pogoni na każdy miesiąc, w wersji na telefon i na komputer,&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Grafiki z wynikiem&lt;/strong&gt; po każdym meczu ligowym, w formacie posta i relacji,&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kanał RSS&lt;/strong&gt; ze wszystkimi newsami, bez tekstów sponsorowanych i reklamowych, do Waszego czytnika.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Tapety, grafiki, listę obserwowanych i link do kanału RSS znajdziecie w &lt;a href="https://pogonsportnet.pl/panel/#strefa-patrona"&gt;Strefie Patrona&lt;/a&gt; w panelu użytkownika.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Od progu 10 zł: nowy czat Patronów.&lt;/strong&gt; Można odpowiadać na konkretne wiadomości, dodawać reakcje i wrzucać zdjęcia. Jeśli ktoś Was oznaczy albo Wam odpowie, przyjdzie powiadomienie. Przy nickach widać próg wsparcia, a redakcja może przypiąć ważną wiadomość na górze czatu.&lt;/p&gt;
-&lt;p&gt;Wszystkie progi wsparcia są opisane na naszym profilu na &lt;a href="https://patronite.pl/pogonsportnet"&gt;Patronite&lt;/a&gt;. Dziękujemy wszystkim, którzy już nas wspierają - to dzięki Wam możemy rozwijać serwis.&lt;/p&gt;
-&lt;h3&gt;Piszcie, co działa, a co nie&lt;/h3&gt;
-&lt;p&gt;Jeśli coś nie działa albo macie pomysł na kolejną grę lub funkcję, napiszcie w komentarzu pod tym tekstem albo w rozmowie &lt;a href="https://pogonsportnet.pl/aktualnosci/rozmowy-hydepark/"&gt;Hydepark&lt;/a&gt;. Część zmian z ostatnich tygodni wyszła właśnie od Was.&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</content:encoded>
-      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/dziewiec-nowych-gier-kalendarium-i-nowosci-dla-patronow-co-nowego-na-pogonsportnetpl/</guid>
-      <enclosure url="https://pogonsportnet.pl/storage/1625ba2e-d5f8-4f90-b8f5-c5bb0108ab1a/co-nowego-25-10-news-jpg.webp" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 25 Oct 2026 06:33:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Aktualności</title>
       <link>https://pogonsportnet.pl/aktualnosci/2/</link>
       <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Garcia o spięciu Camary z Churlinovem: Pierwszy błąd zrobił rywal&lt;/h3&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Po meczu z Radomiakiem najwięcej mówiło się o incydencie z końcówki spotkania z udziałem Ibrahimy Camary i Darko Churlinova. Óscar García przyznał, że nie widział dokładnie, co się wydarzyło, ale jego zdaniem winny jest zawodnik rywali.&lt;/p&gt;
+&lt;h3&gt;Haditaghi krótko: Okropne sędziowanie, rywal bez klasy&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Spotkanie Pogoni Szczecin z Radomiakiem Radom obfitowało w kontrowersje. Bartosz Frankowski tradycyjnie nie zapanował nad boiskowymi wydarzeniami, a w samej końcówce rywalizacji doszło do awantury, w której ucierpiał Darko Churlinov. Nie trzeba było długo czekać na reakcję Alexa Haditaghiego, który krótko podsumował pracę arbitra i postawę przeciwników Portowców.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
       <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;Garcia o spięciu Camary z Churlinovem: Pierwszy błąd zrobił rywal&lt;/h3&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Po meczu z Radomiakiem najwięcej mówiło się o incydencie z końcówki spotkania z udziałem Ibrahimy Camary i Darko Churlinova. Óscar García przyznał, że nie widział dokładnie, co się wydarzyło, ale jego zdaniem winny jest zawodnik rywali.&lt;/p&gt;
+&lt;h3&gt;Haditaghi krótko: Okropne sędziowanie, rywal bez klasy&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Spotkanie Pogoni Szczecin z Radomiakiem Radom obfitowało w kontrowersje. Bartosz Frankowski tradycyjnie nie zapanował nad boiskowymi wydarzeniami, a w samej końcówce rywalizacji doszło do awantury, w której ucierpiał Darko Churlinov. Nie trzeba było długo czekać na reakcję Alexa Haditaghiego, który krótko podsumował pracę arbitra i postawę przeciwników Portowców.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/2/</guid>
@@ -672,111 +728,37 @@
       <title>Aktualności</title>
       <link>https://pogonsportnet.pl/aktualnosci/3/</link>
       <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;&lt;div class="text-inner"&gt;
-&lt;h3&gt;Granatowo-Bordowe Linie, nowe tabele i teczki. Co nowego na PogonSportNet.pl&lt;/h3&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W dziale Dodatki pojawiła się druga gra, w którą zagracie online z innymi kibicami - Granatowo-Bordowe Linie. Odświeżyliśmy też tabele i terminarze wszystkich trzech rozgrywek, a archiwum newsów dostało teczki tematyczne. Pomysł na nie podsunął jeden z czytelników.
-
-Granatowo-Bordowe Linie - piłkarzyki na kartce w nowym wydaniu
-
-Kto na lekcjach grał w piłkarzyki na kartce w kratkę, ten zna zasady. Gra jest dostępna pod adresem pogonsportnet.pl/granatowo-bordowe-linie, a także z kafelka w menu Dodatki.
-
-Piłka startuje na środku boiska 10 na 12 kratek. W swoim ruchu przesuwacie ją o jedną kratkę - w pionie, poziomie albo po skosie - a za piłką zostaje linia w Waszym kolorze. Nie można iść wzdłuż linii boiska ani po odcinku, który już jest narysowany. Jeśli piłka zatrzyma się na punkcie, przez który przechodzi już linia, albo na brzegu boiska, następuje odbicie i gracie dalej. Wygrywa ten, kto wbije piłkę do bramki rywala. Gol samobójczy oznacza porażkę, podobnie jak zablokowanie się bez żadnego dozwolonego ruchu.
-
-Do wyboru są dwa tryby:
-
-Online - przycisk “Szukaj rywala” łączy z kibicem, który akurat czeka na mecz. Każdy ma 3 minuty na wszystkie swoje ruchy. “Wyślij link koledze” tworzy zaproszenie na mecz z 1, 3 lub 5 minutami na gracza. Kolega wchodzi w link albo wpisuje 4-znakowy kod.
-Trening z komputerem - trzy poziomy trudności: łatwy, średni i trudny. Przed partią wybieracie, kto zaczyna.
-
-Mecz online liczy nasz serwer, więc ruchy i czas są takie same u obu graczy. Jeśli ktoś straci połączenie, gra czeka na niego 30 sekund, a potem przyznaje walkower. Po końcowym gwizdku można od razu zagrać rewanż. Gra działa na komputerach i telefonach, także w trybie pełnoekranowym. Na komputerze można grać myszką albo klawiszami numerycznymi.
-
-Tabele i terminarze w nowej odsłonie
-
-Nowy wygląd dostały tabele i terminarze Ekstraklasy, IV ligi i Ekstraligi kobiet. Dane, jak dotąd, aktualizują się automatycznie.
-
-W tabelach wiersz Pogoni jest wyróżniony, a obok herbów doszły kolumny z bilansem bramek i formą z ostatnich meczów. W Ekstraklasie kolorami zaznaczyliśmy miejsca premiowane grą w europejskich pucharach i strefę spadkową.
-
-W terminarzach (Ekstraklasa, IV liga, Ekstraliga kobiet) od razu widać bieżącą kolejkę. Mecze są pogrupowane według dni - jeśli dwa spotkania są w piątek, a cztery w sobotę, każdy dzień ma swój nagłówek. Między kolejkami przełączacie się jednym kliknięciem, a przycisk “Tylko mecze Pogoni” pokazuje cały terminarz naszej drużyny.
-
-Teczki - archiwum według tematów
-
-Na stronie Aktualności pojawił się filtr, a w menu Aktualności nowa kolumna “Teczki”. Teczka zbiera newsy o jednej sprawie. Na start jest ich jedenaście:
-
-Właściciel i finanse
-Zarząd i organizacja
-Sponsorzy i partnerzy
-Spory i roszczenia
-Stadion i infrastruktura
-Akademia i rezerwy
-Transfery i kadra
-Trener i sztab
-Pogoń kobiet
-Kibice i bilety
-Podsumowania i analizy
-
-Teksty trafiają do teczek same, na podstawie tytułu i leadu - bez ręcznego oznaczania. Nowy news pojawia się w swojej teczce kilkanaście minut po publikacji. Do teczek nie trafiają artykuły sponsorowane ani teksty bukmacherskie.
-
-W archiwum można też szukać po słowie, wybrać rodzaj materiału (wywiady, analizy i podsumowania, publicystyka) albo rok. Przełącznik “Tylko ważne” zostawia najchętniej czytane teksty z danej teczki i roku oraz najpopularniejsze wywiady. W artykule pod datą widać, do której teczki należy tekst, a pod treścią ramkę “Z teczki” z czterema powiązanymi newsami. Wszystkie teczki znajdziecie w jednym miejscu.
-
-Automat czasem się pomyli. Jeśli zauważycie tekst w niewłaściwej teczce, dajcie znać w komentarzu - poprawimy reguły.
-
-Czekamy na Wasze uwagi
-
-Poprzednie zmiany opisaliśmy w tekście Portowe Główki i kolejne poprawki. Wszystkie gry znajdziecie w zakładce Dodatki. Jeśli coś nie działa albo wygląda nie tak, napiszcie w komentarzu pod tym tekstem.&lt;/p&gt;
-&lt;/div&gt;
+&lt;body&gt;
+&lt;h3&gt;Zobacz skrót meczu Pogoń Szczecin - Radomiak Radom [WIDEO]&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Szalony mecz z Radomiakiem Radom już za nami. Poniżej możecie nadrobić skrót spotkania.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Mamy dla Was pierwszą fotorelację z meczu z Radomiakiem. Klasycznie to zdjęcia poświęcone trybunom. Znajdziecie się na nich?&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Piłkarze Pogoni Szczecin za sobą mają już sobotni mecz z Radomiakiem Radom. Na jakie noty Waszym zdaniem zapracowali podopieczni Oscara Garcii?&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin wygrała w domowym sobotnim spotkaniu 12. kolejki PKO Bank Polski Ekstraklasy z Radomiakiem Radom. Dla "Portowców" bramki zdobyli Dimítris Keramítsis, Alessandro Riccio i wprowadzony z ławki Kamil Grosicki. Gole dla gości strzelili Roberto Alves z rzutu karnego, Chrístos Dónis i Jan Grzesik. Tym samym gospodarze notują serię dziesięciu ligowych meczów bez porażki.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Już dziś o godzinie 17:30 piłkarze Pogoni Szczecin walczyć będą o punkty z Radomiakiem Radom na własnym obiekcie. My przeprowadzimy z tego meczu dla Was transmisję audio z komentarzem Radka Sikory, i tradycyjną pisaną, ale w naszym nowym panelu do relacji LIVE. Zapraszamy do spędzenia tego dnia z nami!&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;212 392 złote przekazały Pogoń Szczecin i stacja Canal+ na wsparcie Roberta Dymkowskiego po meczu z Udinese Calcio. Taki wynik był możliwy przede wszystkim dzięki ogromnemu zaangażowaniu klubu, za które chcemy szczególnie podziękować.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Już dziś piłkarze Pogoni Szczecin zagrają na własnym stadionie z Radomiakiem Radom. Jak zwykle przed meczem Łukasz Bożykowski przygotował dla Was garść ciekawostek o seriach zawodników przed tym meczem.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń ma 21 punktów i nie przegrała od dziewięciu ligowych meczów, ale Óscar García wciąż widzi rzeczy do poprawy. Trener podkreśla, że kluczem do utrzymania formy jest ciągły rozwój.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Óscar García nie zdradził, czy w sobotę wystawi ten sam skład co w dwóch poprzednich meczach. Podkreślił, że zmiany w jego drużynie wynikają z taktyki, a nie z różnic w poziomie zawodników.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Reprezentacja Polski kobiet do lat 17 wygrała z Portoryko 6:2 w ostatnim meczu fazy grupowej mistrzostw świata w Maroku. Wynik otworzyła w 3. minucie Maja Leśkiewicz z Pogoni Szczecin. W kadrze Pauliny Kawalec są trzy zawodniczki Pogoni.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę (24 października, godz. 17:30) Pogoń Szczecin podejmie Radomiaka Radom w 12. kolejce PKO BP Ekstraklasy. Portowcy nie przegrali od dziewięciu ligowych meczów i wygrali cztery ostatnie. Rywal jest w głębokim kryzysie, ale z Radomiakiem Pogoń nie wygrała od ponad dwóch i pół roku.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Óscar García uważa, że Maciej Wojciechowski i Ława mają umiejętności, by w przyszłości grać za granicą. Trener Pogoni wskazał jednocześnie, że rozwojowi młodych piłkarzy nie pomaga poziom ligi, w której gra drugi zespół.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
       <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;&lt;div class="text-inner"&gt;
-&lt;h3&gt;Granatowo-Bordowe Linie, nowe tabele i teczki. Co nowego na PogonSportNet.pl&lt;/h3&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W dziale Dodatki pojawiła się druga gra, w którą zagracie online z innymi kibicami - Granatowo-Bordowe Linie. Odświeżyliśmy też tabele i terminarze wszystkich trzech rozgrywek, a archiwum newsów dostało teczki tematyczne. Pomysł na nie podsunął jeden z czytelników.
-
-Granatowo-Bordowe Linie - piłkarzyki na kartce w nowym wydaniu
-
-Kto na lekcjach grał w piłkarzyki na kartce w kratkę, ten zna zasady. Gra jest dostępna pod adresem pogonsportnet.pl/granatowo-bordowe-linie, a także z kafelka w menu Dodatki.
-
-Piłka startuje na środku boiska 10 na 12 kratek. W swoim ruchu przesuwacie ją o jedną kratkę - w pionie, poziomie albo po skosie - a za piłką zostaje linia w Waszym kolorze. Nie można iść wzdłuż linii boiska ani po odcinku, który już jest narysowany. Jeśli piłka zatrzyma się na punkcie, przez który przechodzi już linia, albo na brzegu boiska, następuje odbicie i gracie dalej. Wygrywa ten, kto wbije piłkę do bramki rywala. Gol samobójczy oznacza porażkę, podobnie jak zablokowanie się bez żadnego dozwolonego ruchu.
-
-Do wyboru są dwa tryby:
-
-Online - przycisk “Szukaj rywala” łączy z kibicem, który akurat czeka na mecz. Każdy ma 3 minuty na wszystkie swoje ruchy. “Wyślij link koledze” tworzy zaproszenie na mecz z 1, 3 lub 5 minutami na gracza. Kolega wchodzi w link albo wpisuje 4-znakowy kod.
-Trening z komputerem - trzy poziomy trudności: łatwy, średni i trudny. Przed partią wybieracie, kto zaczyna.
-
-Mecz online liczy nasz serwer, więc ruchy i czas są takie same u obu graczy. Jeśli ktoś straci połączenie, gra czeka na niego 30 sekund, a potem przyznaje walkower. Po końcowym gwizdku można od razu zagrać rewanż. Gra działa na komputerach i telefonach, także w trybie pełnoekranowym. Na komputerze można grać myszką albo klawiszami numerycznymi.
-
-Tabele i terminarze w nowej odsłonie
-
-Nowy wygląd dostały tabele i terminarze Ekstraklasy, IV ligi i Ekstraligi kobiet. Dane, jak dotąd, aktualizują się automatycznie.
-
-W tabelach wiersz Pogoni jest wyróżniony, a obok herbów doszły kolumny z bilansem bramek i formą z ostatnich meczów. W Ekstraklasie kolorami zaznaczyliśmy miejsca premiowane grą w europejskich pucharach i strefę spadkową.
-
-W terminarzach (Ekstraklasa, IV liga, Ekstraliga kobiet) od razu widać bieżącą kolejkę. Mecze są pogrupowane według dni - jeśli dwa spotkania są w piątek, a cztery w sobotę, każdy dzień ma swój nagłówek. Między kolejkami przełączacie się jednym kliknięciem, a przycisk “Tylko mecze Pogoni” pokazuje cały terminarz naszej drużyny.
-
-Teczki - archiwum według tematów
-
-Na stronie Aktualności pojawił się filtr, a w menu Aktualności nowa kolumna “Teczki”. Teczka zbiera newsy o jednej sprawie. Na start jest ich jedenaście:
-
-Właściciel i finanse
-Zarząd i organizacja
-Sponsorzy i partnerzy
-Spory i roszczenia
-Stadion i infrastruktura
-Akademia i rezerwy
-Transfery i kadra
-Trener i sztab
-Pogoń kobiet
-Kibice i bilety
-Podsumowania i analizy
-
-Teksty trafiają do teczek same, na podstawie tytułu i leadu - bez ręcznego oznaczania. Nowy news pojawia się w swojej teczce kilkanaście minut po publikacji. Do teczek nie trafiają artykuły sponsorowane ani teksty bukmacherskie.
-
-W archiwum można też szukać po słowie, wybrać rodzaj materiału (wywiady, analizy i podsumowania, publicystyka) albo rok. Przełącznik “Tylko ważne” zostawia najchętniej czytane teksty z danej teczki i roku oraz najpopularniejsze wywiady. W artykule pod datą widać, do której teczki należy tekst, a pod treścią ramkę “Z teczki” z czterema powiązanymi newsami. Wszystkie teczki znajdziecie w jednym miejscu.
-
-Automat czasem się pomyli. Jeśli zauważycie tekst w niewłaściwej teczce, dajcie znać w komentarzu - poprawimy reguły.
-
-Czekamy na Wasze uwagi
-
-Poprzednie zmiany opisaliśmy w tekście Portowe Główki i kolejne poprawki. Wszystkie gry znajdziecie w zakładce Dodatki. Jeśli coś nie działa albo wygląda nie tak, napiszcie w komentarzu pod tym tekstem.&lt;/p&gt;
-&lt;/div&gt;
+&lt;body&gt;
+&lt;h3&gt;Zobacz skrót meczu Pogoń Szczecin - Radomiak Radom [WIDEO]&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Szalony mecz z Radomiakiem Radom już za nami. Poniżej możecie nadrobić skrót spotkania.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Mamy dla Was pierwszą fotorelację z meczu z Radomiakiem. Klasycznie to zdjęcia poświęcone trybunom. Znajdziecie się na nich?&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Piłkarze Pogoni Szczecin za sobą mają już sobotni mecz z Radomiakiem Radom. Na jakie noty Waszym zdaniem zapracowali podopieczni Oscara Garcii?&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń Szczecin wygrała w domowym sobotnim spotkaniu 12. kolejki PKO Bank Polski Ekstraklasy z Radomiakiem Radom. Dla "Portowców" bramki zdobyli Dimítris Keramítsis, Alessandro Riccio i wprowadzony z ławki Kamil Grosicki. Gole dla gości strzelili Roberto Alves z rzutu karnego, Chrístos Dónis i Jan Grzesik. Tym samym gospodarze notują serię dziesięciu ligowych meczów bez porażki.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Już dziś o godzinie 17:30 piłkarze Pogoni Szczecin walczyć będą o punkty z Radomiakiem Radom na własnym obiekcie. My przeprowadzimy z tego meczu dla Was transmisję audio z komentarzem Radka Sikory, i tradycyjną pisaną, ale w naszym nowym panelu do relacji LIVE. Zapraszamy do spędzenia tego dnia z nami!&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;212 392 złote przekazały Pogoń Szczecin i stacja Canal+ na wsparcie Roberta Dymkowskiego po meczu z Udinese Calcio. Taki wynik był możliwy przede wszystkim dzięki ogromnemu zaangażowaniu klubu, za które chcemy szczególnie podziękować.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Już dziś piłkarze Pogoni Szczecin zagrają na własnym stadionie z Radomiakiem Radom. Jak zwykle przed meczem Łukasz Bożykowski przygotował dla Was garść ciekawostek o seriach zawodników przed tym meczem.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Pogoń ma 21 punktów i nie przegrała od dziewięciu ligowych meczów, ale Óscar García wciąż widzi rzeczy do poprawy. Trener podkreśla, że kluczem do utrzymania formy jest ciągły rozwój.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Óscar García nie zdradził, czy w sobotę wystawi ten sam skład co w dwóch poprzednich meczach. Podkreślił, że zmiany w jego drużynie wynikają z taktyki, a nie z różnic w poziomie zawodników.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Reprezentacja Polski kobiet do lat 17 wygrała z Portoryko 6:2 w ostatnim meczu fazy grupowej mistrzostw świata w Maroku. Wynik otworzyła w 3. minucie Maja Leśkiewicz z Pogoni Szczecin. W kadrze Pauliny Kawalec są trzy zawodniczki Pogoni.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę (24 października, godz. 17:30) Pogoń Szczecin podejmie Radomiaka Radom w 12. kolejce PKO BP Ekstraklasy. Portowcy nie przegrali od dziewięciu ligowych meczów i wygrali cztery ostatnie. Rywal jest w głębokim kryzysie, ale z Radomiakiem Pogoń nie wygrała od ponad dwóch i pół roku.&lt;/p&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Óscar García uważa, że Maciej Wojciechowski i Ława mają umiejętności, by w przyszłości grać za granicą. Trener Pogoni wskazał jednocześnie, że rozwojowi młodych piłkarzy nie pomaga poziom ligi, w której gra drugi zespół.&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/3/</guid>
@@ -786,37 +768,111 @@ Poprzednie zmiany opisaliśmy w tekście Portowe Główki i kolejne poprawki. Ws
       <title>Aktualności</title>
       <link>https://pogonsportnet.pl/aktualnosci/4/</link>
       <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;h3&gt;Oscar Garcia przed meczem z Radomiakiem&lt;/h3&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Za nami konferencja prasowa przed meczem 12. kolejki PKO BP Ekstraklasy z Radomiakiem Radom. Sprawdź, co miał do powiedzenia mediom trener Oscar Garcia.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę o g. 17:30 w ramach 12. kolejki PKO BP Ekstraklasy nasza drużyna zmierzy się na Stadionie im. Floriana Krygiera z Radomiakiem Radom. Dla kibiców, którzy wybierają się na mecz, klub przygotował garść informacji organizacyjnych.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Nagranie z szatni Pogoni Szczecin po wygranej w Katowicach zrobiło karierę na Bałkanach. Serbski portal Sportal.rs opisał, jak piłkarze świętowali zwycięstwo przy serbskim przeboju “Koktel ljubavi” Nedeljka Bajicia Baji. Za muzykę w szatni ma według portalu odpowiada Filip Čuić.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W związku z odbywającym się 24 października 2026 roku o g. 17.30 meczem Ekstraklasy Pogoń Szczecin – Radomiak Radom, tego dnia uruchomiona zostanie dodatkowa komunikacja autobusowa i tramwajowa.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Dobre wyniki w ostatnich tygodniach spowodowały, że sporo jest o Pogoni w mediach. Trener Pogoni Szczecin Óscar García był gościem programu “Football Office” w Canal+ Sport. Mówił o rozwoju drużyny, ekstraklasie, dalekich podróżach na mecze wyjazdowe i o tym, jak spędza czas w Szczecinie.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Alex Haditaghi ogłosił decyzje po dyskusji z kibicami o nowych tradycjach w Pogoni Szczecin. Od 1 stycznia 2027 roku zastrzeżone numery koszulek wrócą do użytku. Klub przygotuje plan upamiętnienia legend. Hymn Polski nie będzie odtwarzany przed każdym meczem domowym.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Przed nami kolejny weekend pełen piłkarskich emocji z udziałem młodzieżowych zespołów Pogoni Szczecin. W sobotę na boiskach rywali zagrają Pogoń II Szczecin oraz juniorzy młodsi. Niedziela upłynie natomiast pod znakiem domowych spotkań zespołów U19 i U15.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Paweł Stolarski wrócił do czasów gry w Pogoni Szczecin. W rozmowie z Tomaszem Ćwiąkałą były obrońca Portowców przyznał, że nie rozumie, dlaczego klub, który tak bardzo zabiegał o jego transfer, dawał mu potem tak mało szans. Mówił też o rywalizacji z Jakubem Bartkowskim i Linusem Wahlqvistem oraz o braku szczerej rozmowy przed odejściem.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę (24 października, godz. 12:00) rezerwy Pogoni Szczecin zagrają na wyjeździe z Chemikiem Police w 11. kolejce IV ligi. Lider tabeli zmierzy się z drużyną z dolnej części stawki.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Maciej Wojciechowski w rozmowie z “Przeglądem Sportowym Onet” opowiedział o drodze do podstawowego składu Pogoni Szczecin. 19-letni pomocnik mówił o przełomie po pierwszej kolejce, odrzuceniu w akademii Lecha Poznań i o tym, co w drużynie zmienił Óscar García.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Trener Radomiaka Radom John Carver zapowiada, że jego zespół przyjedzie w sobotę do Szczecina, żeby grać swoją piłkę. Na konferencji prasowej przed meczem 12. kolejki ekstraklasy Anglik mówił o atmosferze po czterech porażkach z rzędu, rozstaniu z dwoma asystentami i celach do końca rundy.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Przy okazji meczu z Radomiakiem Radom na Twardowskiego będzie tradycyjnie czekało na Was kilka dodatkowych atrakcji. W "Rodzinnym Porcie Kibica" będziecie mogli się bawić już od g. 15:00!&lt;/p&gt;
+&lt;body&gt;&lt;div class="text-inner"&gt;
+&lt;h3&gt;Granatowo-Bordowe Linie, nowe tabele i teczki. Co nowego na PogonSportNet.pl&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W dziale Dodatki pojawiła się druga gra, w którą zagracie online z innymi kibicami - Granatowo-Bordowe Linie. Odświeżyliśmy też tabele i terminarze wszystkich trzech rozgrywek, a archiwum newsów dostało teczki tematyczne. Pomysł na nie podsunął jeden z czytelników.
+
+Granatowo-Bordowe Linie - piłkarzyki na kartce w nowym wydaniu
+
+Kto na lekcjach grał w piłkarzyki na kartce w kratkę, ten zna zasady. Gra jest dostępna pod adresem pogonsportnet.pl/granatowo-bordowe-linie, a także z kafelka w menu Dodatki.
+
+Piłka startuje na środku boiska 10 na 12 kratek. W swoim ruchu przesuwacie ją o jedną kratkę - w pionie, poziomie albo po skosie - a za piłką zostaje linia w Waszym kolorze. Nie można iść wzdłuż linii boiska ani po odcinku, który już jest narysowany. Jeśli piłka zatrzyma się na punkcie, przez który przechodzi już linia, albo na brzegu boiska, następuje odbicie i gracie dalej. Wygrywa ten, kto wbije piłkę do bramki rywala. Gol samobójczy oznacza porażkę, podobnie jak zablokowanie się bez żadnego dozwolonego ruchu.
+
+Do wyboru są dwa tryby:
+
+Online - przycisk “Szukaj rywala” łączy z kibicem, który akurat czeka na mecz. Każdy ma 3 minuty na wszystkie swoje ruchy. “Wyślij link koledze” tworzy zaproszenie na mecz z 1, 3 lub 5 minutami na gracza. Kolega wchodzi w link albo wpisuje 4-znakowy kod.
+Trening z komputerem - trzy poziomy trudności: łatwy, średni i trudny. Przed partią wybieracie, kto zaczyna.
+
+Mecz online liczy nasz serwer, więc ruchy i czas są takie same u obu graczy. Jeśli ktoś straci połączenie, gra czeka na niego 30 sekund, a potem przyznaje walkower. Po końcowym gwizdku można od razu zagrać rewanż. Gra działa na komputerach i telefonach, także w trybie pełnoekranowym. Na komputerze można grać myszką albo klawiszami numerycznymi.
+
+Tabele i terminarze w nowej odsłonie
+
+Nowy wygląd dostały tabele i terminarze Ekstraklasy, IV ligi i Ekstraligi kobiet. Dane, jak dotąd, aktualizują się automatycznie.
+
+W tabelach wiersz Pogoni jest wyróżniony, a obok herbów doszły kolumny z bilansem bramek i formą z ostatnich meczów. W Ekstraklasie kolorami zaznaczyliśmy miejsca premiowane grą w europejskich pucharach i strefę spadkową.
+
+W terminarzach (Ekstraklasa, IV liga, Ekstraliga kobiet) od razu widać bieżącą kolejkę. Mecze są pogrupowane według dni - jeśli dwa spotkania są w piątek, a cztery w sobotę, każdy dzień ma swój nagłówek. Między kolejkami przełączacie się jednym kliknięciem, a przycisk “Tylko mecze Pogoni” pokazuje cały terminarz naszej drużyny.
+
+Teczki - archiwum według tematów
+
+Na stronie Aktualności pojawił się filtr, a w menu Aktualności nowa kolumna “Teczki”. Teczka zbiera newsy o jednej sprawie. Na start jest ich jedenaście:
+
+Właściciel i finanse
+Zarząd i organizacja
+Sponsorzy i partnerzy
+Spory i roszczenia
+Stadion i infrastruktura
+Akademia i rezerwy
+Transfery i kadra
+Trener i sztab
+Pogoń kobiet
+Kibice i bilety
+Podsumowania i analizy
+
+Teksty trafiają do teczek same, na podstawie tytułu i leadu - bez ręcznego oznaczania. Nowy news pojawia się w swojej teczce kilkanaście minut po publikacji. Do teczek nie trafiają artykuły sponsorowane ani teksty bukmacherskie.
+
+W archiwum można też szukać po słowie, wybrać rodzaj materiału (wywiady, analizy i podsumowania, publicystyka) albo rok. Przełącznik “Tylko ważne” zostawia najchętniej czytane teksty z danej teczki i roku oraz najpopularniejsze wywiady. W artykule pod datą widać, do której teczki należy tekst, a pod treścią ramkę “Z teczki” z czterema powiązanymi newsami. Wszystkie teczki znajdziecie w jednym miejscu.
+
+Automat czasem się pomyli. Jeśli zauważycie tekst w niewłaściwej teczce, dajcie znać w komentarzu - poprawimy reguły.
+
+Czekamy na Wasze uwagi
+
+Poprzednie zmiany opisaliśmy w tekście Portowe Główki i kolejne poprawki. Wszystkie gry znajdziecie w zakładce Dodatki. Jeśli coś nie działa albo wygląda nie tak, napiszcie w komentarzu pod tym tekstem.&lt;/p&gt;
+&lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
       <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;h3&gt;Oscar Garcia przed meczem z Radomiakiem&lt;/h3&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Za nami konferencja prasowa przed meczem 12. kolejki PKO BP Ekstraklasy z Radomiakiem Radom. Sprawdź, co miał do powiedzenia mediom trener Oscar Garcia.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę o g. 17:30 w ramach 12. kolejki PKO BP Ekstraklasy nasza drużyna zmierzy się na Stadionie im. Floriana Krygiera z Radomiakiem Radom. Dla kibiców, którzy wybierają się na mecz, klub przygotował garść informacji organizacyjnych.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Nagranie z szatni Pogoni Szczecin po wygranej w Katowicach zrobiło karierę na Bałkanach. Serbski portal Sportal.rs opisał, jak piłkarze świętowali zwycięstwo przy serbskim przeboju “Koktel ljubavi” Nedeljka Bajicia Baji. Za muzykę w szatni ma według portalu odpowiada Filip Čuić.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W związku z odbywającym się 24 października 2026 roku o g. 17.30 meczem Ekstraklasy Pogoń Szczecin – Radomiak Radom, tego dnia uruchomiona zostanie dodatkowa komunikacja autobusowa i tramwajowa.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Dobre wyniki w ostatnich tygodniach spowodowały, że sporo jest o Pogoni w mediach. Trener Pogoni Szczecin Óscar García był gościem programu “Football Office” w Canal+ Sport. Mówił o rozwoju drużyny, ekstraklasie, dalekich podróżach na mecze wyjazdowe i o tym, jak spędza czas w Szczecinie.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Alex Haditaghi ogłosił decyzje po dyskusji z kibicami o nowych tradycjach w Pogoni Szczecin. Od 1 stycznia 2027 roku zastrzeżone numery koszulek wrócą do użytku. Klub przygotuje plan upamiętnienia legend. Hymn Polski nie będzie odtwarzany przed każdym meczem domowym.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Przed nami kolejny weekend pełen piłkarskich emocji z udziałem młodzieżowych zespołów Pogoni Szczecin. W sobotę na boiskach rywali zagrają Pogoń II Szczecin oraz juniorzy młodsi. Niedziela upłynie natomiast pod znakiem domowych spotkań zespołów U19 i U15.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Paweł Stolarski wrócił do czasów gry w Pogoni Szczecin. W rozmowie z Tomaszem Ćwiąkałą były obrońca Portowców przyznał, że nie rozumie, dlaczego klub, który tak bardzo zabiegał o jego transfer, dawał mu potem tak mało szans. Mówił też o rywalizacji z Jakubem Bartkowskim i Linusem Wahlqvistem oraz o braku szczerej rozmowy przed odejściem.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W sobotę (24 października, godz. 12:00) rezerwy Pogoni Szczecin zagrają na wyjeździe z Chemikiem Police w 11. kolejce IV ligi. Lider tabeli zmierzy się z drużyną z dolnej części stawki.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Maciej Wojciechowski w rozmowie z “Przeglądem Sportowym Onet” opowiedział o drodze do podstawowego składu Pogoni Szczecin. 19-letni pomocnik mówił o przełomie po pierwszej kolejce, odrzuceniu w akademii Lecha Poznań i o tym, co w drużynie zmienił Óscar García.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Trener Radomiaka Radom John Carver zapowiada, że jego zespół przyjedzie w sobotę do Szczecina, żeby grać swoją piłkę. Na konferencji prasowej przed meczem 12. kolejki ekstraklasy Anglik mówił o atmosferze po czterech porażkach z rzędu, rozstaniu z dwoma asystentami i celach do końca rundy.&lt;/p&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Przy okazji meczu z Radomiakiem Radom na Twardowskiego będzie tradycyjnie czekało na Was kilka dodatkowych atrakcji. W "Rodzinnym Porcie Kibica" będziecie mogli się bawić już od g. 15:00!&lt;/p&gt;
+&lt;body&gt;&lt;div class="text-inner"&gt;
+&lt;h3&gt;Granatowo-Bordowe Linie, nowe tabele i teczki. Co nowego na PogonSportNet.pl&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;W dziale Dodatki pojawiła się druga gra, w którą zagracie online z innymi kibicami - Granatowo-Bordowe Linie. Odświeżyliśmy też tabele i terminarze wszystkich trzech rozgrywek, a archiwum newsów dostało teczki tematyczne. Pomysł na nie podsunął jeden z czytelników.
+
+Granatowo-Bordowe Linie - piłkarzyki na kartce w nowym wydaniu
+
+Kto na lekcjach grał w piłkarzyki na kartce w kratkę, ten zna zasady. Gra jest dostępna pod adresem pogonsportnet.pl/granatowo-bordowe-linie, a także z kafelka w menu Dodatki.
+
+Piłka startuje na środku boiska 10 na 12 kratek. W swoim ruchu przesuwacie ją o jedną kratkę - w pionie, poziomie albo po skosie - a za piłką zostaje linia w Waszym kolorze. Nie można iść wzdłuż linii boiska ani po odcinku, który już jest narysowany. Jeśli piłka zatrzyma się na punkcie, przez który przechodzi już linia, albo na brzegu boiska, następuje odbicie i gracie dalej. Wygrywa ten, kto wbije piłkę do bramki rywala. Gol samobójczy oznacza porażkę, podobnie jak zablokowanie się bez żadnego dozwolonego ruchu.
+
+Do wyboru są dwa tryby:
+
+Online - przycisk “Szukaj rywala” łączy z kibicem, który akurat czeka na mecz. Każdy ma 3 minuty na wszystkie swoje ruchy. “Wyślij link koledze” tworzy zaproszenie na mecz z 1, 3 lub 5 minutami na gracza. Kolega wchodzi w link albo wpisuje 4-znakowy kod.
+Trening z komputerem - trzy poziomy trudności: łatwy, średni i trudny. Przed partią wybieracie, kto zaczyna.
+
+Mecz online liczy nasz serwer, więc ruchy i czas są takie same u obu graczy. Jeśli ktoś straci połączenie, gra czeka na niego 30 sekund, a potem przyznaje walkower. Po końcowym gwizdku można od razu zagrać rewanż. Gra działa na komputerach i telefonach, także w trybie pełnoekranowym. Na komputerze można grać myszką albo klawiszami numerycznymi.
+
+Tabele i terminarze w nowej odsłonie
+
+Nowy wygląd dostały tabele i terminarze Ekstraklasy, IV ligi i Ekstraligi kobiet. Dane, jak dotąd, aktualizują się automatycznie.
+
+W tabelach wiersz Pogoni jest wyróżniony, a obok herbów doszły kolumny z bilansem bramek i formą z ostatnich meczów. W Ekstraklasie kolorami zaznaczyliśmy miejsca premiowane grą w europejskich pucharach i strefę spadkową.
+
+W terminarzach (Ekstraklasa, IV liga, Ekstraliga kobiet) od razu widać bieżącą kolejkę. Mecze są pogrupowane według dni - jeśli dwa spotkania są w piątek, a cztery w sobotę, każdy dzień ma swój nagłówek. Między kolejkami przełączacie się jednym kliknięciem, a przycisk “Tylko mecze Pogoni” pokazuje cały terminarz naszej drużyny.
+
+Teczki - archiwum według tematów
+
+Na stronie Aktualności pojawił się filtr, a w menu Aktualności nowa kolumna “Teczki”. Teczka zbiera newsy o jednej sprawie. Na start jest ich jedenaście:
+
+Właściciel i finanse
+Zarząd i organizacja
+Sponsorzy i partnerzy
+Spory i roszczenia
+Stadion i infrastruktura
+Akademia i rezerwy
+Transfery i kadra
+Trener i sztab
+Pogoń kobiet
+Kibice i bilety
+Podsumowania i analizy
+
+Teksty trafiają do teczek same, na podstawie tytułu i leadu - bez ręcznego oznaczania. Nowy news pojawia się w swojej teczce kilkanaście minut po publikacji. Do teczek nie trafiają artykuły sponsorowane ani teksty bukmacherskie.
+
+W archiwum można też szukać po słowie, wybrać rodzaj materiału (wywiady, analizy i podsumowania, publicystyka) albo rok. Przełącznik “Tylko ważne” zostawia najchętniej czytane teksty z danej teczki i roku oraz najpopularniejsze wywiady. W artykule pod datą widać, do której teczki należy tekst, a pod treścią ramkę “Z teczki” z czterema powiązanymi newsami. Wszystkie teczki znajdziecie w jednym miejscu.
+
+Automat czasem się pomyli. Jeśli zauważycie tekst w niewłaściwej teczce, dajcie znać w komentarzu - poprawimy reguły.
+
+Czekamy na Wasze uwagi
+
+Poprzednie zmiany opisaliśmy w tekście Portowe Główki i kolejne poprawki. Wszystkie gry znajdziecie w zakładce Dodatki. Jeśli coś nie działa albo wygląda nie tak, napiszcie w komentarzu pod tym tekstem.&lt;/p&gt;
+&lt;/div&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content:encoded>
       <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/4/</guid>
@@ -824,48 +880,21 @@ Poprzednie zmiany opisaliśmy w tekście Portowe Główki i kolejne poprawki. Ws
     </item>
     <item>
       <title>Aktualności</title>
-      <link>https://pogonsportnet.pl/aktualnosci/2279/</link>
+      <link>https://pogonsportnet.pl/aktualnosci/2280/</link>
       <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;RELACJA LIVE: Pogoń Szczecin - Werder Brema&lt;/h3&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;O godzinie 18:00 na stadionie im. Floriana Krygiera rozpocznie się spotkanie sparingowe pomiędzy Pogonią Szczecin i zespołem niemieckiej Bundesligi - Werderem Brema. Dla Portowców będzie to przedostatni testmecz p&lt;/p&gt;
+&lt;h3&gt;Ostatnia możliwość wygrania biletów na mecz z Werderem!&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Czas na ostatni konkurs w którym będzie można wygrać po dwa bilety na mecz sparingowy Pogoni Szczecin z Werderem Brema. Będzie to z pewnością jedno z najciekawszych sportowych wydarzeń lata w naszym regionie! Na W&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</description>
       <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/img/og_image.jpg" alt="Aktualności" /&gt;&lt;/p&gt;&lt;html&gt;
 &lt;body&gt;
-&lt;h3&gt;RELACJA LIVE: Pogoń Szczecin - Werder Brema&lt;/h3&gt;
-&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;O godzinie 18:00 na stadionie im. Floriana Krygiera rozpocznie się spotkanie sparingowe pomiędzy Pogonią Szczecin i zespołem niemieckiej Bundesligi - Werderem Brema. Dla Portowców będzie to przedostatni testmecz p&lt;/p&gt;
+&lt;h3&gt;Ostatnia możliwość wygrania biletów na mecz z Werderem!&lt;/h3&gt;
+&lt;p class="max-linie-3 equal-height" data-equal-height="p-inner" data-order-equal-height="2"&gt;Czas na ostatni konkurs w którym będzie można wygrać po dwa bilety na mecz sparingowy Pogoni Szczecin z Werderem Brema. Będzie to z pewnością jedno z najciekawszych sportowych wydarzeń lata w naszym regionie! Na W&lt;/p&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content:encoded>
-      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/2279/</guid>
+      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/2280/</guid>
       <enclosure url="https://pogonsportnet.pl/img/og_image.jpg" length="0" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Grosicki zrobił różnicę!</title>
-      <link>https://pogonsportnet.pl/aktualnosci/grosicki-zrobil-roznice/</link>
-      <description>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/dcc15f77-0924-43b5-9db3-4706efc9f4bb/dsc9861-jpg.webp" alt="Grosicki zrobił różnicę!" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Pogoń Szczecin wygrała w domowym sobotnim spotkaniu 12. kolejki PKO Bank Polski Ekstraklasy z Radomiakiem Radom. Dla "Portowców" bramki zdobyli Dimítris Keramítsis, Alessandro Riccio i wprowadzony z ławki Kamil Grosicki. Gole dla gości strzelili Roberto Alves z rzutu karnego, Chrístos Dónis i Jan Grzesik. Tym samym gospodarze notują serię dziesięciu ligowych meczów bez porażki.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;13. kolejka PKO BP Ekstraklasy&lt;/strong&gt;&lt;br/&gt;&lt;strong&gt;Pogoń Szczecin - Radomiak Radom 4:3 (2:2)&lt;/strong&gt;&lt;br/&gt;Dimítris Keramítsis 17, Alessandro Riccio 45, Kamil Grosicki 49, 55 - Roberto Alves 10 (k), Chrístos Dónis 25, Jan Grzesik 74&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Pogoń:&lt;/strong&gt; 77. Valentin Cojocaru - 4. Alessandro Riccio, 13. Dimítris Keramítsis, 41. Attila Szalai, 23. Benjamin Mendy (38, 29. Lukas Willen) - 21. Darko Čurlinov (78, 47. Natan Ława), 16. Patryk Dziczek, 6. Jan Biegański (46, 11. Kamil Grosicki), 18. Paul Mukairu (78, 20. Isaiah Eichie) - 35. Maciej Wojciechowski (64, 3. Kellyn Acosta), 22. Jordi Sánchez.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Radomiak:&lt;/strong&gt; 1. Filip Majchrowicz - 24. Zié Ouattara, 14. Steve Kingué, 72. Filip Koperski, 97. Conrado (90, 15. Abdoul Tapsoba) - 13. Jan Grzesik, 10. Roberto Alves, 77. Chrístos Dónis (73, 8. Ibrahima Camará), 27. Rafał Wolski (60, 82. Luquinhas), 90. Ronaldo Lumungo (73, 7. Ché Nunnely) - 80. Guilherme Luiz (60, 11. Fernand Gouré).&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</description>
-      <content:encoded>&lt;p&gt;&lt;img src="https://pogonsportnet.pl/storage/dcc15f77-0924-43b5-9db3-4706efc9f4bb/dsc9861-jpg.webp" alt="Grosicki zrobił różnicę!" /&gt;&lt;/p&gt;&lt;html&gt;
-&lt;body&gt;
-&lt;p&gt;
-&lt;strong&gt;Pogoń Szczecin wygrała w domowym sobotnim spotkaniu 12. kolejki PKO Bank Polski Ekstraklasy z Radomiakiem Radom. Dla "Portowców" bramki zdobyli Dimítris Keramítsis, Alessandro Riccio i wprowadzony z ławki Kamil Grosicki. Gole dla gości strzelili Roberto Alves z rzutu karnego, Chrístos Dónis i Jan Grzesik. Tym samym gospodarze notują serię dziesięciu ligowych meczów bez porażki.&lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;13. kolejka PKO BP Ekstraklasy&lt;/strong&gt;&lt;br/&gt;&lt;strong&gt;Pogoń Szczecin - Radomiak Radom 4:3 (2:2)&lt;/strong&gt;&lt;br/&gt;Dimítris Keramítsis 17, Alessandro Riccio 45, Kamil Grosicki 49, 55 - Roberto Alves 10 (k), Chrístos Dónis 25, Jan Grzesik 74&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Pogoń:&lt;/strong&gt; 77. Valentin Cojocaru - 4. Alessandro Riccio, 13. Dimítris Keramítsis, 41. Attila Szalai, 23. Benjamin Mendy (38, 29. Lukas Willen) - 21. Darko Čurlinov (78, 47. Natan Ława), 16. Patryk Dziczek, 6. Jan Biegański (46, 11. Kamil Grosicki), 18. Paul Mukairu (78, 20. Isaiah Eichie) - 35. Maciej Wojciechowski (64, 3. Kellyn Acosta), 22. Jordi Sánchez.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Radomiak:&lt;/strong&gt; 1. Filip Majchrowicz - 24. Zié Ouattara, 14. Steve Kingué, 72. Filip Koperski, 97. Conrado (90, 15. Abdoul Tapsoba) - 13. Jan Grzesik, 10. Roberto Alves, 77. Chrístos Dónis (73, 8. Ibrahima Camará), 27. Rafał Wolski (60, 82. Luquinhas), 90. Ronaldo Lumungo (73, 7. Ché Nunnely) - 80. Guilherme Luiz (60, 11. Fernand Gouré).&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;</content:encoded>
-      <guid isPermaLink="false">https://pogonsportnet.pl/aktualnosci/grosicki-zrobil-roznice/</guid>
-      <enclosure url="https://pogonsportnet.pl/storage/dcc15f77-0924-43b5-9db3-4706efc9f4bb/dsc9861-jpg.webp" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 24 Oct 2026 20:01:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
